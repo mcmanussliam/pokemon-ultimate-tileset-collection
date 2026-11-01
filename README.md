@@ -6,6 +6,22 @@ An **unofficial, readability-focused fork of the [original Pokémon Ultimate Til
 >
 > This repository is **just a fork/reorganisation for easier reading, browsing and finding tilesets**. It is **not** the original catalogue, an official continuation, or a claim of authorship over the sheet or any artist's work. Please visit the original sheet for corrections, updates and the original curators' context.
 
+## Browse the collection
+
+**711 linked tileset entries**, imported from the seven tabs of the source spreadsheet, with one Markdown README per entry:
+
+| Original sheet category | Entries |
+| --- | ---: |
+| [Outdoor Tilesets](outdoor-tilesets/) | 382 |
+| [Indoor Tilesets](indoor-tilesets/) | 90 |
+| [Indoor + Outdoor Tilesets](indoor-outdoor-tilesets/) | 28 |
+| [Misc Tilesets](misc-tilesets/) | 80 |
+| [Animated Tilesets](animated-tilesets/) | 62 |
+| [Auto Tilesets](auto-tilesets/) | 14 |
+| [In + Out + Misc + etc.](in-out-misc-etc/) | 55 |
+
+The full searchable metadata is in [`_catalog/catalog.json`](_catalog/catalog.json). Use [`scripts/import_sheet.py`](scripts/import_sheet.py) or the [GitHub Actions sync workflow](.github/workflows/sync-catalog.yml) to refresh the generated pages from the public sheet.
+
 ## How it's organised
 
 Entries are grouped into kebab-case folders reflecting the original spreadsheet tabs, then a kebab-case folder for each tileset:
