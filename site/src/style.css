@@ -15,8 +15,8 @@ a:hover { text-decoration: underline; }
 button { cursor: pointer; }
 :focus-visible { outline: 2px solid #365fa2; outline-offset: 2px; }
 .shell { max-width: 1360px; margin: 0 auto; padding: 0 36px; }
-.banner img { display: block; width: 100%; height: auto; max-height: 420px; object-fit: contain; object-position: center; }
-.intro { display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 26px 0; border-bottom: 1px solid #e6e6e6; }
+.banner img { display: block; width: 100%; height: auto; max-height: 370px; object-fit: contain; object-position: center; }
+.intro { display: flex; align-items: center; justify-content: space-between; gap: 32px; margin-top: 12px; padding: 26px 0; border-bottom: 1px solid #e6e6e6; }
 .intro p { flex: 1 1 auto; max-width: 700px; margin: 0; font-size: 14px; color: #666; line-height: 1.7; }
 .intro-links { display: flex; justify-content: flex-end; flex: 0 0 auto; gap: 24px; margin-left: auto; white-space: nowrap; font-size: 13px; }
 .browser { display: grid; grid-template-columns: 196px minmax(0, 1fr); gap: 40px; padding: 32px 0 80px; }
@@ -83,7 +83,7 @@ footer a { color: #555; }
   .search { flex-basis: 100%; }
 }
 @media (max-width: 650px) {
-  .banner img { max-height: 300px; }
+  .banner img { max-height: 260px; }
   .shell { padding: 0 18px; }
   .intro { padding: 20px 0; }
   .intro-links { width: 100%; gap: 20px; justify-content: flex-end; font-size: 12px; }
