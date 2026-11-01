@@ -12,8 +12,6 @@
   "sheet_row": 207,
   "id": "https-www-deviantart-com-foxowl23-art-gen-3-desert-tiles-not-very-good-877456392",
   "subcategory": "desert",
-  "folder": "outdoor-tilesets/desert/gen-3-desert-tiles-foxowl23",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/desert/gen-3-desert-tiles-foxowl23",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 13,
   "id": "https-eeveeexpo-com-resources-242",
   "subcategory": "alistair-tileset",
-  "folder": "in-out-misc-etc/alistair-tileset/tiles-alistair-s-tileset-aldo",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/alistair-tileset/tiles-alistair-s-tileset-aldo",
   "_generated_by": "scripts/sync.ts"
 }

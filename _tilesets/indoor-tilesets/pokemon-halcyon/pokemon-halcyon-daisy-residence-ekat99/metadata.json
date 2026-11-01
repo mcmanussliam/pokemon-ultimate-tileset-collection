@@ -12,8 +12,6 @@
   "sheet_row": 20,
   "id": "https-www-deviantart-com-ekat99-art-pokemon-halcyon-daisy-residence-926209751",
   "subcategory": "pokemon-halcyon",
-  "folder": "indoor-tilesets/pokemon-halcyon/pokemon-halcyon-daisy-residence-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/pokemon-halcyon/pokemon-halcyon-daisy-residence-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 46,
   "id": "https-www-deviantart-com-magiscarf-art-more-freebies-453585352",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/more-freebies-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/more-freebies-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

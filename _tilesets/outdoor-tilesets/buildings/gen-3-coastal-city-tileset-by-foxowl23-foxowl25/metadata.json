@@ -12,8 +12,6 @@
   "sheet_row": 50,
   "id": "https-www-deviantart-com-foxowl23-art-gen-3-coastal-city-tileset-877455638",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/gen-3-coastal-city-tileset-by-foxowl23-foxowl25",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/gen-3-coastal-city-tileset-by-foxowl23-foxowl25",
   "_generated_by": "scripts/sync.ts"
 }

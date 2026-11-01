@@ -4,12 +4,6 @@
 > An entry in the [original Pokémon Ultimate Tileset Collection spreadsheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
 > This repository is an unofficial **readability fork**, not the creator of the artwork.
 
-## Preview
-
-No verified image preview is available here yet. [View the artwork at its original source](https://www.reddit.com/r/PokemonROMhacks/comments/1de5m2z/release_leob0505_orasinspired_custom_tilesets_for/).
-
-The image is not copied to GitHub without confirmation that redistribution is allowed.
-
 ## Details
 
 - **Creator / submitter:** u/leob0505

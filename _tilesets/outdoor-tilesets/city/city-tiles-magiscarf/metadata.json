@@ -12,8 +12,6 @@
   "sheet_row": 149,
   "id": "https-www-deviantart-com-magiscarf-art-city-tiles-702589704",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/city-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/city-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 60,
   "id": "https-www-spriters-resource-com-game-boy-advance-pokemonrubysapphire-sheet-23876",
   "subcategory": "pokemon-ruby-sapphire",
-  "folder": "animated-tilesets/pokemon-ruby-sapphire/game-boy-advance-pokemon-ruby-sapphire-animated-tiles-axmarrone",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/pokemon-ruby-sapphire/game-boy-advance-pokemon-ruby-sapphire-animated-tiles-axmarrone",
   "_generated_by": "scripts/sync.ts"
 }

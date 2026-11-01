@@ -12,8 +12,6 @@
   "sheet_row": 27,
   "id": "-www-deviantart-com-slashandroses-art-bw-water-autotile-translucent-rayquaza-dot-550779918",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/bw-water-autotile-translucent-rayquaza-dot-slashandrose",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/bw-water-autotile-translucent-rayquaza-dot-slashandrose",
   "_generated_by": "scripts/sync.ts"
 }

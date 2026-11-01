@@ -12,8 +12,6 @@
   "sheet_row": 12,
   "id": "https-www-deviantart-com-magiscarf-art-torii-678087798",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/torii-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/torii-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

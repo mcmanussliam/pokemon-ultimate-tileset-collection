@@ -12,8 +12,6 @@
   "sheet_row": 204,
   "id": "https-www-deviantart-com-ultimospriter-art-starter-kit-tileset-279914480",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/starter-kit-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/starter-kit-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

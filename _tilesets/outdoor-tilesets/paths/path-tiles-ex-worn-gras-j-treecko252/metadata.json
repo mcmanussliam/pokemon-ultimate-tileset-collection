@@ -12,8 +12,6 @@
   "sheet_row": 225,
   "id": "https-www-deviantart-com-j-treecko252-art-path-tiles-ex-worn-grass-884688523",
   "subcategory": "paths",
-  "folder": "outdoor-tilesets/paths/path-tiles-ex-worn-gras-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/paths/path-tiles-ex-worn-gras-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

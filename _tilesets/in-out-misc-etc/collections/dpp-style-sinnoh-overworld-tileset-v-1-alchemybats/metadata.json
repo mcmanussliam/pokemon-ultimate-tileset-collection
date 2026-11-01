@@ -12,8 +12,6 @@
   "sheet_row": 57,
   "id": "https-www-deviantart-com-alchemybats-art-dpp-style-sinnoh-overworld-tileset-v-1-1205547742",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/dpp-style-sinnoh-overworld-tileset-v-1-alchemybats",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/dpp-style-sinnoh-overworld-tileset-v-1-alchemybats",
   "_generated_by": "scripts/sync.ts"
 }

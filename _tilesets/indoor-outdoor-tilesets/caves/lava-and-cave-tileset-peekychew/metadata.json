@@ -12,8 +12,6 @@
   "sheet_row": 23,
   "id": "https-www-deviantart-com-peekychew-art-lava-and-cave-tileset-836741864",
   "subcategory": "caves",
-  "folder": "indoor-outdoor-tilesets/caves/lava-and-cave-tileset-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/caves/lava-and-cave-tileset-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

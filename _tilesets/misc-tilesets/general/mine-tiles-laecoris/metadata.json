@@ -12,8 +12,6 @@
   "sheet_row": 64,
   "id": "https-www-deviantart-com-laecoris-art-mine-tiles-842880078",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/mine-tiles-laecoris",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/mine-tiles-laecoris",
   "_generated_by": "scripts/sync.ts"
 }

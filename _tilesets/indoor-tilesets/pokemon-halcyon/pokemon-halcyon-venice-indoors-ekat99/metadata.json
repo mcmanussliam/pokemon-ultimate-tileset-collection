@@ -12,8 +12,6 @@
   "sheet_row": 14,
   "id": "https-www-deviantart-com-ekat99-art-pokemon-halcyon-venice-indoors-926210390",
   "subcategory": "pokemon-halcyon",
-  "folder": "indoor-tilesets/pokemon-halcyon/pokemon-halcyon-venice-indoors-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/pokemon-halcyon/pokemon-halcyon-venice-indoors-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

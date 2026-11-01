@@ -12,8 +12,6 @@
   "sheet_row": 44,
   "id": "https-www-spriters-resource-com-game-boy-gbc-pokemoncrystal-sheet-9213",
   "subcategory": "pokemon-crystal",
-  "folder": "in-out-misc-etc/pokemon-crystal/game-boy-gbc-pokemon-crystal-tileset-morning-frenchorange",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-crystal/game-boy-gbc-pokemon-crystal-tileset-morning-frenchorange",
   "_generated_by": "scripts/sync.ts"
 }

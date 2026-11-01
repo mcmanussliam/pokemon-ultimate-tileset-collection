@@ -12,8 +12,6 @@
   "sheet_row": 54,
   "id": "https-eeveeexpo-com-resources-607",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/tiles-big-flora-pack-anon-alpaca",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/tiles-big-flora-pack-anon-alpaca",
   "_generated_by": "scripts/sync.ts"
 }

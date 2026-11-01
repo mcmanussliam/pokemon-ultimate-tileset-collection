@@ -12,8 +12,6 @@
   "sheet_row": 363,
   "id": "https-www-deviantart-com-zeo254-art-public-tiles-by-zeo-382997330",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/public-tiles-by-zeo-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/public-tiles-by-zeo-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

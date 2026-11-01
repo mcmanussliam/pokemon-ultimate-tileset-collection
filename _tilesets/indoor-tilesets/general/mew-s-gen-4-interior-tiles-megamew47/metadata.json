@@ -12,8 +12,6 @@
   "sheet_row": 63,
   "id": "https-eeveeexpo-com-resources-626",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/mew-s-gen-4-interior-tiles-megamew47",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/mew-s-gen-4-interior-tiles-megamew47",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 170,
   "id": "https-www-deviantart-com-ekat99-art-ekat-s-mega-gen-3-set-875478881",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/ekat-s-mega-gen-3-set-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/ekat-s-mega-gen-3-set-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

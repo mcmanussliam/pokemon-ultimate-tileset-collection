@@ -12,8 +12,6 @@
   "sheet_row": 32,
   "id": "https-www-deviantart-com-mikejaj-art-neo-sinnoh-pokemon-center-843698077",
   "subcategory": "buildings",
-  "folder": "animated-tilesets/buildings/neo-sinnoh-pokemon-center-mikejaj",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/buildings/neo-sinnoh-pokemon-center-mikejaj",
   "_generated_by": "scripts/sync.ts"
 }

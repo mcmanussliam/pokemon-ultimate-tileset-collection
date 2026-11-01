@@ -12,8 +12,6 @@
   "sheet_row": 326,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day15-victory-ruins-651697999",
   "subcategory": "ruins",
-  "folder": "outdoor-tilesets/ruins/dot-day15-victory-ruins-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/ruins/dot-day15-victory-ruins-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

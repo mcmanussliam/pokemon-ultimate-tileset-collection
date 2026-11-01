@@ -12,8 +12,6 @@
   "sheet_row": 9,
   "id": "https-www-deviantart-com-ekat99-art-patio-objects-877498809",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/patio-objects-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/patio-objects-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

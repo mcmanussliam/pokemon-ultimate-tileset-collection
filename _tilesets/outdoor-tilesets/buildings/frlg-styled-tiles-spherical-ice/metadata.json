@@ -12,8 +12,6 @@
   "sheet_row": 81,
   "id": "https-www-deviantart-com-spherical-ice-art-frlg-styled-tiles-705658259",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/frlg-styled-tiles-spherical-ice",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/frlg-styled-tiles-spherical-ice",
   "_generated_by": "scripts/sync.ts"
 }

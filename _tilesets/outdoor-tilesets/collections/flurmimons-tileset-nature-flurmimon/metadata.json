@@ -12,8 +12,6 @@
   "sheet_row": 206,
   "id": "https-www-deviantart-com-flurmimon-art-flurmimons-tileset-nature-580160241",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/flurmimons-tileset-nature-flurmimon",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/flurmimons-tileset-nature-flurmimon",
   "_generated_by": "scripts/sync.ts"
 }

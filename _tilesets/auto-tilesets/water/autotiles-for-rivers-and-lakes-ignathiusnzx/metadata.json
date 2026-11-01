@@ -12,8 +12,6 @@
   "sheet_row": 8,
   "id": "https-eeveeexpo-com-resources-1604",
   "subcategory": "water",
-  "folder": "auto-tilesets/water/autotiles-for-rivers-and-lakes-ignathiusnzx",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/water/autotiles-for-rivers-and-lakes-ignathiusnzx",
   "_generated_by": "scripts/sync.ts"
 }

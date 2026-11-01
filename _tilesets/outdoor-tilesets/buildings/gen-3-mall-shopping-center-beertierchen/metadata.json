@@ -12,8 +12,6 @@
   "sheet_row": 90,
   "id": "https-www-deviantart-com-beertierchen-art-gen-3-mall-shopping-center-1038271081",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/gen-3-mall-shopping-center-beertierchen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/gen-3-mall-shopping-center-beertierchen",
   "_generated_by": "scripts/sync.ts"
 }

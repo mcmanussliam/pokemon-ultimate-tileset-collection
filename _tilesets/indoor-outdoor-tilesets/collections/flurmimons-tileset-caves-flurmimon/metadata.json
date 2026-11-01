@@ -12,8 +12,6 @@
   "sheet_row": 33,
   "id": "https-www-deviantart-com-flurmimon-art-flurmimons-tileset-caves-631107130",
   "subcategory": "collections",
-  "folder": "indoor-outdoor-tilesets/collections/flurmimons-tileset-caves-flurmimon",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/collections/flurmimons-tileset-caves-flurmimon",
   "_generated_by": "scripts/sync.ts"
 }

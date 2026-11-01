@@ -12,8 +12,6 @@
   "sheet_row": 182,
   "id": "https-www-deviantart-com-chaoticcherrycake-art-free-tileset-16x16-816674437",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/free-tileset-16x16-chaoticcherrycake",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/free-tileset-16x16-chaoticcherrycake",
   "_generated_by": "scripts/sync.ts"
 }

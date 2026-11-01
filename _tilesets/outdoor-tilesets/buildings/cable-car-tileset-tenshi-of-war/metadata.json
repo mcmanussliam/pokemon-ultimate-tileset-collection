@@ -12,8 +12,6 @@
   "sheet_row": 105,
   "id": "https-eeveeexpo-com-resources-706",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/cable-car-tileset-tenshi-of-war",
-  "preview_url": "",
-  "preview_source": "Original creator page: Open Graph image",
+  "folder": "_tilesets/outdoor-tilesets/buildings/cable-car-tileset-tenshi-of-war",
   "_generated_by": "scripts/sync.ts"
 }

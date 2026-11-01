@@ -12,8 +12,6 @@
   "sheet_row": 302,
   "id": "https-www-deviantart-com-j-treecko252-art-rock-tiles-ver-01-884759152",
   "subcategory": "rocks",
-  "folder": "outdoor-tilesets/rocks/rock-tiles-ver-01-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/rocks/rock-tiles-ver-01-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

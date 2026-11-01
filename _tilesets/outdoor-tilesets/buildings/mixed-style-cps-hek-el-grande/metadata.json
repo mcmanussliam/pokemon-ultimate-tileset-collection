@@ -12,8 +12,6 @@
   "sheet_row": 133,
   "id": "https-www-deviantart-com-hek-el-grande-art-mixed-style-cp-s-292625820",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/mixed-style-cps-hek-el-grande",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/mixed-style-cps-hek-el-grande",
   "_generated_by": "scripts/sync.ts"
 }

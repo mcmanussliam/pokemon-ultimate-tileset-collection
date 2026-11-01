@@ -12,8 +12,6 @@
   "sheet_row": 101,
   "id": "https-www-deviantart-com-zeo254-art-tileset-gba-give-credits-336773692",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/tileset-gba-give-credits-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/tileset-gba-give-credits-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

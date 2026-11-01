@@ -12,8 +12,6 @@
   "sheet_row": 287,
   "id": "https-www-deviantart-com-phyromatical-art-shining-grove-tileset-mix-555091811",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/shining-grove-tileset-mix-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/shining-grove-tileset-mix-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

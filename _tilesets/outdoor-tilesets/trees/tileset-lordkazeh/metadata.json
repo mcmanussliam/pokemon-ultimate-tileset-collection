@@ -12,8 +12,6 @@
   "sheet_row": 379,
   "id": "https-www-deviantart-com-lordkazeh-art-tileset-741725356",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/tileset-lordkazeh",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/tileset-lordkazeh",
   "_generated_by": "scripts/sync.ts"
 }

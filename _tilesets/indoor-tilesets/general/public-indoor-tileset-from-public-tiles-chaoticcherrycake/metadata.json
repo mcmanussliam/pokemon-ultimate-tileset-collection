@@ -12,8 +12,6 @@
   "sheet_row": 91,
   "id": "www-deviantart-com-chaoticcherrycake-art-public-indoor-tileset-from-public-tiles-483814875",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/public-indoor-tileset-from-public-tiles-chaoticcherrycake",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/public-indoor-tileset-from-public-tiles-chaoticcherrycake",
   "_generated_by": "scripts/sync.ts"
 }

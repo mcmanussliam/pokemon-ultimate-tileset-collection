@@ -12,8 +12,6 @@
   "sheet_row": 83,
   "id": "https-www-deviantart-com-princess-phoenix-art-virtual-tournament-room-tileset-656505643",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/virtual-tournament-room-tileset-princess-phoenix",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/virtual-tournament-room-tileset-princess-phoenix",
   "_generated_by": "scripts/sync.ts"
 }

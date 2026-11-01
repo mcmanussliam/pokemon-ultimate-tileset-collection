@@ -12,8 +12,6 @@
   "sheet_row": 327,
   "id": "https-www-deviantart-com-ekat99-art-clouds-881378256",
   "subcategory": "sky",
-  "folder": "outdoor-tilesets/sky/clouds-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/sky/clouds-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

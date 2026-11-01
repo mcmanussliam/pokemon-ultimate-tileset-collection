@@ -12,8 +12,6 @@
   "sheet_row": 29,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day19-mixed-cave-tileset-652113677",
   "subcategory": "caves",
-  "folder": "indoor-outdoor-tilesets/caves/dot-day19-mixed-cave-tileset-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/caves/dot-day19-mixed-cave-tileset-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

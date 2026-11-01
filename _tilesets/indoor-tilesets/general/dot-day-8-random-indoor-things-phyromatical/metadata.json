@@ -12,8 +12,6 @@
   "sheet_row": 68,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day8-random-indoor-things-650149410",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/dot-day-8-random-indoor-things-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/dot-day-8-random-indoor-things-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

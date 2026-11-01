@@ -12,8 +12,6 @@
   "sheet_row": 342,
   "id": "https-www-deviantart-com-j-treecko252-art-dead-tree-tiles-ver-01-904054467",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/dead-tree-tiles-ver-01-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/dead-tree-tiles-ver-01-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

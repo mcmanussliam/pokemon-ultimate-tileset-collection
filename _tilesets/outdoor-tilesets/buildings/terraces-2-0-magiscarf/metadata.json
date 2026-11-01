@@ -12,8 +12,6 @@
   "sheet_row": 47,
   "id": "https-www-deviantart-com-magiscarf-art-terraces-2-0-403427972",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/terraces-2-0-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/terraces-2-0-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

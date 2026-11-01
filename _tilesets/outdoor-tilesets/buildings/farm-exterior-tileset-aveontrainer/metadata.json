@@ -12,8 +12,6 @@
   "sheet_row": 76,
   "id": "https-www-deviantart-com-aveontrainer-art-farm-exterior-tileset-878600837",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/farm-exterior-tileset-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/farm-exterior-tileset-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

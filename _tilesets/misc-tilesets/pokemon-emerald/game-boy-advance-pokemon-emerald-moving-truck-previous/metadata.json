@@ -12,8 +12,6 @@
   "sheet_row": 13,
   "id": "https-www-spriters-resource-com-game-boy-advance-pokemonemerald-sheet-19777",
   "subcategory": "pokemon-emerald",
-  "folder": "misc-tilesets/pokemon-emerald/game-boy-advance-pokemon-emerald-moving-truck-previous",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/pokemon-emerald/game-boy-advance-pokemon-emerald-moving-truck-previous",
   "_generated_by": "scripts/sync.ts"
 }

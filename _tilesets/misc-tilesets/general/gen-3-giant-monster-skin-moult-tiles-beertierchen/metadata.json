@@ -12,8 +12,6 @@
   "sheet_row": 45,
   "id": "https-www-deviantart-com-beertierchen-art-gen-3-giant-monster-skin-moult-tiles-1009070950",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/gen-3-giant-monster-skin-moult-tiles-beertierchen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/gen-3-giant-monster-skin-moult-tiles-beertierchen",
   "_generated_by": "scripts/sync.ts"
 }

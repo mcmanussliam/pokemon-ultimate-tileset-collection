@@ -12,8 +12,6 @@
   "sheet_row": 32,
   "id": "https-eeveeexpo-com-resources-892",
   "subcategory": "psdk",
-  "folder": "in-out-misc-etc/psdk/reunion-graphics-pack-1-elle",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/psdk/reunion-graphics-pack-1-elle",
   "_generated_by": "scripts/sync.ts"
 }

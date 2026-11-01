@@ -12,8 +12,6 @@
   "sheet_row": 41,
   "id": "https-www-deviantart-com-aveontrainer-art-fountain-815632536",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/fountain-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/fountain-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

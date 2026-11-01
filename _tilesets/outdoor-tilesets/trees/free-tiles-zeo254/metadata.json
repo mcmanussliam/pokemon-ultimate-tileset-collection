@@ -12,8 +12,6 @@
   "sheet_row": 361,
   "id": "https-www-deviantart-com-zeo254-art-free-tiles-835307897",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/free-tiles-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/free-tiles-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

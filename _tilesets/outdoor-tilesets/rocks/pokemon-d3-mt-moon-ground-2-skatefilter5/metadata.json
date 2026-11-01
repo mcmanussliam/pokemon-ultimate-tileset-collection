@@ -12,8 +12,6 @@
   "sheet_row": 317,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemon-d3-mt-moon-ground-2-891202462",
   "subcategory": "rocks",
-  "folder": "outdoor-tilesets/rocks/pokemon-d3-mt-moon-ground-2-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/rocks/pokemon-d3-mt-moon-ground-2-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

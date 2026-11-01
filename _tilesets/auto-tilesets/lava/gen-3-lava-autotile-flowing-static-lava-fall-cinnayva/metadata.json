@@ -12,8 +12,6 @@
   "sheet_row": 14,
   "id": "https-eeveeexpo-com-resources-1638",
   "subcategory": "lava",
-  "folder": "auto-tilesets/lava/gen-3-lava-autotile-flowing-static-lava-fall-cinnayva",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/lava/gen-3-lava-autotile-flowing-static-lava-fall-cinnayva",
   "_generated_by": "scripts/sync.ts"
 }

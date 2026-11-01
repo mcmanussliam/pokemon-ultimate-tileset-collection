@@ -12,8 +12,6 @@
   "sheet_row": 21,
   "id": "https-eeveeexpo-com-resources-64",
   "subcategory": "misc",
-  "folder": "indoor-outdoor-tilesets/misc/moon-base-tileset-evan",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/misc/moon-base-tileset-evan",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 54,
   "id": "https-www-deviantart-com-mbcmechachu-favourites-82691804-pokemon-overworld-tiles",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/pokemon-overworld-tiles-mbcmechachu",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/pokemon-overworld-tiles-mbcmechachu",
   "_generated_by": "scripts/sync.ts"
 }

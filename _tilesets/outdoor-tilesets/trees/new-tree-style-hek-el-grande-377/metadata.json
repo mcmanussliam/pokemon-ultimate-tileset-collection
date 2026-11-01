@@ -12,8 +12,6 @@
   "sheet_row": 385,
   "id": "https-www-deviantart-com-hek-el-grande-art-new-tree-style-285272464",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/new-tree-style-hek-el-grande-377",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/new-tree-style-hek-el-grande-377",
   "_generated_by": "scripts/sync.ts"
 }

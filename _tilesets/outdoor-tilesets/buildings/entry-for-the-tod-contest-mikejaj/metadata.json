@@ -12,8 +12,6 @@
   "sheet_row": 104,
   "id": "https-www-deviantart-com-mikejaj-art-entry-for-the-tod-contest-915081439",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/entry-for-the-tod-contest-mikejaj",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/entry-for-the-tod-contest-mikejaj",
   "_generated_by": "scripts/sync.ts"
 }

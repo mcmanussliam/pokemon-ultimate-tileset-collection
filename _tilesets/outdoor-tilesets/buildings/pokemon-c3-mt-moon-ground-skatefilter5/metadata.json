@@ -12,8 +12,6 @@
   "sheet_row": 110,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemon-c3-mt-moon-ground-3-891202454",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemon-c3-mt-moon-ground-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemon-c3-mt-moon-ground-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 159,
   "id": "https-www-deviantart-com-the-red-ex-art-gd-tileset-stadt-boden-grab-435409771",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/gd-tileset-stadt-boden-grab-the-red-ex",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/gd-tileset-stadt-boden-grab-the-red-ex",
   "_generated_by": "scripts/sync.ts"
 }

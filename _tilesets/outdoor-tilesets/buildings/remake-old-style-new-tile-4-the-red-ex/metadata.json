@@ -12,8 +12,6 @@
   "sheet_row": 118,
   "id": "https-www-deviantart-com-the-red-ex-art-remake-old-style-new-tile-4-432892367",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/remake-old-style-new-tile-4-the-red-ex",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/remake-old-style-new-tile-4-the-red-ex",
   "_generated_by": "scripts/sync.ts"
 }

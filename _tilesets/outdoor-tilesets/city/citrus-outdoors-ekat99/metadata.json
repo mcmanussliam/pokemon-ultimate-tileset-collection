@@ -12,8 +12,6 @@
   "sheet_row": 139,
   "id": "https-www-deviantart-com-ekat99-art-citrus-outdoors-1171870788",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/citrus-outdoors-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/citrus-outdoors-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

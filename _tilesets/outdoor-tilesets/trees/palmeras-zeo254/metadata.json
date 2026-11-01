@@ -12,8 +12,6 @@
   "sheet_row": 364,
   "id": "https-www-deviantart-com-zeo254-art-palmeras-361497571",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/palmeras-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/palmeras-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

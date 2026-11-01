@@ -12,8 +12,6 @@
   "sheet_row": 46,
   "id": "https-www-deviantart-com-beertierchen-art-payloader-tiles-1078204095",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/payloader-tiles-beertierchen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/payloader-tiles-beertierchen",
   "_generated_by": "scripts/sync.ts"
 }

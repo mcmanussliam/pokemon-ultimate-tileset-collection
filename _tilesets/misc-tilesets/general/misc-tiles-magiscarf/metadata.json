@@ -12,8 +12,6 @@
   "sheet_row": 11,
   "id": "https-www-deviantart-com-magiscarf-art-misc-tiles-703229080",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/misc-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/misc-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 43,
   "id": "https-www-deviantart-com-pinkscales-da-art-emerald-doors-frlg-conversions-1-1129256193",
   "subcategory": "misc",
-  "folder": "animated-tilesets/misc/emerald-doors-frlg-conversions-1-pinkscales-da",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/misc/emerald-doors-frlg-conversions-1-pinkscales-da",
   "_generated_by": "scripts/sync.ts"
 }

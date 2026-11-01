@@ -12,8 +12,6 @@
   "sheet_row": 20,
   "id": "https-www-deviantart-com-j-treecko252-art-haunted-swamp-shallow-autotile-898197649",
   "subcategory": "swamp",
-  "folder": "auto-tilesets/swamp/haunted-swamp-shallow-autotile-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/swamp/haunted-swamp-shallow-autotile-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

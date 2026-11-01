@@ -12,8 +12,6 @@
   "sheet_row": 373,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemon-safari-plants-mv-628605621",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/pokemon-safari-plants-mv-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/pokemon-safari-plants-mv-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

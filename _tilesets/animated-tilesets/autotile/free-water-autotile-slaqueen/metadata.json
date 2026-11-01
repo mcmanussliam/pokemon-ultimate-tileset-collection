@@ -12,8 +12,6 @@
   "sheet_row": 24,
   "id": "https-www-deviantart-com-slaqueen-art-free-water-autotile-811989710",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/free-water-autotile-slaqueen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/free-water-autotile-slaqueen",
   "_generated_by": "scripts/sync.ts"
 }

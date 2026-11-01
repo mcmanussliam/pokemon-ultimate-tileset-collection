@@ -12,8 +12,6 @@
   "sheet_row": 74,
   "id": "https-www-deviantart-com-aveontrainer-art-pokemon-lab-970372813",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemon-lab-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemon-lab-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

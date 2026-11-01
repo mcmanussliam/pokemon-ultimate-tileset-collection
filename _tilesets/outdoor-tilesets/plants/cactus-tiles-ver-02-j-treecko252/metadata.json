@@ -12,8 +12,6 @@
   "sheet_row": 267,
   "id": "https-www-deviantart-com-j-treecko252-art-cactus-tiles-ver-02-884883122",
   "subcategory": "plants",
-  "folder": "outdoor-tilesets/plants/cactus-tiles-ver-02-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/plants/cactus-tiles-ver-02-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

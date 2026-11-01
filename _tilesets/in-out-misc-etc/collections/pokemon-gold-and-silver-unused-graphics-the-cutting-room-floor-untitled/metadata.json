@@ -12,8 +12,6 @@
   "sheet_row": 56,
   "id": "https-tcrf-net-pok-c3-a9mon-gold-and-silver-unused-graphics",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/pokemon-gold-and-silver-unused-graphics-the-cutting-room-floor-untitled",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/pokemon-gold-and-silver-unused-graphics-the-cutting-room-floor-untitled",
   "_generated_by": "scripts/sync.ts"
 }

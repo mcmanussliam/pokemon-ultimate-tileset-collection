@@ -12,8 +12,6 @@
   "sheet_row": 34,
   "id": "https-www-deviantart-com-hek-el-grande-art-reshiram-and-zekrom-walls-285816665",
   "subcategory": "wall",
-  "folder": "indoor-outdoor-tilesets/wall/reshiram-and-zekrom-walls-hek-el-grande",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/wall/reshiram-and-zekrom-walls-hek-el-grande",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 358,
   "id": "https-eeveeexpo-com-resources-602",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/tiles-big-tree-pack-anon-alpaca",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/tiles-big-tree-pack-anon-alpaca",
   "_generated_by": "scripts/sync.ts"
 }

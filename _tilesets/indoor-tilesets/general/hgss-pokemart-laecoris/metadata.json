@@ -12,8 +12,6 @@
   "sheet_row": 93,
   "id": "https-www-deviantart-com-laecoris-art-hgss-pokemart-971289220",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/hgss-pokemart-laecoris",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/hgss-pokemart-laecoris",
   "_generated_by": "scripts/sync.ts"
 }

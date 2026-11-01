@@ -12,8 +12,6 @@
   "sheet_row": 55,
   "id": "https-www-deviantart-com-kingtapir-art-galar-tile-dump-10-station-exterior-849501016",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/galar-tile-dump-10-station-exterior-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/galar-tile-dump-10-station-exterior-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

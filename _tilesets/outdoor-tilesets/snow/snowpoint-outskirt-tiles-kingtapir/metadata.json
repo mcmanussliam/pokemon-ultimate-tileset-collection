@@ -12,8 +12,6 @@
   "sheet_row": 330,
   "id": "https-www-deviantart-com-kingtapir-art-snowpoint-outskirt-tiles-877324918",
   "subcategory": "snow",
-  "folder": "outdoor-tilesets/snow/snowpoint-outskirt-tiles-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/snow/snowpoint-outskirt-tiles-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

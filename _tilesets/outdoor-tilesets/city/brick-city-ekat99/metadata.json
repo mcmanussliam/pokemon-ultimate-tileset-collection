@@ -12,8 +12,6 @@
   "sheet_row": 142,
   "id": "https-www-deviantart-com-ekat99-art-brick-city-895740356",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/brick-city-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/brick-city-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

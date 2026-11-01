@@ -12,8 +12,6 @@
   "sheet_row": 41,
   "id": "https-eeveeexpo-com-resources-722",
   "subcategory": "misc",
-  "folder": "animated-tilesets/misc/animated-spin-tiles-chromussama",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/misc/animated-spin-tiles-chromussama",
   "_generated_by": "scripts/sync.ts"
 }

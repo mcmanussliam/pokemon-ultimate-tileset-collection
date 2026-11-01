@@ -12,8 +12,6 @@
   "sheet_row": 38,
   "id": "https-www-deviantart-com-aveontrainer-art-bar-tileset-829643285",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/bar-tileset-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/bar-tileset-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

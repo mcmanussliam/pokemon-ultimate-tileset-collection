@@ -12,8 +12,6 @@
   "sheet_row": 125,
   "id": "https-www-deviantart-com-cloudydayjoy-art-frlg-celadon-mansion-881268181",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/frlg-celadon-mansion-cloudydayjoy",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/frlg-celadon-mansion-cloudydayjoy",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 66,
   "id": "https-www-deviantart-com-j-treecko252-art-animated-white-sand-shore-autotile-898198420",
   "subcategory": "water",
-  "folder": "animated-tilesets/water/animated-white-sand-shore-autotile-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/water/animated-white-sand-shore-autotile-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

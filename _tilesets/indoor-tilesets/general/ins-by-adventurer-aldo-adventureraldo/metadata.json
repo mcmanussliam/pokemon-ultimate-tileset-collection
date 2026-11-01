@@ -12,8 +12,6 @@
   "sheet_row": 79,
   "id": "https-www-deviantart-com-adventureraldo-art-ins-904060019",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/ins-by-adventurer-aldo-adventureraldo",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/ins-by-adventurer-aldo-adventureraldo",
   "_generated_by": "scripts/sync.ts"
 }

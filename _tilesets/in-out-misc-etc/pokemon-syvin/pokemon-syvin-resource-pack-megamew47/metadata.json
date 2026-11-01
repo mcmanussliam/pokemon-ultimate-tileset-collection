@@ -12,8 +12,6 @@
   "sheet_row": 26,
   "id": "https-eeveeexpo-com-resources-1200",
   "subcategory": "pokemon-syvin",
-  "folder": "in-out-misc-etc/pokemon-syvin/pokemon-syvin-resource-pack-megamew47",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-syvin/pokemon-syvin-resource-pack-megamew47",
   "_generated_by": "scripts/sync.ts"
 }

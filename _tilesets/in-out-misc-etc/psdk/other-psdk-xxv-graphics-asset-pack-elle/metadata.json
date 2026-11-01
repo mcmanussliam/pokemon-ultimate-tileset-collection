@@ -12,8 +12,6 @@
   "sheet_row": 34,
   "id": "https-eeveeexpo-com-resources-844",
   "subcategory": "psdk",
-  "folder": "in-out-misc-etc/psdk/other-psdk-xxv-graphics-asset-pack-elle",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/psdk/other-psdk-xxv-graphics-asset-pack-elle",
   "_generated_by": "scripts/sync.ts"
 }

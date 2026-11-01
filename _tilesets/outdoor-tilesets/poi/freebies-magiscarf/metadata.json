@@ -12,8 +12,6 @@
   "sheet_row": 286,
   "id": "https-www-deviantart-com-magiscarf-art-freebies-447772645",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/freebies-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/freebies-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

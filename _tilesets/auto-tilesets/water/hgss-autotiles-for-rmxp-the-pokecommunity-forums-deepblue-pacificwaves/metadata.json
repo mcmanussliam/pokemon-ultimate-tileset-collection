@@ -12,8 +12,6 @@
   "sheet_row": 13,
   "id": "https-www-pokecommunity-com-threads-hgss-autotiles-for-rmxp-455912",
   "subcategory": "water",
-  "folder": "auto-tilesets/water/hgss-autotiles-for-rmxp-the-pokecommunity-forums-deepblue-pacificwaves",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/water/hgss-autotiles-for-rmxp-the-pokecommunity-forums-deepblue-pacificwaves",
   "_generated_by": "scripts/sync.ts"
 }

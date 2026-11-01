@@ -12,8 +12,6 @@
   "sheet_row": 87,
   "id": "https-www-deviantart-com-beertierchen-art-gen-3-pokemon-center-mart-tiles-1197622175",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/gen-3-pokemon-center-mart-tiles-beertierchen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/gen-3-pokemon-center-mart-tiles-beertierchen",
   "_generated_by": "scripts/sync.ts"
 }

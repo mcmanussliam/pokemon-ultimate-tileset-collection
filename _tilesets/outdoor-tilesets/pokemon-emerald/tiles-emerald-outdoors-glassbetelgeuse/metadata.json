@@ -12,8 +12,6 @@
   "sheet_row": 297,
   "id": "https-eeveeexpo-com-resources-1529",
   "subcategory": "pokemon-emerald",
-  "folder": "outdoor-tilesets/pokemon-emerald/tiles-emerald-outdoors-glassbetelgeuse",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/pokemon-emerald/tiles-emerald-outdoors-glassbetelgeuse",
   "_generated_by": "scripts/sync.ts"
 }

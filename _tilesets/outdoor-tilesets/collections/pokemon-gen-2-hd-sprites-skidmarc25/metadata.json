@@ -12,8 +12,6 @@
   "sheet_row": 199,
   "id": "https-www-deviantart-com-skidmarc25-art-pokemon-gen-2-hd-sprites-914449171",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/pokemon-gen-2-hd-sprites-skidmarc25",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/pokemon-gen-2-hd-sprites-skidmarc25",
   "_generated_by": "scripts/sync.ts"
 }

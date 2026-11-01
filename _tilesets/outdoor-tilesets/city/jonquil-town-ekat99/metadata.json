@@ -12,8 +12,6 @@
   "sheet_row": 145,
   "id": "https-www-deviantart-com-ekat99-art-jonquil-town-880155582",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/jonquil-town-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/jonquil-town-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

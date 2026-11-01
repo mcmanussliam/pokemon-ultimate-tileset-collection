@@ -12,8 +12,6 @@
   "sheet_row": 284,
   "id": "https-www-deviantart-com-magiscarf-art-concrete-tiles-1108031997",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/concrete-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/concrete-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

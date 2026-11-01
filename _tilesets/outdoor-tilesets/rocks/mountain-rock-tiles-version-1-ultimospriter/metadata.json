@@ -12,8 +12,6 @@
   "sheet_row": 320,
   "id": "https-www-deviantart-com-ultimospriter-art-mountain-rock-tiles-version-1-215409011",
   "subcategory": "rocks",
-  "folder": "outdoor-tilesets/rocks/mountain-rock-tiles-version-1-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/rocks/mountain-rock-tiles-version-1-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

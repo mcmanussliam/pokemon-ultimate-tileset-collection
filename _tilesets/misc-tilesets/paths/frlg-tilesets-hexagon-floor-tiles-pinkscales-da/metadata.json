@@ -12,8 +12,6 @@
   "sheet_row": 86,
   "id": "https-www-deviantart-com-pinkscales-da-art-frlg-tilesets-hexagon-floor-tiles-1046372725",
   "subcategory": "paths",
-  "folder": "misc-tilesets/paths/frlg-tilesets-hexagon-floor-tiles-pinkscales-da",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/paths/frlg-tilesets-hexagon-floor-tiles-pinkscales-da",
   "_generated_by": "scripts/sync.ts"
 }

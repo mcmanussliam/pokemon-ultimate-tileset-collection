@@ -12,8 +12,6 @@
   "sheet_row": 35,
   "id": "https-www-deviantart-com-mikejaj-art-neo-sinnoh-building-02-846277282",
   "subcategory": "buildings",
-  "folder": "animated-tilesets/buildings/neo-sinnoh-building-02-mikejaj",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/buildings/neo-sinnoh-building-02-mikejaj",
   "_generated_by": "scripts/sync.ts"
 }

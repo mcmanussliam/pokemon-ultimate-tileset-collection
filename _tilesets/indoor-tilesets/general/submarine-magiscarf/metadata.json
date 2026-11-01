@@ -12,8 +12,6 @@
   "sheet_row": 48,
   "id": "https-www-deviantart-com-magiscarf-art-submarine-811851027",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/submarine-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/submarine-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

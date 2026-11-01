@@ -12,8 +12,6 @@
   "sheet_row": 98,
   "id": "https-www-deviantart-com-zeo254-art-tileset-pokemon-resurgent-495764643",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/tileset-pokemon-resurgent-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/tileset-pokemon-resurgent-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

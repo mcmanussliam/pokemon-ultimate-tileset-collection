@@ -12,8 +12,6 @@
   "sheet_row": 90,
   "id": "https-www-deviantart-com-caos-cepi-art-tiles-cave-juukou-senki-bullet-battlers-738155318",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/tiles-cave-juukou-senki-bullet-battlers-caos-cepi",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/tiles-cave-juukou-senki-bullet-battlers-caos-cepi",
   "_generated_by": "scripts/sync.ts"
 }

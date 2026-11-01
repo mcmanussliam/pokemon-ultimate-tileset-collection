@@ -12,8 +12,6 @@
   "sheet_row": 32,
   "id": "https-www-deviantart-com-ekat99-art-brick-house-tiles-875477529",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/brick-house-tiles-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/brick-house-tiles-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

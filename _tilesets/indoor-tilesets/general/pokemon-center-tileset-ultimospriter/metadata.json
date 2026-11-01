@@ -12,8 +12,6 @@
   "sheet_row": 82,
   "id": "https-www-deviantart-com-ultimospriter-art-pokemon-center-tileset-578658634",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/pokemon-center-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/pokemon-center-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

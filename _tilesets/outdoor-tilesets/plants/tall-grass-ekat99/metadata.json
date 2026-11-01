@@ -12,8 +12,6 @@
   "sheet_row": 263,
   "id": "https-www-deviantart-com-ekat99-art-tall-grass-887616549",
   "subcategory": "plants",
-  "folder": "outdoor-tilesets/plants/tall-grass-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/plants/tall-grass-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

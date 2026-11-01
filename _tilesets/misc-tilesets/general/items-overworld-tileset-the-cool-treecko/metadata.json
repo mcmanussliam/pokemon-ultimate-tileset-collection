@@ -12,8 +12,6 @@
   "sheet_row": 55,
   "id": "https-eeveeexpo-com-resources-608",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/items-overworld-tileset-the-cool-treecko",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/items-overworld-tileset-the-cool-treecko",
   "_generated_by": "scripts/sync.ts"
 }

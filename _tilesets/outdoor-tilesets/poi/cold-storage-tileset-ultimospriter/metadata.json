@@ -12,8 +12,6 @@
   "sheet_row": 290,
   "id": "https-www-deviantart-com-ultimospriter-art-cold-storage-tileset-279914169",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/cold-storage-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/cold-storage-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

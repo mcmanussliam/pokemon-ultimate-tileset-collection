@@ -12,8 +12,6 @@
   "sheet_row": 35,
   "id": "https-www-deviantart-com-aveontrainer-art-church-pew-843627429",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/church-pew-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/church-pew-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

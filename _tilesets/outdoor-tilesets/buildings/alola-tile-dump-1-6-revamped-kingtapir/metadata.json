@@ -12,8 +12,6 @@
   "sheet_row": 54,
   "id": "https-www-deviantart-com-kingtapir-art-alola-tile-dump-1-6-revamped-850428198",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/alola-tile-dump-1-6-revamped-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/alola-tile-dump-1-6-revamped-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

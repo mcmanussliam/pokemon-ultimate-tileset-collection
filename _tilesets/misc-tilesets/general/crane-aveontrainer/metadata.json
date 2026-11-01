@@ -12,8 +12,6 @@
   "sheet_row": 33,
   "id": "https-www-deviantart-com-aveontrainer-art-crane-843642243",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/crane-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/crane-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

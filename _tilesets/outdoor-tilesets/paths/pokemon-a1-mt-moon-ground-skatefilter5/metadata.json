@@ -12,8 +12,6 @@
   "sheet_row": 259,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemon-a1-mt-moon-ground-891202435",
   "subcategory": "paths",
-  "folder": "outdoor-tilesets/paths/pokemon-a1-mt-moon-ground-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/paths/pokemon-a1-mt-moon-ground-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

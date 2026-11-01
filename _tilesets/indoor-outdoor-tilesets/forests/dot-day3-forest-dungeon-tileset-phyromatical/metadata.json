@@ -12,8 +12,6 @@
   "sheet_row": 25,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day3-forest-dungeon-tileset-649188970",
   "subcategory": "forests",
-  "folder": "indoor-outdoor-tilesets/forests/dot-day3-forest-dungeon-tileset-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/forests/dot-day3-forest-dungeon-tileset-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

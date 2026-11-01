@@ -12,8 +12,6 @@
   "sheet_row": 45,
   "id": "https-www-deviantart-com-magiscarf-art-victorian-variations-698506647",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/victorian-variations-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/victorian-variations-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 13,
   "id": "https-www-deviantart-com-magiscarf-art-crystal-caves-tiles-768727126",
   "subcategory": "caves",
-  "folder": "indoor-outdoor-tilesets/caves/crystal-caves-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/caves/crystal-caves-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

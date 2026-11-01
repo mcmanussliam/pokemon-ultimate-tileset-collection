@@ -12,8 +12,6 @@
   "sheet_row": 43,
   "id": "https-www-deviantart-com-magiscarf-art-free-rustic-tiles-w-updates-645876003",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/free-rustic-tiles-w-updates-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/free-rustic-tiles-w-updates-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

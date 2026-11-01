@@ -12,8 +12,6 @@
   "sheet_row": 7,
   "id": "https-eeveeexpo-com-resources-1610",
   "subcategory": "plants",
-  "folder": "auto-tilesets/plants/tiles-flower-autotile-pack-ignathiusnzx",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/plants/tiles-flower-autotile-pack-ignathiusnzx",
   "_generated_by": "scripts/sync.ts"
 }

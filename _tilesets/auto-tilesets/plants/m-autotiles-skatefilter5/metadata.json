@@ -12,8 +12,6 @@
   "sheet_row": 17,
   "id": "https-www-deviantart-com-skatefilter5-art-m-autotiles-895783917",
   "subcategory": "plants",
-  "folder": "auto-tilesets/plants/m-autotiles-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/plants/m-autotiles-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

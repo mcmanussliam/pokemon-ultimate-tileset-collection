@@ -12,8 +12,6 @@
   "sheet_row": 151,
   "id": "https-www-deviantart-com-kingtapir-art-gateon-port-tileset-855071101",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/gateon-port-tileset-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/gateon-port-tileset-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

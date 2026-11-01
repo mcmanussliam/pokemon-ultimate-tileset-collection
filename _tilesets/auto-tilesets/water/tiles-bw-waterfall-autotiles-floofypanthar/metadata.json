@@ -12,8 +12,6 @@
   "sheet_row": 12,
   "id": "https-eeveeexpo-com-resources-297",
   "subcategory": "water",
-  "folder": "auto-tilesets/water/tiles-bw-waterfall-autotiles-floofypanthar",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/water/tiles-bw-waterfall-autotiles-floofypanthar",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 138,
   "id": "https-www-deviantart-com-kingtapir-art-old-oras-cave-tiles-v2-872433505",
   "subcategory": "caves",
-  "folder": "outdoor-tilesets/caves/old-oras-cave-tiles-v2-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/caves/old-oras-cave-tiles-v2-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

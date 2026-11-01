@@ -12,8 +12,6 @@
   "sheet_row": 63,
   "id": "https-www-deviantart-com-kingtapir-art-galar-tile-dump-1-824702338",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/galar-tile-dump-1-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/galar-tile-dump-1-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

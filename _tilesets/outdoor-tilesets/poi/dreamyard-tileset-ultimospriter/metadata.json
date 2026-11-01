@@ -12,8 +12,6 @@
   "sheet_row": 289,
   "id": "https-www-deviantart-com-ultimospriter-art-dreamyard-tileset-345239956",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/dreamyard-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/dreamyard-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

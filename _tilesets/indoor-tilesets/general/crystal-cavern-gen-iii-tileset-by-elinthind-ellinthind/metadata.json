@@ -12,8 +12,6 @@
   "sheet_row": 96,
   "id": "https-www-deviantart-com-elinthind-art-crystal-cavern-gen-iii-tileset-1198944552",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/crystal-cavern-gen-iii-tileset-by-elinthind-ellinthind",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/crystal-cavern-gen-iii-tileset-by-elinthind-ellinthind",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 152,
   "id": "https-www-deviantart-com-j-treecko252-art-dark-city-tiles-01-898234017",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/dark-city-tiles-01-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/dark-city-tiles-01-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

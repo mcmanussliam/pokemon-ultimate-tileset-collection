@@ -12,8 +12,6 @@
   "sheet_row": 15,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemonautotilesunfinished-891202467",
   "subcategory": "collections",
-  "folder": "auto-tilesets/collections/pokemon-autotiles-unfinished-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/collections/pokemon-autotiles-unfinished-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

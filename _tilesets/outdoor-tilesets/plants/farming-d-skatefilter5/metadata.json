@@ -12,8 +12,6 @@
   "sheet_row": 271,
   "id": "https-www-deviantart-com-skatefilter5-art-farming-d-891202411",
   "subcategory": "plants",
-  "folder": "outdoor-tilesets/plants/farming-d-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/plants/farming-d-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

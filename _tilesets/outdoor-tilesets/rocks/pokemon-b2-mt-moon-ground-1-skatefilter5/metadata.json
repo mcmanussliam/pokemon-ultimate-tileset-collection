@@ -12,8 +12,6 @@
   "sheet_row": 321,
   "id": "https-www-deviantart-com-skatefilter5-art-pokemon-b2-mt-moon-ground-1-891202446",
   "subcategory": "rocks",
-  "folder": "outdoor-tilesets/rocks/pokemon-b2-mt-moon-ground-1-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/rocks/pokemon-b2-mt-moon-ground-1-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

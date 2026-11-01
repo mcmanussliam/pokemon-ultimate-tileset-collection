@@ -12,8 +12,6 @@
   "sheet_row": 163,
   "id": "https-www-deviantart-com-ultimospriter-art-nuvema-town-tileset-259651647",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/nuvema-town-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/nuvema-town-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 79,
   "id": "https-www-deviantart-com-aveontrainer-art-traditional-japanese-mart-824712550",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/traditional-japanese-mart-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/traditional-japanese-mart-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

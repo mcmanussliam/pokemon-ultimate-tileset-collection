@@ -12,8 +12,6 @@
   "sheet_row": 9,
   "id": "https-eeveeexpo-com-resources-1420",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/tiles-sawsbucks-coffee-pack-cafe-tileset-coffee-items-barista-larkylovesyou",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/tiles-sawsbucks-coffee-pack-cafe-tileset-coffee-items-barista-larkylovesyou",
   "_generated_by": "scripts/sync.ts"
 }

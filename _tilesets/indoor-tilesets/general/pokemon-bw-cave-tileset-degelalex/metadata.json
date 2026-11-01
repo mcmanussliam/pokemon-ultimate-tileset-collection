@@ -12,8 +12,6 @@
   "sheet_row": 80,
   "id": "https-www-deviantart-com-degelalex-art-pokemon-bw-cave-tileset-857263677",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/pokemon-bw-cave-tileset-degelalex",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/pokemon-bw-cave-tileset-degelalex",
   "_generated_by": "scripts/sync.ts"
 }

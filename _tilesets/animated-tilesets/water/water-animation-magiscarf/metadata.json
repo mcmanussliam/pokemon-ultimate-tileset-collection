@@ -12,8 +12,6 @@
   "sheet_row": 65,
   "id": "https-www-deviantart-com-magiscarf-art-water-animation-689684144",
   "subcategory": "water",
-  "folder": "animated-tilesets/water/water-animation-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/water/water-animation-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 42,
   "id": "https-eeveeexpo-com-resources-55",
   "subcategory": "misc",
-  "folder": "animated-tilesets/misc/tiles-2-new-animation-of-healing-balls-kanda",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/misc/tiles-2-new-animation-of-healing-balls-kanda",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 272,
   "id": "https-www-deviantart-com-hek-el-grande-art-flowers-and-others-291615053",
   "subcategory": "plants",
-  "folder": "outdoor-tilesets/plants/flowers-and-others-hek-el-grande",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/plants/flowers-and-others-hek-el-grande",
   "_generated_by": "scripts/sync.ts"
 }

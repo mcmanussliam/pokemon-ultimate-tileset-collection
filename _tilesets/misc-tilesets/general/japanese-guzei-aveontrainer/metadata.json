@@ -12,8 +12,6 @@
   "sheet_row": 39,
   "id": "https-www-deviantart-com-aveontrainer-art-japanese-guzei-824795509",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/japanese-guzei-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/japanese-guzei-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

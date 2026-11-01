@@ -12,8 +12,6 @@
   "sheet_row": 25,
   "id": "https-www-deviantart-com-dirtywiggles-art-pokemon-primal-tileset-802242817",
   "subcategory": "pokemon-primal",
-  "folder": "in-out-misc-etc/pokemon-primal/pokemon-primal-tileset-dirtywiggles",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-primal/pokemon-primal-tileset-dirtywiggles",
   "_generated_by": "scripts/sync.ts"
 }

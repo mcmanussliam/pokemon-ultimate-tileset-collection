@@ -12,8 +12,6 @@
   "sheet_row": 21,
   "id": "https-eeveeexpo-com-resources-212",
   "subcategory": "pokemon-frlg",
-  "folder": "in-out-misc-etc/pokemon-frlg/abandoned-ship-frlg-avatar",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-frlg/abandoned-ship-frlg-avatar",
   "_generated_by": "scripts/sync.ts"
 }

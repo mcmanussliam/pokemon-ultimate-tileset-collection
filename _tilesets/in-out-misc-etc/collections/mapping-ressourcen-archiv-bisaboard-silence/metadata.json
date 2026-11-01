@@ -12,8 +12,6 @@
   "sheet_row": 42,
   "id": "https-bisaboard-bisafans-de-index-php-thread-205582-mapping-ressourcen",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/mapping-ressourcen-archiv-bisaboard-silence",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/mapping-ressourcen-archiv-bisaboard-silence",
   "_generated_by": "scripts/sync.ts"
 }

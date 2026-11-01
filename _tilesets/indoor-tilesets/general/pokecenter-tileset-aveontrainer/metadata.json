@@ -12,8 +12,6 @@
   "sheet_row": 53,
   "id": "https-www-deviantart-com-aveontrainer-art-pokecenter-tileset-966309095",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/pokecenter-tileset-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/pokecenter-tileset-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

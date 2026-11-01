@@ -12,8 +12,6 @@
   "sheet_row": 211,
   "id": "https-www-deviantart-com-caos-cepi-art-desierto-gbc-2-0-669423000",
   "subcategory": "desert",
-  "folder": "outdoor-tilesets/desert/desert-gbc-styleq-caos-cepi",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/desert/desert-gbc-styleq-caos-cepi",
   "_generated_by": "scripts/sync.ts"
 }

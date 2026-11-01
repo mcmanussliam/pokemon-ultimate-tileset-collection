@@ -12,8 +12,6 @@
   "sheet_row": 158,
   "id": "https-www-deviantart-com-ditto209-art-pewter-city-tileset-updated-415102004",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/pewter-city-tileset-updated-ditto209",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/pewter-city-tileset-updated-ditto209",
   "_generated_by": "scripts/sync.ts"
 }

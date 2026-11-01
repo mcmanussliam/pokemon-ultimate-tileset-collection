@@ -12,8 +12,6 @@
   "sheet_row": 165,
   "id": "https-www-deviantart-com-ultimospriter-art-sanyou-city-tiles-190593294",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/sanyou-city-tiles-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/sanyou-city-tiles-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

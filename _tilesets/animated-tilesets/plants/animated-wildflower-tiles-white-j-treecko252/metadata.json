@@ -12,8 +12,6 @@
   "sheet_row": 56,
   "id": "https-www-deviantart-com-j-treecko252-art-animated-wildflower-tiles-white-884678516",
   "subcategory": "plants",
-  "folder": "animated-tilesets/plants/animated-wildflower-tiles-white-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/plants/animated-wildflower-tiles-white-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

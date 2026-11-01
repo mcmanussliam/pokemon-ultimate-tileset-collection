@@ -12,8 +12,6 @@
   "sheet_row": 100,
   "id": "https-www-deviantart-com-zeo254-art-public-tiles-with-credits-336602354",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/public-tiles-with-credits-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/public-tiles-with-credits-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 80,
   "id": "https-www-deviantart-com-aveontrainer-art-traditional-japanese-pokemon-center-824705983",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/traditional-japanese-pokemon-center-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/traditional-japanese-pokemon-center-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 291,
   "id": "https-www-deviantart-com-princess-phoenix-art-the-overly-red-forest-tileset-791564219",
   "subcategory": "poi",
-  "folder": "outdoor-tilesets/poi/the-overly-red-forest-tileset-princess-phoenix",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/poi/the-overly-red-forest-tileset-princess-phoenix",
   "_generated_by": "scripts/sync.ts"
 }

@@ -4,12 +4,6 @@
 > An entry in the [original Pokémon Ultimate Tileset Collection spreadsheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
 > This repository is an unofficial **readability fork**, not the creator of the artwork.
 
-## Preview
-
-![Gen 2 Style Overworld Tiles for Pokemon Essentials - sprite post - Imgur (source-hosted preview)](https://i.imgur.com/soxaRSKh.jpg)
-
-This preview is loaded directly from the source site; the image is **not redistributed** here.
-
 ## Details
 
 - **Creator / submitter:** SkidMarc25

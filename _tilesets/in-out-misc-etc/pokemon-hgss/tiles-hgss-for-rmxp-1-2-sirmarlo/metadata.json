@@ -12,8 +12,6 @@
   "sheet_row": 10,
   "id": "https-eeveeexpo-com-resources-462",
   "subcategory": "pokemon-hgss",
-  "folder": "in-out-misc-etc/pokemon-hgss/tiles-hgss-for-rmxp-1-2-sirmarlo",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-hgss/tiles-hgss-for-rmxp-1-2-sirmarlo",
   "_generated_by": "scripts/sync.ts"
 }

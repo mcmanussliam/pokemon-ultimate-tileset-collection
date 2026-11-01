@@ -12,8 +12,6 @@
   "sheet_row": 49,
   "id": "https-eeveeexpo-com-resources-1697",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/tiles-flower-encounter-grass-riftclaw",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/tiles-flower-encounter-grass-riftclaw",
   "_generated_by": "scripts/sync.ts"
 }

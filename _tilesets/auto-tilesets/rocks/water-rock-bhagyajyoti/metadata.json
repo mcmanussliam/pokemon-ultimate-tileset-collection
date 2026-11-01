@@ -12,8 +12,6 @@
   "sheet_row": 18,
   "id": "https-www-deviantart-com-bhagyajyoti-art-water-rock-845978802",
   "subcategory": "rocks",
-  "folder": "auto-tilesets/rocks/water-rock-bhagyajyoti",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/rocks/water-rock-bhagyajyoti",
   "_generated_by": "scripts/sync.ts"
 }

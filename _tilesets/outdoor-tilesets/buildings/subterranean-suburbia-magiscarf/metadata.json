@@ -12,8 +12,6 @@
   "sheet_row": 40,
   "id": "https-www-deviantart-com-magiscarf-art-subterranean-suburbia-811228116",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/subterranean-suburbia-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/subterranean-suburbia-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

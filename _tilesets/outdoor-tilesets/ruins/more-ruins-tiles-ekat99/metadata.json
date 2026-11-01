@@ -12,8 +12,6 @@
   "sheet_row": 324,
   "id": "https-www-deviantart-com-ekat99-art-more-ruins-tiles-881757883",
   "subcategory": "ruins",
-  "folder": "outdoor-tilesets/ruins/more-ruins-tiles-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/ruins/more-ruins-tiles-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

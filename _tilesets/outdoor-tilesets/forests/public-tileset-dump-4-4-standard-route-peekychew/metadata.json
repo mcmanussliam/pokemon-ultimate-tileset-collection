@@ -12,8 +12,6 @@
   "sheet_row": 217,
   "id": "https-www-deviantart-com-peekychew-art-public-tileset-dump-4-4-standard-route-828486767",
   "subcategory": "forests",
-  "folder": "outdoor-tilesets/forests/public-tileset-dump-4-4-standard-route-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/forests/public-tileset-dump-4-4-standard-route-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

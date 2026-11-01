@@ -12,8 +12,6 @@
   "sheet_row": 154,
   "id": "https-www-deviantart-com-thedeadheroalistair-art-fortree-city-rpg-maker-tileset-893093532",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/fortree-city-rpg-maker-tileset-thedeadheroalistair",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/fortree-city-rpg-maker-tileset-thedeadheroalistair",
   "_generated_by": "scripts/sync.ts"
 }

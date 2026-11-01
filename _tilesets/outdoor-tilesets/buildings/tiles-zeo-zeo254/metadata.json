@@ -12,8 +12,6 @@
   "sheet_row": 99,
   "id": "https-www-deviantart-com-zeo254-art-tiles-zeo-472442499",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/tiles-zeo-zeo254",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/tiles-zeo-zeo254",
   "_generated_by": "scripts/sync.ts"
 }

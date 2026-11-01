@@ -12,8 +12,6 @@
   "sheet_row": 28,
   "id": "https-www-deviantart-com-ekat99-art-haunted-mansion-exterior-876931092",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/haunted-mansion-exterior-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/haunted-mansion-exterior-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

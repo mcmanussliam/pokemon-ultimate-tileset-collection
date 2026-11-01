@@ -12,8 +12,6 @@
   "sheet_row": 106,
   "id": "https-www-deviantart-com-morlock-liam-art-pallet-town-tiles-516052724",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pallet-town-tiles-morlock-liam",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pallet-town-tiles-morlock-liam",
   "_generated_by": "scripts/sync.ts"
 }

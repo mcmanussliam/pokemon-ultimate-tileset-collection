@@ -12,8 +12,6 @@
   "sheet_row": 97,
   "id": "https-www-deviantart-com-peekychew-art-shrine-tiles-467493523",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/shrine-tiles-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/shrine-tiles-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

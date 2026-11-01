@@ -12,8 +12,6 @@
   "sheet_row": 126,
   "id": "https-www-deviantart-com-adventureraldo-art-outs-904059929",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/outs-adventureraldo",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/outs-adventureraldo",
   "_generated_by": "scripts/sync.ts"
 }

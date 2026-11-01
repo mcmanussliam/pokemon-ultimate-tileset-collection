@@ -12,8 +12,6 @@
   "sheet_row": 63,
   "id": "https-www-deviantart-com-j-treecko252-art-swamp-deep-autotile-884688309",
   "subcategory": "swamp",
-  "folder": "animated-tilesets/swamp/swamp-deep-autotile-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/swamp/swamp-deep-autotile-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

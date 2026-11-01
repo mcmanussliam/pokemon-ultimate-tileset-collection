@@ -12,8 +12,6 @@
   "sheet_row": 69,
   "id": "https-www-deviantart-com-hek-el-grande-art-waterfall-river-animation-frames-294404867",
   "subcategory": "water",
-  "folder": "animated-tilesets/water/waterfall-river-animation-frames-hek-el-grande",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/water/waterfall-river-animation-frames-hek-el-grande",
   "_generated_by": "scripts/sync.ts"
 }

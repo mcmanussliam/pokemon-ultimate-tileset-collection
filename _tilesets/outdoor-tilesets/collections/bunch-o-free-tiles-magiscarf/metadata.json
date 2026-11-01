@@ -12,8 +12,6 @@
   "sheet_row": 172,
   "id": "https-www-deviantart-com-magiscarf-art-bunch-o-free-tiles-393827416",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/bunch-o-free-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/bunch-o-free-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

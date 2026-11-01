@@ -12,8 +12,6 @@
   "sheet_row": 67,
   "id": "https-www-deviantart-com-elinthind-art-animated-sewer-spout-1188670945",
   "subcategory": "water",
-  "folder": "animated-tilesets/water/animated-sewer-spout-elinthind",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/water/animated-sewer-spout-elinthind",
   "_generated_by": "scripts/sync.ts"
 }

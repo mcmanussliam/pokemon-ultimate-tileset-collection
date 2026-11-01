@@ -12,8 +12,6 @@
   "sheet_row": 360,
   "id": "https-www-deviantart-com-peekychew-art-autumnal-colours-564624052",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/autumnal-colours-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/autumnal-colours-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 332,
   "id": "https-eeveeexpo-com-resources-1631",
   "subcategory": "snow",
-  "folder": "outdoor-tilesets/snow/gen-3-snow-tileset-update-cinnayva",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/snow/gen-3-snow-tileset-update-cinnayva",
   "_generated_by": "scripts/sync.ts"
 }

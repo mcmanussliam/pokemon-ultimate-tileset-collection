@@ -12,8 +12,6 @@
   "sheet_row": 160,
   "id": "https-www-deviantart-com-ultimospriter-art-accumula-town-tileset-584524918",
   "subcategory": "city",
-  "folder": "outdoor-tilesets/city/accumula-town-tileset-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/city/accumula-town-tileset-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

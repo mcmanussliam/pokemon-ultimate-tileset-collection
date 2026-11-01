@@ -12,8 +12,6 @@
   "sheet_row": 17,
   "id": "https-www-deviantart-com-anarlaurendil-art-ivy-colosseum-tileset-celebi-arena-1135970503",
   "subcategory": "buildings",
-  "folder": "indoor-outdoor-tilesets/buildings/ivy-colosseum-tileset-celebi-arena-anarlaurendil",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/buildings/ivy-colosseum-tileset-celebi-arena-anarlaurendil",
   "_generated_by": "scripts/sync.ts"
 }

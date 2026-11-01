@@ -12,8 +12,6 @@
   "sheet_row": 130,
   "id": "https-www-deviantart-com-ultimospriter-art-sazanami-town-tiles-193394519",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/sazanami-town-tiles-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/sazanami-town-tiles-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 219,
   "id": "https-www-deviantart-com-the-red-ex-art-gd-tileset-gebirge-435409690",
   "subcategory": "mountains",
-  "folder": "outdoor-tilesets/mountains/gd-tileset-gebirge-the-red-ex",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/mountains/gd-tileset-gebirge-the-red-ex",
   "_generated_by": "scripts/sync.ts"
 }

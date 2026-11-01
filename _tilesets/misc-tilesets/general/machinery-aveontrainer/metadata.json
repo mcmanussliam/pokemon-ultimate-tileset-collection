@@ -12,8 +12,6 @@
   "sheet_row": 27,
   "id": "https-www-deviantart-com-aveontrainer-art-machinery-970630286",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/machinery-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/machinery-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

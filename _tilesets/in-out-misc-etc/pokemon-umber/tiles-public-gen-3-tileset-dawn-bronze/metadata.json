@@ -12,8 +12,6 @@
   "sheet_row": 27,
   "id": "https-eeveeexpo-com-resources-26",
   "subcategory": "pokemon-umber",
-  "folder": "in-out-misc-etc/pokemon-umber/tiles-public-gen-3-tileset-dawn-bronze",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-umber/tiles-public-gen-3-tileset-dawn-bronze",
   "_generated_by": "scripts/sync.ts"
 }

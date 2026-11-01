@@ -12,8 +12,6 @@
   "sheet_row": 40,
   "id": "https-www-deviantart-com-aveontrainer-art-farm-tractor-820546468",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/farm-tractor-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/farm-tractor-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

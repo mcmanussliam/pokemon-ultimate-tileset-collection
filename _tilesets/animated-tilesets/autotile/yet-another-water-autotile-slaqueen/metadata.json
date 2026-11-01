@@ -12,8 +12,6 @@
   "sheet_row": 23,
   "id": "https-www-deviantart-com-slaqueen-art-yet-another-water-autotile-813360978",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/yet-another-water-autotile-slaqueen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/yet-another-water-autotile-slaqueen",
   "_generated_by": "scripts/sync.ts"
 }

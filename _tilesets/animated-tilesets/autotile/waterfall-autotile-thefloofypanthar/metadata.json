@@ -12,8 +12,6 @@
   "sheet_row": 29,
   "id": "https-www-deviantart-com-thefloofypanthar-art-waterfallautotile-793280772",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/waterfall-autotile-thefloofypanthar",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/waterfall-autotile-thefloofypanthar",
   "_generated_by": "scripts/sync.ts"
 }

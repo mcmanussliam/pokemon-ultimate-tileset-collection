@@ -12,8 +12,6 @@
   "sheet_row": 37,
   "id": "https-www-deviantart-com-aveontrainer-art-hospital-tileset-829648765",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/hospital-tileset-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/hospital-tileset-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 77,
   "id": "https-www-deviantart-com-aveontrainer-art-pokemart-825131419",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemart-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemart-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

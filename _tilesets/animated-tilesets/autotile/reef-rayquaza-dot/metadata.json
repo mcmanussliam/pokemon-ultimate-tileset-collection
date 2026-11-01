@@ -12,8 +12,6 @@
   "sheet_row": 13,
   "id": "https-www-deviantart-com-rayquaza-dot-art-reef-361233704",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/reef-rayquaza-dot",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/reef-rayquaza-dot",
   "_generated_by": "scripts/sync.ts"
 }

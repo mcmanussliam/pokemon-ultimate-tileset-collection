@@ -12,8 +12,6 @@
   "sheet_row": 393,
   "id": "https-www-deviantart-com-the-red-ex-art-gd-tileset-wassergebirge-435409578",
   "subcategory": "water",
-  "folder": "outdoor-tilesets/water/gd-tileset-wassergebirge-the-red-ex",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/water/gd-tileset-wassergebirge-the-red-ex",
   "_generated_by": "scripts/sync.ts"
 }

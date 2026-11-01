@@ -12,8 +12,6 @@
   "sheet_row": 210,
   "id": "https-www-deviantart-com-peekychew-art-public-tileset-dump-2-4-desert-828044216",
   "subcategory": "desert",
-  "folder": "outdoor-tilesets/desert/public-tileset-dump-2-4-desert-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/desert/public-tileset-dump-2-4-desert-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

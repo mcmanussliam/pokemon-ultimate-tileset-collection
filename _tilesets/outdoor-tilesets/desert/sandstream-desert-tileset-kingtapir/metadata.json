@@ -12,8 +12,6 @@
   "sheet_row": 209,
   "id": "https-www-deviantart-com-kingtapir-art-sandstream-desert-tileset-842787469",
   "subcategory": "desert",
-  "folder": "outdoor-tilesets/desert/sandstream-desert-tileset-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/desert/sandstream-desert-tileset-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

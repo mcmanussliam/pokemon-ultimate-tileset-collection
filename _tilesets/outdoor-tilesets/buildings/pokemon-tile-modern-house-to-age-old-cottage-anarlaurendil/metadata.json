@@ -12,8 +12,6 @@
   "sheet_row": 72,
   "id": "ww-deviantart-com-anarlaurendil-art-pokemon-tile-modern-house-to-age-old-cottage-763856421",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemon-tile-modern-house-to-age-old-cottage-anarlaurendil",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemon-tile-modern-house-to-age-old-cottage-anarlaurendil",
   "_generated_by": "scripts/sync.ts"
 }

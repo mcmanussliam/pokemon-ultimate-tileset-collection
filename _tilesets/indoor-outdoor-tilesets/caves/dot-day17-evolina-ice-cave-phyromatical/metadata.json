@@ -12,8 +12,6 @@
   "sheet_row": 27,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day17-evolina-ice-cave-651785521",
   "subcategory": "caves",
-  "folder": "indoor-outdoor-tilesets/caves/dot-day17-evolina-ice-cave-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/caves/dot-day17-evolina-ice-cave-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

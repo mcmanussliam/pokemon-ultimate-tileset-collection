@@ -12,8 +12,6 @@
   "sheet_row": 49,
   "id": "https-www-spriters-resource-com-game-boy-gbc-pokemonyellow-sheet-145656",
   "subcategory": "pokemon-yellow",
-  "folder": "in-out-misc-etc/pokemon-yellow/game-boy-gbc-pokemon-yellow-tileset-frenchorange",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-yellow/game-boy-gbc-pokemon-yellow-tileset-frenchorange",
   "_generated_by": "scripts/sync.ts"
 }

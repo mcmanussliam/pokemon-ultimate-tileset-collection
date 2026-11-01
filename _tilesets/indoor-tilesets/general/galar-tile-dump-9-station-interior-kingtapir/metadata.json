@@ -12,8 +12,6 @@
   "sheet_row": 50,
   "id": "https-www-deviantart-com-kingtapir-art-galar-tile-dump-9-station-interior-848649448",
   "subcategory": "general",
-  "folder": "indoor-tilesets/general/galar-tile-dump-9-station-interior-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-tilesets/general/galar-tile-dump-9-station-interior-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

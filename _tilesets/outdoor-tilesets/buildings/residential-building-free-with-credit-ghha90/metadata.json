@@ -12,8 +12,6 @@
   "sheet_row": 103,
   "id": "https-www-deviantart-com-ghha90-art-residential-building-free-with-credit-819048743",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/residential-building-free-with-credit-ghha90",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/residential-building-free-with-credit-ghha90",
   "_generated_by": "scripts/sync.ts"
 }

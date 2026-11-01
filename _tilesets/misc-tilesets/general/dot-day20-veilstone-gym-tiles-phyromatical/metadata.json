@@ -12,8 +12,6 @@
   "sheet_row": 71,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day20-veilstone-gym-tiles-652344389",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/dot-day20-veilstone-gym-tiles-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/dot-day20-veilstone-gym-tiles-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

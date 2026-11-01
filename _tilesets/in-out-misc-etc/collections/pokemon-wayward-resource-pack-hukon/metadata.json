@@ -12,8 +12,6 @@
   "sheet_row": 38,
   "id": "https-eeveeexpo-com-resources-233",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/pokemon-wayward-resource-pack-hukon",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/pokemon-wayward-resource-pack-hukon",
   "_generated_by": "scripts/sync.ts"
 }

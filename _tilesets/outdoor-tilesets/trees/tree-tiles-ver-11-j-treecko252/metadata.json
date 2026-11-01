@@ -12,8 +12,6 @@
   "sheet_row": 354,
   "id": "https-www-deviantart-com-j-treecko252-art-tree-tiles-ver-11-884751064",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/tree-tiles-ver-11-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/tree-tiles-ver-11-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

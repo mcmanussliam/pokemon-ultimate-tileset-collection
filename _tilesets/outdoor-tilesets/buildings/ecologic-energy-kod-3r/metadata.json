@@ -12,8 +12,6 @@
   "sheet_row": 121,
   "id": "https-www-deviantart-com-kod-3r-art-ecologic-energy-467246214",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/ecologic-energy-kod-3r",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/ecologic-energy-kod-3r",
   "_generated_by": "scripts/sync.ts"
 }

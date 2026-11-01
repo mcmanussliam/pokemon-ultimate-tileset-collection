@@ -12,8 +12,6 @@
   "sheet_row": 322,
   "id": "https-www-deviantart-com-skatefilter5-art-main-terrain-891202425",
   "subcategory": "rocks",
-  "folder": "outdoor-tilesets/rocks/main-terrain-skatefilter5",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/rocks/main-terrain-skatefilter5",
   "_generated_by": "scripts/sync.ts"
 }

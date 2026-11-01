@@ -12,8 +12,6 @@
   "sheet_row": 49,
   "id": "https-www-deviantart-com-foxowl23-art-gen-3-greenhouse-tileset-877456077",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/gen-3-greenhouse-tileset-by-foxowl23-foxowl24",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/gen-3-greenhouse-tileset-by-foxowl23-foxowl24",
   "_generated_by": "scripts/sync.ts"
 }

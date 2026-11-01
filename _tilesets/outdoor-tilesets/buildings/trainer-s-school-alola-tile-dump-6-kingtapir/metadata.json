@@ -12,8 +12,6 @@
   "sheet_row": 56,
   "id": "https-www-deviantart-com-kingtapir-art-trainer-s-school-alola-tile-dump-6-850236732",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/trainer-s-school-alola-tile-dump-6-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/trainer-s-school-alola-tile-dump-6-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

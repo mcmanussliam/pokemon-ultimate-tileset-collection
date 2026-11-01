@@ -12,8 +12,6 @@
   "sheet_row": 41,
   "id": "https-www-deviantart-com-magiscarf-art-buildings-tiles-w-snow-808246734",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/buildings-tiles-w-snow-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/buildings-tiles-w-snow-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 67,
   "id": "https-www-deviantart-com-anarlaurendil-art-rare-berries-tree-spritesheet-ow-836258558",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/rare-berries-tree-spritesheet-ow-anarlaurendil",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/rare-berries-tree-spritesheet-ow-anarlaurendil",
   "_generated_by": "scripts/sync.ts"
 }

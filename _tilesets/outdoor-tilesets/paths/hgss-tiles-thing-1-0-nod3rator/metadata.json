@@ -12,8 +12,6 @@
   "sheet_row": 261,
   "id": "https-www-deviantart-com-nod3rator-art-hgss-tiles-thing-1-0-469862282",
   "subcategory": "paths",
-  "folder": "outdoor-tilesets/paths/hgss-tiles-thing-1-0-nod3rator",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/paths/hgss-tiles-thing-1-0-nod3rator",
   "_generated_by": "scripts/sync.ts"
 }

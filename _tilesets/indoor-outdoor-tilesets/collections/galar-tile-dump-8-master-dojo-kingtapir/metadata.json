@@ -12,8 +12,6 @@
   "sheet_row": 16,
   "id": "https-www-deviantart-com-kingtapir-art-galar-tile-dump-8-master-dojo-848240594",
   "subcategory": "collections",
-  "folder": "indoor-outdoor-tilesets/collections/galar-tile-dump-8-master-dojo-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/indoor-outdoor-tilesets/collections/galar-tile-dump-8-master-dojo-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

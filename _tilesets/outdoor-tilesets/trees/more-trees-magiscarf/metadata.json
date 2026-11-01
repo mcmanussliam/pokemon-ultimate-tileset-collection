@@ -12,8 +12,6 @@
   "sheet_row": 340,
   "id": "https-www-deviantart-com-magiscarf-art-more-trees-726831180",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/more-trees-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/more-trees-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

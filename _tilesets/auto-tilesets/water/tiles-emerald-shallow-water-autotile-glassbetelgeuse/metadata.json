@@ -12,8 +12,6 @@
   "sheet_row": 10,
   "id": "https-eeveeexpo-com-resources-1313",
   "subcategory": "water",
-  "folder": "auto-tilesets/water/tiles-emerald-shallow-water-autotile-glassbetelgeuse",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/water/tiles-emerald-shallow-water-autotile-glassbetelgeuse",
   "_generated_by": "scripts/sync.ts"
 }

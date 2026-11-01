@@ -12,8 +12,6 @@
   "sheet_row": 82,
   "id": "ps-www-deviantart-com-thefloofypanthar-art-pokessentials-gen-5-elevator-platform-806300072",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/pokessentials-gen-5-elevator-platform-thefloofypanthar",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/pokessentials-gen-5-elevator-platform-thefloofypanthar",
   "_generated_by": "scripts/sync.ts"
 }

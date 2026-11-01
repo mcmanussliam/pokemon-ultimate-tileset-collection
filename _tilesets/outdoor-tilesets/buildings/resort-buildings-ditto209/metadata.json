@@ -12,8 +12,6 @@
   "sheet_row": 113,
   "id": "https-www-deviantart-com-ditto209-art-resort-buildings-691519150",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/resort-buildings-ditto209",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/resort-buildings-ditto209",
   "_generated_by": "scripts/sync.ts"
 }

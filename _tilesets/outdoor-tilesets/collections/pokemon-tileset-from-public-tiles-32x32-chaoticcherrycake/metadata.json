@@ -12,8 +12,6 @@
   "sheet_row": 183,
   "id": "www-deviantart-com-chaoticcherrycake-art-pokemon-tileset-from-public-tiles-32x32-623246343",
   "subcategory": "collections",
-  "folder": "outdoor-tilesets/collections/pokemon-tileset-from-public-tiles-32x32-chaoticcherrycake",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/collections/pokemon-tileset-from-public-tiles-32x32-chaoticcherrycake",
   "_generated_by": "scripts/sync.ts"
 }

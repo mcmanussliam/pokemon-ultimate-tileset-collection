@@ -12,8 +12,6 @@
   "sheet_row": 68,
   "id": "https-eeveeexpo-com-resources-824",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/underwater-objects-doofl",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/underwater-objects-doofl",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 58,
   "id": "https-eeveeexpo-com-resources-25",
   "subcategory": "collections",
-  "folder": "in-out-misc-etc/collections/gen-5-overworld-pack-radical-raptr",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/collections/gen-5-overworld-pack-radical-raptr",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 88,
   "id": "www-deviantart-com-beertierchen-art-gen-3-luxurious-gatehouse-tiles-free-to-use-1099079696",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/gen-3-luxurious-gatehouse-tiles-free-to-use-beertierchen",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/gen-3-luxurious-gatehouse-tiles-free-to-use-beertierchen",
   "_generated_by": "scripts/sync.ts"
 }

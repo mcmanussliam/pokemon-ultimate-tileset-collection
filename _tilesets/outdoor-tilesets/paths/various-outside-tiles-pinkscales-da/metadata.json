@@ -12,8 +12,6 @@
   "sheet_row": 257,
   "id": "https-www-deviantart-com-pinkscales-da-art-various-outside-tiles-1129962135",
   "subcategory": "paths",
-  "folder": "outdoor-tilesets/paths/various-outside-tiles-pinkscales-da",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/paths/various-outside-tiles-pinkscales-da",
   "_generated_by": "scripts/sync.ts"
 }

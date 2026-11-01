@@ -12,8 +12,6 @@
   "sheet_row": 29,
   "id": "https-www-deviantart-com-aveontrainer-art-airplane-878602624",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/airplane-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/airplane-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

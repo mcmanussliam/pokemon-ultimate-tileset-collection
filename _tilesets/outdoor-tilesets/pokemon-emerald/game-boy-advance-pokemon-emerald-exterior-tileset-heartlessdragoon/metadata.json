@@ -12,8 +12,6 @@
   "sheet_row": 295,
   "id": "https-www-spriters-resource-com-game-boy-advance-pokemonemerald-sheet-61816",
   "subcategory": "pokemon-emerald",
-  "folder": "outdoor-tilesets/pokemon-emerald/game-boy-advance-pokemon-emerald-exterior-tileset-heartlessdragoon",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/pokemon-emerald/game-boy-advance-pokemon-emerald-exterior-tileset-heartlessdragoon",
   "_generated_by": "scripts/sync.ts"
 }

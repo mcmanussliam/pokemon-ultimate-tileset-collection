@@ -12,8 +12,6 @@
   "sheet_row": 61,
   "id": "ww-deviantart-com-kleinstudio-art-script-unlimited-animated-tiles-for-essentials-541398887",
   "subcategory": "script",
-  "folder": "animated-tilesets/script/script-unlimited-animated-tiles-for-essentials-kleinstudio",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/script/script-unlimited-animated-tiles-for-essentials-kleinstudio",
   "_generated_by": "scripts/sync.ts"
 }

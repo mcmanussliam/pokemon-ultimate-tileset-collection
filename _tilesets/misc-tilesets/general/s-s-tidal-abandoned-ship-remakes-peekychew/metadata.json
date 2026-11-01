@@ -12,8 +12,6 @@
   "sheet_row": 66,
   "id": "https-www-deviantart-com-peekychew-art-s-s-tidal-abandoned-ship-remakes-523802123",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/s-s-tidal-abandoned-ship-remakes-peekychew",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/s-s-tidal-abandoned-ship-remakes-peekychew",
   "_generated_by": "scripts/sync.ts"
 }

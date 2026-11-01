@@ -12,8 +12,6 @@
   "sheet_row": 60,
   "id": "https-www-deviantart-com-kingtapir-art-pokemon-center-galar-tile-dump-4-827268086",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemon-center-galar-tile-dump-4-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemon-center-galar-tile-dump-4-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

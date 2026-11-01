@@ -12,8 +12,6 @@
   "sheet_row": 335,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day13-onset-of-winter-tiles-651441701",
   "subcategory": "snow",
-  "folder": "outdoor-tilesets/snow/dot-day13-onset-of-winter-tiles-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/snow/dot-day13-onset-of-winter-tiles-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

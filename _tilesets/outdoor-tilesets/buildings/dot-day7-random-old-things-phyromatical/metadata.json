@@ -12,8 +12,6 @@
   "sheet_row": 108,
   "id": "https-www-deviantart-com-phyromatical-art-dot-day7-random-old-things-649944416",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/dot-day7-random-old-things-phyromatical",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/dot-day7-random-old-things-phyromatical",
   "_generated_by": "scripts/sync.ts"
 }

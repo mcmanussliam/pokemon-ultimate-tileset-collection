@@ -12,8 +12,6 @@
   "sheet_row": 9,
   "id": "https-eeveeexpo-com-resources-1145",
   "subcategory": "water",
-  "folder": "auto-tilesets/water/auto-water-tiles-lolalime",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/auto-tilesets/water/auto-water-tiles-lolalime",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 64,
   "id": "https-www-deviantart-com-kingtapir-art-alola-tile-dump-2-check-description-815705945",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/alola-tile-dump-2-check-description-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/alola-tile-dump-2-check-description-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

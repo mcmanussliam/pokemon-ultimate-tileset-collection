@@ -12,8 +12,6 @@
   "sheet_row": 46,
   "id": "https-www-spriters-resource-com-game-boy-gbc-pokemongoldsilver-sheet-60234",
   "subcategory": "pokemon-gold-silver",
-  "folder": "in-out-misc-etc/pokemon-gold-silver/game-boy-gbc-pokemon-gold-silver-tileset-day-frenchorange",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/in-out-misc-etc/pokemon-gold-silver/game-boy-gbc-pokemon-gold-silver-tileset-day-frenchorange",
   "_generated_by": "scripts/sync.ts"
 }

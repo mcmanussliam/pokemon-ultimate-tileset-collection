@@ -12,8 +12,6 @@
   "sheet_row": 83,
   "id": "https-www-deviantart-com-caos-cepi-art-truck-pkmn-3rd-generation-739200208",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/truck-pkmn-3rd-generation-caos-cepi",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/truck-pkmn-3rd-generation-caos-cepi",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 256,
   "id": "https-www-deviantart-com-chaoticcherrycake-art-tileset-10000-views-511033237",
   "subcategory": "paths",
-  "folder": "outdoor-tilesets/paths/tileset-10000-views-chaoticcherrycake",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/paths/tileset-10000-views-chaoticcherrycake",
   "_generated_by": "scripts/sync.ts"
 }

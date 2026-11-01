@@ -12,8 +12,6 @@
   "sheet_row": 61,
   "id": "https-www-deviantart-com-pinkscales-da-art-outside-frlg-custom-assets-1-1044766813",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/outside-flrg-custom-assets-pinkscales-da",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/outside-flrg-custom-assets-pinkscales-da",
   "_generated_by": "scripts/sync.ts"
 }

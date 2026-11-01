@@ -12,8 +12,6 @@
   "sheet_row": 7,
   "id": "https-www-deviantart-com-ekat99-art-misc-pokemon-tiles-880848663",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/misc-pokemon-tiles-ekat99",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/misc-pokemon-tiles-ekat99",
   "_generated_by": "scripts/sync.ts"
 }

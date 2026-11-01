@@ -12,8 +12,6 @@
   "sheet_row": 9,
   "id": "https-www-deviantart-com-dormdude-art-lavafall-741797282",
   "subcategory": "autotile",
-  "folder": "animated-tilesets/autotile/lavafall-dormdude",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/autotile/lavafall-dormdude",
   "_generated_by": "scripts/sync.ts"
 }

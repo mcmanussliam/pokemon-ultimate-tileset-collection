@@ -12,8 +12,6 @@
   "sheet_row": 208,
   "id": "https-www-deviantart-com-kingtapir-art-desert-tileset-deluxe-edition-909169932",
   "subcategory": "desert",
-  "folder": "outdoor-tilesets/desert/desert-tileset-deluxe-edition-kingtapir",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/desert/desert-tileset-deluxe-edition-kingtapir",
   "_generated_by": "scripts/sync.ts"
 }

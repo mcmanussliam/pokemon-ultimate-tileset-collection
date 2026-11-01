@@ -12,8 +12,6 @@
   "sheet_row": 270,
   "id": "https-www-deviantart-com-anarlaurendil-art-tileset-herbe-et-chemin-1-761283987",
   "subcategory": "plants",
-  "folder": "outdoor-tilesets/plants/tileset-herbe-et-chemin-1-anarlaurendil",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/plants/tileset-herbe-et-chemin-1-anarlaurendil",
   "_generated_by": "scripts/sync.ts"
 }

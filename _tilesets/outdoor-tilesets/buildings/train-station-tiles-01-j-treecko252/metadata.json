@@ -12,8 +12,6 @@
   "sheet_row": 67,
   "id": "https-www-deviantart-com-j-treecko252-art-train-station-tiles-01-903544863",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/train-station-tiles-01-j-treecko252",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/train-station-tiles-01-j-treecko252",
   "_generated_by": "scripts/sync.ts"
 }

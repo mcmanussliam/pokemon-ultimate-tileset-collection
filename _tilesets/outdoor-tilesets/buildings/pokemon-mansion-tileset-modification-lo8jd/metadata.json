@@ -12,8 +12,6 @@
   "sheet_row": 84,
   "id": "https-www-deviantart-com-lo8jd-art-pokemon-mansion-tileset-modification-1125231915",
   "subcategory": "buildings",
-  "folder": "outdoor-tilesets/buildings/pokemon-mansion-tileset-modification-lo8jd",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/buildings/pokemon-mansion-tileset-modification-lo8jd",
   "_generated_by": "scripts/sync.ts"
 }

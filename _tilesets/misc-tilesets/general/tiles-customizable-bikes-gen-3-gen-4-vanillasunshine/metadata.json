@@ -12,8 +12,6 @@
   "sheet_row": 59,
   "id": "https-eeveeexpo-com-resources-539",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/tiles-customizable-bikes-gen-3-gen-4-vanillasunshine",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/tiles-customizable-bikes-gen-3-gen-4-vanillasunshine",
   "_generated_by": "scripts/sync.ts"
 }

@@ -12,8 +12,6 @@
   "sheet_row": 301,
   "id": "deviantart-com-morlock-liam-art-pokemon-ultra-sun-and-moon-melemele-island-tiles-718477412",
   "subcategory": "pokemon-sun-moon",
-  "folder": "outdoor-tilesets/pokemon-sun-moon/pokemon-ultra-sun-and-moon-melemele-island-tiles-morlock-liam",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/pokemon-sun-moon/pokemon-ultra-sun-and-moon-melemele-island-tiles-morlock-liam",
   "_generated_by": "scripts/sync.ts"
 }

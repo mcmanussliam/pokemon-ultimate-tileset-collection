@@ -12,8 +12,6 @@
   "sheet_row": 26,
   "id": "https-www-deviantart-com-aveontrainer-art-fossils-970673469",
   "subcategory": "general",
-  "folder": "misc-tilesets/general/fossils-aveontrainer",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/misc-tilesets/general/fossils-aveontrainer",
   "_generated_by": "scripts/sync.ts"
 }

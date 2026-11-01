@@ -12,8 +12,6 @@
   "sheet_row": 64,
   "id": "https-www-deviantart-com-magiscarf-art-next-animated-water-tiles-830567034",
   "subcategory": "water",
-  "folder": "animated-tilesets/water/next-animated-water-tiles-magiscarf",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/animated-tilesets/water/next-animated-water-tiles-magiscarf",
   "_generated_by": "scripts/sync.ts"
 }

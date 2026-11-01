@@ -12,8 +12,6 @@
   "sheet_row": 394,
   "id": "https-www-deviantart-com-ultimospriter-art-b-w-water-tiles-190330322",
   "subcategory": "water",
-  "folder": "outdoor-tilesets/water/b-w-water-tiles-ultimospriter",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/water/b-w-water-tiles-ultimospriter",
   "_generated_by": "scripts/sync.ts"
 }

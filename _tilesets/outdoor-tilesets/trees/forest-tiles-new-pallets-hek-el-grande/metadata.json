@@ -12,8 +12,6 @@
   "sheet_row": 384,
   "id": "https-www-deviantart-com-hek-el-grande-art-forest-tiles-new-pallets-288068927",
   "subcategory": "trees",
-  "folder": "outdoor-tilesets/trees/forest-tiles-new-pallets-hek-el-grande",
-  "preview_url": "",
-  "preview_source": "",
+  "folder": "_tilesets/outdoor-tilesets/trees/forest-tiles-new-pallets-hek-el-grande",
   "_generated_by": "scripts/sync.ts"
 }
