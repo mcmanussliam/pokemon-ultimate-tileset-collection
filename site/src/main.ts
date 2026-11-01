@@ -10,6 +10,7 @@ type Entry = {
 type Preview = { file: string; source: string; generated_at: string };
 const entries = catalog.entries as unknown as Entry[];
 const previews: Record<string, Preview> = previewManifest as Record<string, Preview>;
+const COLLECTION = 'Pokémon Ultimate Tileset Collection';
 const REPO = 'https://github.com/mcmanussliam/pokemon-ultimate-tileset-collection';
 const SHEET = 'https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0';
 const GROUPS = [
@@ -120,7 +121,7 @@ function actions(entry: Entry): string {
 function row(entry: Entry): string {
   return '<article class="entry-row">' + media(entry) + content(entry) +
     '<div class="entry-details"><span>' + text(label(entry.subcategory || 'general')) +
-    '</span><small>' + text(entry.generation || '—') + '</small></div>' +
+    '</span><small>' + text(entry.generation || 'Not specified') + '</small></div>' +
     '<div class="entry-credit">' + text(credits(entry)) + '</div>' + actions(entry) + '</article>';
 }
 function card(entry: Entry): string {
@@ -157,12 +158,12 @@ function render(reset = false) {
 const app = $('app');
 app.innerHTML = [
   '<div class="shell">',
-  '<header class="topbar"><a class="site-name" href="./">Pokémon <span>Tilesets</span></a>',
+  '<header class="topbar"><a class="site-name" href="./">' + text(COLLECTION) + '</a>',
   '<nav aria-label="Main"><a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">Original spreadsheet ↗</a>',
   '<a href="' + REPO + '" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav></header>',
   '<div class="banner"><img src="' + text(import.meta.env.BASE_URL + 'banner.png') + '" alt="Pokémon Ultimate Tileset Collection banner" /></div>',
-  '<main><section class="intro"><h1>Tilesets</h1>',
-  '<p>Browse the <a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">Pokémon Ultimate Tileset Collection</a> by artist, category and generation. ',
+  '<main><section class="intro"><h1>' + text(COLLECTION) + '</h1>',
+  '<p>Browse the <a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">' + text(COLLECTION) + '</a> by artist, category and generation. ',
   'This is an unofficial index; the original creators retain their artwork and usage rights.</p></section>',
   '<section class="browser" aria-label="Browse tilesets">',
   '<aside class="sidebar"><div class="side-heading">Categories</div><div id="categories" class="categories"></div>',
@@ -177,7 +178,7 @@ app.innerHTML = [
   '<div id="results" class="results list"></div>',
   '<div class="load-more-wrap"><button id="load-more" type="button">Load more</button></div>',
   '</div></section></main><footer><span>Unofficial readability fork</span>',
-  '<a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">Original collection ↗</a>',
+  '<a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">' + text(COLLECTION) + ' ↗</a>',
   '<span>Artwork belongs to the original artists.</span></footer></div>'
 ].join('');
 $('categories').addEventListener('click', event => {

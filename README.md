@@ -2,15 +2,15 @@
 
 # Pokémon Ultimate Tileset Collection
 
-**An unofficial readability fork of the [original Pokémon Ultimate Tileset Collection Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).**
+**An unofficial readability fork of [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).**
 
-> **Original catalogue and source of truth:** [Pokémon Ultimate Tileset Collection — Google Sheets](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
+> **Original catalogue and source of truth:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
 >
 > This repository is **just a fork / reorganisation for easier browsing, reading, searching and finding tilesets**. It is not the original spreadsheet, its official continuation, or a claim of authorship over the compilation or any artist's work. For original context, changes and corrections, please consult the spreadsheet and each creator's artwork page.
 
-## Browse the collection
+## View the collection
 
-### **[Open the tileset catalogue →](https://mcmanussliam.github.io/pokemon-ultimate-tileset-collection/)**
+### **[Pokémon Ultimate Tileset Collection](https://mcmanussliam.github.io/pokemon-ultimate-tileset-collection/)**
 
 A simple white catalogue written in TypeScript. Search by title or artist; filter by category, subcategory and generation; switch between list and grid views; open the original artwork or its index folder.
 

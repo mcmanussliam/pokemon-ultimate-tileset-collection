@@ -187,7 +187,7 @@ function entryReadme(e: Entry): string {
     'Check the creator page for specific credit requirements.';
   const asset = assetName(join(ROOT, e.folder));
   const preview = asset ? '![' + escapeMd(e.title) + '](./' + asset + ')' :
-    e.preview_url ? '![' + escapeMd(e.title) + ' — source-hosted preview](' + e.preview_url + ')' :
+    e.preview_url ? '![' + escapeMd(e.title) + ' (source-hosted preview)](' + e.preview_url + ')' :
     'No verified image preview is available here yet. [View the artwork at its original source](' + (e.source_url || ORIGINAL) + ').';
   return [
     NOTE, '# ' + escapeMd(e.title), '',
@@ -210,7 +210,7 @@ function listing(title: string, desc: string, items: Entry[]): string {
     desc, '', '**' + items.length + ' tilesets**', '',
     ...items.sort((a,b) => a.title.localeCompare(b.title)).map(e =>
       '- [' + escapeMd(e.title) + '](' + e.folder.split('/').at(-1) + '/)' +
-      (e.artist ? ' — ' + escapeMd(e.artist) : '')), ''
+      (e.artist ? ' by ' + escapeMd(e.artist) : '')), ''
   ].join('\n');
 }
 function migrateFolder(previous: string, next: string): void {
@@ -287,7 +287,7 @@ function main(): Promise<void> {
       const grouped = [...new Set(items.map(e => e.subcategory))].sort();
       const section = grouped.map(sub => {
         const count = items.filter(e => e.subcategory === sub).length;
-        return '- [' + sub.replace(/-/g, ' ') + '](' + sub + '/) — ' + count + ' tilesets';
+        return '- [' + sub.replace(/-/g, ' ') + '](' + sub + '/): ' + count + ' tilesets';
       }).join('\n');
       writeGenerated(join(ROOT, category, 'README.md'), [
         NOTE, '# ' + items[0].sheet, '',
