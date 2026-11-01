@@ -13,5 +13,35 @@
     "file": "580fee4691054704694c.webp",
     "source": "https://imgur.com/gallery/gen-2-style-overworld-tiles-pokemon-essentials-Y5dyfaE",
     "generated_at": "2026-11-01T22:48:49.228Z"
+  },
+  "indoor-tilesets/general/scizor-user-s-sewer-tileset-doofl": {
+    "file": "c50d72bb3012e4a87472.webp",
+    "source": "https://eeveeexpo.com/resources/833/",
+    "generated_at": "2026-11-01T22:50:49.779Z"
+  },
+  "misc-tilesets/general/pog-dungeon-tiles-zerame": {
+    "file": "b9b69b422499fba0bb22.webp",
+    "source": "https://eeveeexpo.com/resources/1279/",
+    "generated_at": "2026-11-01T22:50:49.779Z"
+  },
+  "in-out-misc-etc/pokemon-frlg/abandoned-ship-frlg-avatar": {
+    "file": "b4595106cb7c2a8c40f0.webp",
+    "source": "https://eeveeexpo.com/resources/212/",
+    "generated_at": "2026-11-01T22:50:49.779Z"
+  },
+  "in-out-misc-etc/gen-4-tileset/ips-darkshade-s-kanto-ds-style-graphics-tileset-patch-client-c-budabeth": {
+    "file": "af00ae0cd0c0ea38eccd.webp",
+    "source": "https://forums.pokemmo.com/index.php?/topic/172958-ips-darkshades-kanto-ds-style-graphics-tileset-patch/",
+    "generated_at": "2026-11-01T22:50:49.779Z"
+  },
+  "in-out-misc-etc/collections/pokecommunity-various-artists": {
+    "file": "1b511943a59b22cf5cbc.webp",
+    "source": "https://discord.com/invite/pokecommunity",
+    "generated_at": "2026-11-01T22:50:49.779Z"
+  },
+  "in-out-misc-etc/collections/https-github-com-teamaquashideout-team-aquas-asset-repo-tree-m-teamaquashideout-and-co": {
+    "file": "4fd608d551e155ce7c21.webp",
+    "source": "https://github.com/TeamAquasHideout/Team-Aquas-Asset-Repo/tree/main/Tilesets/The%20Great%20Tileset%20Exchange/Full%20Tilesets/Volcano%20Secondary",
+    "generated_at": "2026-11-01T22:50:49.779Z"
   }
 }
