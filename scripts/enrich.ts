@@ -4,7 +4,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 type Entry = { source_url: string; folder: string };
-type Extra = { excerpt?: string; image_candidate?: string; source_author?: string; source_title?: string; status?: string; checked_at?: string };
+type Extra = { excerpt?: string; image_candidate?: string; source_author?: string; source_title?: string; status?: string; checked_at?: string; preview_local?: boolean };
 type Approval = { approved: boolean; evidence_url: string; attribution: string; image_url?: string };
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const entries: Entry[] = JSON.parse(readFileSync(join(root, '_catalog/catalog.json'), 'utf8')).entries;
