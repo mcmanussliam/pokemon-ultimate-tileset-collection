@@ -6,12 +6,10 @@
   "scripts": {
     "sync": "tsx scripts/sync.ts",
     "build": "vite build",
-    "check": "tsc --noEmit",
-    "thumbnails": "tsx scripts/thumbnails.ts"
+    "check": "tsc --noEmit"
   },
   "dependencies": {
-    "exceljs": "^4.4.0",
-    "sharp": "^0.34.4"
+    "exceljs": "^4.4.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",

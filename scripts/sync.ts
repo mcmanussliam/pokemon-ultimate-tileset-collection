@@ -11,9 +11,9 @@ type Entry = {
   id: string; title: string; artist: string; category_1: string; category_2: string;
   generation: string; source_platform: string; source_url: string; credits: string;
   number: string; sheet: string; sheet_row: number; folder: string;
-  subcategory: string; preview_url: string; preview_source: string;
+  subcategory: string;
 };
-type Raw = Omit<Entry, 'id' | 'folder' | 'subcategory' | 'preview_url' | 'preview_source'>;
+type Raw = Omit<Entry, 'id' | 'folder' | 'subcategory'>;
 type Catalogue = { source_spreadsheet: string; last_synced: string; total: number; entries: Entry[] };
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
@@ -169,11 +169,6 @@ function sourceRow(entry: Entry): string {
     ? 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/edit?gid=0#range=A' + entry.sheet_row
     : ORIGINAL;
 }
-function assetName(dir: string): string {
-  if (!existsSync(dir)) return '';
-  const files = readdirSync(dir).filter(f => /^(tileset|preview)\.(png|jpg|jpeg|gif|webp)$/i.test(f));
-  return files.find(f => /^tileset\./i.test(f)) || files[0] || '';
-}
 function entryReadme(e: Entry): string {
   const fields: Array<[string, string]> = [
     ['Creator / submitter', e.artist], ['Sheet', e.sheet],
@@ -185,19 +180,11 @@ function entryReadme(e: Entry): string {
   const credit = e.credits.includes('☆') ? 'Artist credit required (as flagged by the spreadsheet).' :
     e.credits.includes('❉') ? 'Artist credit is unspecified/optional on the sheet; still credit the artist where possible.' :
     'Check the creator page for specific credit requirements.';
-  const asset = assetName(join(ROOT, e.folder));
-  const preview = asset ? '![' + escapeMd(e.title) + '](./' + asset + ')' :
-    e.preview_url ? '![' + escapeMd(e.title) + ' (source-hosted preview)](' + e.preview_url + ')' :
-    'No verified image preview is available here yet. [View the artwork at its original source](' + (e.source_url || ORIGINAL) + ').';
   return [
     NOTE, '# ' + escapeMd(e.title), '',
     '> An entry in the [original Pokémon Ultimate Tileset Collection spreadsheet](' + ORIGINAL + ').',
     '> This repository is an unofficial **readability fork**, not the creator of the artwork.', '',
-    '## Preview', '', preview, '',
-    asset ? 'Locally stored artwork: confirm redistribution permission with the artist before reuse.' :
-      e.preview_url ? 'This preview is loaded directly from the source site; the image is **not redistributed** here.' :
-        'The image is not copied to GitHub without confirmation that redistribution is allowed.',
-    '', '## Details', '', details, '', '## Source and attribution', '',
+    '## Details', '', details, '', '## Source and attribution', '',
     '- **Original artwork page:** ' + (e.source_url ? '[Open creator/source](' + e.source_url + ')' : 'See the original spreadsheet'),
     '- **Original spreadsheet entry:** [Open sheet](' + sourceRow(e) + ')',
     '- **Credit note:** ' + credit,
@@ -248,14 +235,12 @@ function main(): Promise<void> {
       const category = slug(raw.sheet);
       const primary = CATEGORY_ALIASES[slug(raw.category_1)] || slug(raw.category_1 || 'general');
       const itemBase = shortSlug(raw.title, raw.artist);
-      let folder = category + '/' + primary + '/' + itemBase;
+      let folder = '_tilesets/' + category + '/' + primary + '/' + itemBase;
       if (used.has(folder)) folder += '-' + (raw.number ? slug(raw.number) : String(raw.sheet_row));
       used.add(folder);
-      const previous = existing.get(raw.source_url || raw.sheet + '|' + raw.sheet_row + '|' + raw.title);
       return {
         ...raw, id: slug(raw.source_url || raw.sheet + '-' + raw.sheet_row).slice(-90),
         subcategory: primary, folder,
-        preview_url: safeUrl(/ee_icon|\/styles\/default|favicon|logo|placeholder/i.test(previous?.preview_url || '') ? '' : (previous?.preview_url || (/\.(png|jpe?g|gif|webp)(\?|$)/i.test(raw.source_url) ? raw.source_url : ''))), preview_source: previous?.preview_source || '',
       };
     });
     const byCategory = new Map<string, Entry[]>();
@@ -266,21 +251,15 @@ function main(): Promise<void> {
       if (previous?.folder && previous.folder !== e.folder) migrateFolder(previous.folder, e.folder);
       const target = join(ROOT, e.folder);
       mkdirSync(target, { recursive: true });
-      const localArtwork = assetName(target);
-      if (localArtwork) {
-        e.preview_url = 'https://raw.githubusercontent.com/mcmanussliam/pokemon-ultimate-tileset-collection/main/' +
-          e.folder.split('/').map(encodeURIComponent).join('/') + '/' + encodeURIComponent(localArtwork);
-        e.preview_source = 'Creator-authorised file in this repository';
-      }
       writeGenerated(join(target, 'README.md'), entryReadme(e));
       writeMetadata(join(target, 'metadata.json'), e);
-      const category = e.folder.split('/')[0];
+      const category = e.folder.split('/')[1];
       byCategory.set(category, [...(byCategory.get(category) || []), e]);
       bySubcategory.set(category + '/' + e.subcategory, [...(bySubcategory.get(category + '/' + e.subcategory) || []), e]);
     }
     for (const [key, items] of bySubcategory) {
       const [category, sub] = key.split('/');
-      writeGenerated(join(ROOT, key, 'README.md'),
+      writeGenerated(join(ROOT, '_tilesets', key, 'README.md'),
         listing(sub.replace(/-/g, ' '), 'Tilesets from **' + category.replace(/-/g, ' ') + '**. [Original sheet](' + ORIGINAL + ').', items));
     }
     for (const [category, items] of byCategory) {
@@ -289,7 +268,7 @@ function main(): Promise<void> {
         const count = items.filter(e => e.subcategory === sub).length;
         return '- [' + sub.replace(/-/g, ' ') + '](' + sub + '/): ' + count + ' tilesets';
       }).join('\n');
-      writeGenerated(join(ROOT, category, 'README.md'), [
+      writeGenerated(join(ROOT, '_tilesets', category, 'README.md'), [
         NOTE, '# ' + items[0].sheet, '',
         'Browsable version of the [original source spreadsheet](' + ORIGINAL + '). This is an unofficial readability fork.',
         '', '**' + items.length + ' tilesets in ' + grouped.length + ' subcategories**', '', section, ''

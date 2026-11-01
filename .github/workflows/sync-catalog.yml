@@ -38,11 +38,7 @@ jobs:
       - name: Refresh tilesets, folders and READMEs from original sheet
         run: npm run sync
 
-      - name: Generate small local previews from accessible artwork
-        run: npm run thumbnails -- --limit=35 --retry --verbose
-        continue-on-error: true
-
-      - name: Commit refreshed metadata, folders, and previews
+      - name: Commit refreshed metadata and folders
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -50,7 +46,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "The catalogue is already up to date."
           else
-            git commit -m "Sync catalogue and local thumbnails from original sheet"
+            git commit -m "Sync catalogue from original sheet"
             git push
           fi
 

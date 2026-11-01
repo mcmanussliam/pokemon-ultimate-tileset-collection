@@ -1,5 +1,4 @@
 import catalog from '../../_catalog/catalog.json';
-import previewManifest from '../public/previews/manifest.json';
 import './style.css';
 
 type Entry = {
@@ -7,9 +6,7 @@ type Entry = {
   generation: string; source_url: string; credits: string; sheet: string;
   folder: string; subcategory: string;
 };
-type Preview = { file: string; source: string; generated_at: string };
 const entries = catalog.entries as unknown as Entry[];
-const previews: Record<string, Preview> = previewManifest as Record<string, Preview>;
 const COLLECTION = 'Pokémon Ultimate Tileset Collection';
 const REPO = 'https://github.com/mcmanussliam/pokemon-ultimate-tileset-collection';
 const SHEET = 'https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0';
@@ -29,7 +26,6 @@ const state = {
   category: params.get('category') || 'all',
   subcategory: params.get('type') || 'all',
   generation: params.get('gen') || 'all',
-  onlyImages: params.get('images') === '1',
   layout: params.get('view') === 'grid' ? 'grid' : 'list',
   page: 1,
 };
@@ -56,20 +52,9 @@ function label(slug: string): string {
   return slug.replace(/-/g, ' ').replace(/\b[a-z]/g, c => c.toUpperCase())
     .replace(/\bFrlg\b/g, 'FRLG').replace(/\bHgss\b/g, 'HGSS');
 }
-function categoryOf(entry: Entry): string { return entry.folder.split('/')[0]; }
+function categoryOf(entry: Entry): string { return entry.folder.split('/')[1]; }
 function pathFor(entry: Entry): string {
   return REPO + '/tree/main/' + entry.folder.split('/').map(encodeURIComponent).join('/');
-}
-function previewOf(entry: Entry): string {
-  const file = previews[entry.folder]?.file || '';
-  if (!/^[a-z0-9][a-z0-9._-]*\.webp$/.test(file)) return '';
-  return import.meta.env.BASE_URL + 'previews/' + file;
-}
-function media(entry: Entry, large = false): string {
-  const src = previewOf(entry);
-  if (src) return '<div class="media has-image' + (large ? ' media-large' : '') + '"><img loading="lazy" decoding="async" src="' +
-    text(src) + '" alt="Preview of ' + text(title(entry.title)) + '" /></div>';
-  return '<div class="media media-empty' + (large ? ' media-large' : '') + '" aria-label="No preview available"><span>Image unavailable</span></div>';
 }
 function categoryOptions() {
   return GROUPS.map(([key, name]) =>
@@ -95,14 +80,11 @@ function matches(): Entry[] {
     if (state.category !== 'all' && categoryOf(entry) !== state.category) return false;
     if (state.subcategory !== 'all' && entry.subcategory !== state.subcategory) return false;
     if (state.generation !== 'all' && entry.generation !== state.generation) return false;
-    if (state.onlyImages && !previewOf(entry)) return false;
     const haystack = [entry.title, entry.artist, entry.category_1, entry.category_2,
       entry.generation, entry.subcategory, entry.sheet].join(' ').toLocaleLowerCase();
     return words.every(word => haystack.includes(word));
   });
-  return selected.sort((a,b) =>
-    (Number(!!previewOf(b)) - Number(!!previewOf(a))) ||
-    a.title.localeCompare(b.title));
+  return selected.sort((a,b) => a.title.localeCompare(b.title));
 }
 function credits(entry: Entry): string {
   return entry.credits.includes('☆') ? 'Credit required' : 'Check usage terms';
@@ -119,13 +101,13 @@ function actions(entry: Entry): string {
     '<a href="' + text(pathFor(entry)) + '" target="_blank" rel="noopener noreferrer">Files ↗</a></div>';
 }
 function row(entry: Entry): string {
-  return '<article class="entry-row">' + media(entry) + content(entry) +
+  return '<article class="entry-row">' + content(entry) +
     '<div class="entry-details"><span>' + text(label(entry.subcategory || 'general')) +
     '</span><small>' + text(entry.generation || 'Not specified') + '</small></div>' +
     '<div class="entry-credit">' + text(credits(entry)) + '</div>' + actions(entry) + '</article>';
 }
 function card(entry: Entry): string {
-  return '<article class="entry-card">' + media(entry, true) +
+  return '<article class="entry-card">' +
     '<div class="card-body">' + content(entry) + '<div class="card-meta">' + text(label(entry.subcategory || 'general')) +
     (entry.generation ? ' · ' + text(entry.generation) : '') + '</div>' + actions(entry) + '</div></article>';
 }
@@ -135,7 +117,6 @@ function updateUrl(): void {
   if (state.category !== 'all') next.set('category', state.category);
   if (state.subcategory !== 'all') next.set('type', state.subcategory);
   if (state.generation !== 'all') next.set('gen', state.generation);
-  if (state.onlyImages) next.set('images', '1');
   if (state.layout === 'grid') next.set('view', 'grid');
   history.replaceState(null, '', location.pathname + (next.size ? '?' + next.toString() : '') + location.hash);
 }
@@ -144,15 +125,12 @@ function render(reset = false) {
   $('categories').innerHTML = categoryOptions();
   $('view-list').classList.toggle('selected', state.layout === 'list');
   $('view-grid').classList.toggle('selected', state.layout === 'grid');
-  ($<HTMLInputElement>('with-images')).checked = state.onlyImages;
   const result = matches(), pageSize = 48, shown = result.slice(0, state.page * pageSize);
   $('result-count').textContent = result.length + ' result' + (result.length === 1 ? '' : 's');
   $('results').className = state.layout === 'grid' ? 'results grid' : 'results list';
   $('results').innerHTML = shown.length ? shown.map(state.layout === 'grid' ? card : row).join('') :
     '<div class="empty">No matches. Try a different search or category.</div>';
   $('load-more').hidden = shown.length >= result.length;
-  $('preview-note').textContent = Object.keys(previews).length +
-    ' locally generated preview' + (Object.keys(previews).length === 1 ? '' : 's') + ' available';
   updateUrl();
 }
 const app = $('app');
@@ -171,8 +149,8 @@ app.innerHTML = [
   '<div class="main-content"><div class="toolbar">',
   '<label class="search"><span class="visually-hidden">Search tilesets</span><input id="query" type="search" placeholder="Search titles and artists" value="' + text(state.search) + '"/></label>',
   '<div class="filters"><label>Subcategory<select id="type"></select></label><label>Generation<select id="generation"></select></label></div></div>',
-  '<div class="result-tools"><div><strong id="result-count"></strong><span class="preview-note" id="preview-note"></span></div>',
-  '<div class="view-tools"><label class="image-filter"><input id="with-images" type="checkbox"/> Has preview</label>',
+  '<div class="result-tools"><div><strong id="result-count"></strong></div>',
+  '<div class="view-tools">',
   '<div class="view-switch" role="group" aria-label="View"><button type="button" id="view-list" aria-label="List view">List</button>',
   '<button type="button" id="view-grid" aria-label="Grid view">Grid</button></div></div></div>',
   '<div id="results" class="results list"></div>',
@@ -196,9 +174,6 @@ $<HTMLSelectElement>('type').addEventListener('change', event => {
 });
 $<HTMLSelectElement>('generation').addEventListener('change', event => {
   state.generation = (event.target as HTMLSelectElement).value; render(true);
-});
-$<HTMLInputElement>('with-images').addEventListener('change', event => {
-  state.onlyImages = (event.target as HTMLInputElement).checked; render(true);
 });
 $('view-list').addEventListener('click', () => { state.layout = 'list'; render(true); });
 $('view-grid').addEventListener('click', () => { state.layout = 'grid'; render(true); });

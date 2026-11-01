@@ -2,17 +2,62 @@
 
 # Pokémon Ultimate Tileset Collection
 
-**An unofficial readability fork of [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).**
+This is an **unofficial readability fork** of the [original Pokémon Ultimate Tileset Collection spreadsheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0). The spreadsheet remains the source of truth. The repository is for easier navigation and search, not a claim of authorship.
 
-> **Original catalogue and source of truth:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
->
-> This repository is **just a fork / reorganisation for easier browsing, reading, searching and finding tilesets**. It is not the original spreadsheet, its official continuation, or a claim of authorship over the compilation or any artist's work. For original context, changes and corrections, please consult the spreadsheet and each creator's artwork page.
+[Browse the collection](https://mcmanussliam.github.io/pokemon-ultimate-tileset-collection/) or [open the original spreadsheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0).
 
-## Attribution and usage
+## Directory structure
 
-- The original spreadsheet describes tilesets as **non-commercial**. Always verify the actual terms with the creator.
-- Credit individual artists where required; spreadsheet symbols such as ☆ indicate artist credit is required. An unspecified credit requirement is **not** a blanket licence.
-- **Non-commercial use does not necessarily allow rehosting an image.** This collection never grants a new licence to someone else's artwork.
-- If you own an image and would like its preview or listing removed, open an issue. Broken attribution and credits can also be corrected there.
+All entries are stored under `_tilesets`, organised by their original spreadsheet category, subcategory and item.
 
-This is a browsing index. Pokémon and related marks are the property of their respective owners. Individual fan-made artwork belongs to its creators.
+```text
+_tilesets/
+  outdoor-tilesets/
+    beaches/
+      beach-and-sea-tiles-peekychew/
+        README.md
+        metadata.json
+  indoor-tilesets/
+  indoor-outdoor-tilesets/
+  misc-tilesets/
+  animated-tilesets/
+  auto-tilesets/
+  in-out-misc-etc/
+_catalog/
+  catalog.json
+scripts/
+  sync.ts
+site/
+  src/
+    main.ts
+    style.css
+```
+
+| Sheet category | Browse |
+| --- | --- |
+| Outdoor | [_tilesets/outdoor-tilesets](_tilesets/outdoor-tilesets/) |
+| Indoor | [_tilesets/indoor-tilesets](_tilesets/indoor-tilesets/) |
+| Indoor + Outdoor | [_tilesets/indoor-outdoor-tilesets](_tilesets/indoor-outdoor-tilesets/) |
+| Misc | [_tilesets/misc-tilesets](_tilesets/misc-tilesets/) |
+| Animated | [_tilesets/animated-tilesets](_tilesets/animated-tilesets/) |
+| Autotiles | [_tilesets/auto-tilesets](_tilesets/auto-tilesets/) |
+| Collections | [_tilesets/in-out-misc-etc](_tilesets/in-out-misc-etc/) |
+
+## Credits and usage
+
+Each item links to its creator's original post and the source spreadsheet, with attribution and usage information as recorded in the sheet. The spreadsheet's noncommercial use notice does not imply permission to redistribute images. No image preview or image scraping system is currently included.
+
+Individual tilesets belong to their respective artists. Pokémon and related marks belong to their owners. Corrections, attribution changes and removal requests are welcome through GitHub issues.
+
+## Tooling
+
+Node.js 22 or later:
+
+```sh
+npm install
+npm run sync
+npm run check
+npm run build
+```
+
+The [sync workflow](.github/workflows/sync-catalog.yml) imports spreadsheet metadata into `_tilesets` and deploys the static TypeScript site to GitHub Pages.
