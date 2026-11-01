@@ -8,7 +8,7 @@
 
 ![Gen 2 Style Overworld Tiles for Pokemon Essentials - sprite post - Imgur — source-hosted preview](https://i.imgur.com/soxaRSKh.jpg)
 
-This preview is loaded directly from the original source site; the image is **not redistributed** here.
+This preview is loaded directly from the source site; the image is **not redistributed** here.
 
 ## Details
 
