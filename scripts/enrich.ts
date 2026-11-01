@@ -29,7 +29,12 @@ function text(s: string): string {
   return s.replace(/<[^>]*>/g, ' ').replace(/&amp;/gi, '&')
     .replace(/&quot;/gi, '"').replace(/&#(?:39|x27);/gi, "'")
     .replace(/&lt;/gi, '<').replace(/&gt;/gi, '>').replace(/&nbsp;/gi, ' ')
-    .replace(/\s+/g, ' ').trim();
+    .replace(/&middot;/gi, '·').replace(/&hellip;/gi, '…')
+    .replace(/&#(x[0-9a-f]+|\d+);/gi, (_, n: string) => {
+      const code = n.startsWith('x') ? parseInt(n.slice(1), 16) : Number(n);
+      return code > 0 && code < 0x110000 ? String.fromCodePoint(code) : '';
+    })
+    .replace(/[\u200b-\u200f\ufeff]/g, '').replace(/\s+/g, ' ').trim();
 }
 function imageUrl(input: string, origin: string): string {
   try {
@@ -72,13 +77,28 @@ async function inspect(entry: Entry): Promise<Extra> {
   if (!(response.headers.get('content-type') || '').includes('text/html')) return { status: 'not_html' };
   const html = (await response.text()).slice(0, 600000);
   const m = metadata(html);
+  // XenForo resources commonly embed the actual image in the post body, not in og:image.
+  // Only take obvious content images, never avatars or social icons.
+  let postImage = '';
+  const post = html.match(/<div[^>]+class=["'][^"']*bbWrapper[^"']*["'][^>]*>([\s\S]{0,22000})/i)?.[1] || '';
+  for (const tag of post.match(/<img\b[^>]*>/gi) || []) {
+    const attrs = [...tag.matchAll(/(?:data-src|src)\s*=\s*(["'])(.*?)\1/gi)];
+    for (const attr of attrs) {
+      const candidate = imageUrl(attr[2], source);
+      if (candidate && /(?:i\.ibb\.co|\/attachments\/|\/data\/attachments\/|imgur\.com\/|\/uploads\/)/i.test(candidate)) {
+        postImage = candidate;
+        break;
+      }
+    }
+    if (postImage) break;
+  }
   let excerpt = m['og:description'] || m.description || '';
   if (excerpt.length < 40 && host.endsWith('eeveeexpo.com')) {
     excerpt = text(html.match(/<div[^>]+class=["'][^"']*bbWrapper[^"']*["'][^>]*>([\s\S]{0,6000})/i)?.[1] || '');
   }
   return { status: 'ok', source_title: (m['og:title'] || '').slice(0, 140) || undefined,
     excerpt: excerpt.slice(0, 230) || undefined,
-    image_candidate: imageUrl(m['og:image'] || m['twitter:image'] || '', source) || undefined };
+    image_candidate: postImage || imageUrl(m['og:image'] || m['twitter:image'] || '', source) || undefined };
 }
 async function saveApproved(entry: Entry, extra: Extra): Promise<boolean> {
   const approved = approvals[entry.source_url];
