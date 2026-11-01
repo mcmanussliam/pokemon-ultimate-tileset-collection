@@ -39,7 +39,7 @@ jobs:
         run: npm run sync
 
       - name: Generate small local previews from accessible artwork
-        run: npm run thumbnails -- --limit=250
+        run: npm run thumbnails -- --limit=750
         continue-on-error: true
 
       - name: Commit refreshed metadata, folders, and previews
