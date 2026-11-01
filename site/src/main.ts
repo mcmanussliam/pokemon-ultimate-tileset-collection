@@ -19,7 +19,7 @@ type Entry = {
 const REPO = 'https://github.com/mcmanussliam/pokemon-ultimate-tileset-collection';
 const SHEET = 'https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0';
 const BANNER = 'https://raw.githubusercontent.com/mcmanussliam/pokemon-ultimate-tileset-collection/main/assets/banner.png';
-const items: Entry[] = (catalog.entries as Entry[]).filter(e => !!e.folder && !!e.title);
+const items: Entry[] = (catalog.entries as unknown as Entry[]).filter(e => !!e.folder && !!e.title);
 const GROUPS: Array<[string, string]> = [
   ['outdoor-tilesets', 'Outdoor'],
   ['indoor-tilesets', 'Indoor'],
