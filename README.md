@@ -8,11 +8,11 @@
 >
 > This repository is **just a fork / reorganisation for easier browsing, reading, searching and finding tilesets**. It is not the original spreadsheet, its official continuation, or a claim of authorship over the compilation or any artist's work. For original context, changes and corrections, please consult the spreadsheet and each creator's artwork page.
 
-## Explore the visual gallery
+## Browse the collection
 
-### **[Open the Tileset Atlas →](https://mcmanussliam.github.io/pokemon-ultimate-tileset-collection/)**
+### **[Open the tileset catalogue →](https://mcmanussliam.github.io/pokemon-ultimate-tileset-collection/)**
 
-A simple, responsive gallery written in TypeScript. Search by **title, artist, setting or generation**; filter by sheet category and subcategory; sort results; and jump straight to the original creator page or the tile's folder.
+A simple white catalogue written in TypeScript. Search by title or artist; filter by category, subcategory and generation; switch between list and grid views; open the original artwork or its index folder.
 
 Gallery deployment is handled by [GitHub Actions](.github/workflows/sync-catalog.yml). If the gallery URL is not yet active, select **Settings → Pages → Build and deployment → Source: GitHub Actions**, then rerun the workflow.
 
@@ -43,14 +43,15 @@ _catalog/
   catalog.json         # Source for the TypeScript gallery
 scripts/
   sync.ts              # Imports the Google Sheet and migrates folders safely
-  previews.ts          # Finds source-hosted Open Graph image previews
+  thumbnails.ts        # Creates local WebP thumbnails of real artwork
 site/
   src/
     main.ts            # Lightweight searchable gallery
     style.css
 ~~~
 
-**Gallery image policy:** Artwork is **not copied into this repository just because it appears in the spreadsheet**. When a source page provides a publicly hosted image preview, the gallery may display it directly from the creator's site and link back to the original. Otherwise, entries show a clearly labelled visual placeholder until a suitable preview is available. Locally stored tileset.png assets are appropriate only where redistribution is permitted.
+**Image previews:** Previews are generated locally by [`scripts/thumbnails.ts`](scripts/thumbnails.ts) using real artwork images, downscaled to small WebP files. They are not invented/generated pictures, and the gallery no longer hotlinks remote images. The resolver tries existing tileset files first, then authorised image URL overrides, then publicly accessible source-page images. If an image cannot be fetched, the entry shows **Image unavailable**. Creators can request preview removal via [_catalog/preview-exclusions.json](_catalog/preview-exclusions.json) or a GitHub issue. The repository does not automatically redistribute full-resolution tilesets.
+
 
 ## Attribution and usage
 
@@ -68,7 +69,7 @@ Node.js 22 or newer:
 ~~~sh
 npm install
 npm run sync                  # Read original Google Sheet, update folders/metadata
-npm run previews -- --limit=90 # Optional source-hosted previews (does not download images)
+npm run thumbnails -- --limit=250 # Resolve and save local WebP thumbnails
 npm run check                 # TypeScript type check
 npm run build                 # Static gallery to dist/
 ~~~
