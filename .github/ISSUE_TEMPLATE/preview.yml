@@ -1,0 +1,42 @@
+name: Contribute a tileset preview
+description: Supply a real artwork thumbnail with the artist's permission.
+title: "Preview: "
+body:
+  - type: markdown
+    attributes:
+      value: "Please only submit artwork that you created or that the creator explicitly authorised us to publish as a small thumbnail. A link to public artwork alone is not permission."
+  - type: input
+    id: source_url
+    attributes:
+      label: Original tileset source URL
+      description: Paste the exact source link from the collection.
+      placeholder: https://example.org/artist/tileset
+    validations:
+      required: true
+  - type: input
+    id: attribution
+    attributes:
+      label: Artist credit
+      placeholder: Name to show for the artwork
+    validations:
+      required: true
+  - type: input
+    id: evidence_url
+    attributes:
+      label: Evidence of permission to rehost a small preview
+      description: Link to the creator's specific permission or licence. Being publicly viewable is insufficient.
+      placeholder: https://example.org/creator-permission
+    validations:
+      required: true
+  - type: upload
+    id: file
+    attributes:
+      label: Preview image
+      description: Attach the real tileset artwork or an approved screenshot, ideally PNG. We will downsize it for the gallery.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Permission confirmation
+      options:
+        - label: I am the artist or have checked that the creator allows this image to be republished as a thumbnail in this index.
+          required: true

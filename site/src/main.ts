@@ -226,7 +226,10 @@ function showTile(id: string): void {
     '<p class="dialog-note">Check the artist page for usage conditions. Artwork belongs to its creator.</p>' +
     '<div class="dialog-actions">' +
     (original ? '<a href="' + text(original) + '" target="_blank" rel="noopener noreferrer">Original artwork ↗</a>' : '') +
-    '<a href="' + text(pathFor(entry)) + '" target="_blank" rel="noopener noreferrer">Collection files ↗</a></div></div>';
+    '<a href="' + text(pathFor(entry)) + '" target="_blank" rel="noopener noreferrer">Collection files ↗</a>' +
+    '<a href="' + text(REPO + '/issues/new?template=preview.yml&source_url=' + encodeURIComponent(entry.source_url) +
+      '&title=' + encodeURIComponent('Preview: ' + title(entry.title))) +
+    '" target="_blank" rel="noopener noreferrer">Contribute a preview ↗</a></div></div>';
   if (!dialog.open) dialog.showModal();
   $('close-tile').addEventListener('click', () => dialog.close());
 }

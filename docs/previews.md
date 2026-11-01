@@ -36,3 +36,5 @@ A manually triggered or monthly GitHub Actions workflow named Enrich source meta
 ## Expanding coverage
 
 Creators can submit authorised small previews by pull request, including permission evidence. Contact DeviantArt for API application access and clarify image caching rights before attempting large-scale hosting.
+
+Contributors can also open the Contribute a tileset preview GitHub issue form from any tileset's detail view. The form requests a real artwork file, artist credit and evidence of permission.
