@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "sync": "tsx scripts/sync.ts",
-    "build": "vite build",
-    "check": "tsc --noEmit"
+    "build": "tsx scripts/prepare-previews.ts && vite build",
+    "check": "tsc --noEmit",
+    "enrich": "tsx scripts/enrich.ts"
   },
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "sharp": "^0.34.4"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",

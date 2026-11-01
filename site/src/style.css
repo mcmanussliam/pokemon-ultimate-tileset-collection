@@ -101,3 +101,37 @@ footer a { color: #555; }
 @media (max-width: 420px) {
   .results.grid { grid-template-columns: 1fr; }
 }
+
+/* Authorised artwork only. Missing previews do not create decorative placeholders. */
+.tile-trigger { display: block; background: none; border: 0; padding: 0; text-align: left; cursor: pointer; }
+.tile-trigger:focus-visible { outline-offset: 3px; }
+.entry-summary { max-width: 50ch; font-size: 12px; color: #777; line-height: 1.45; margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.preview-thumb { display: block; width: 108px; height: 78px; object-fit: contain; background: #f6f6f6; border: 1px solid #eee; border-radius: 3px; }
+.entry-row.with-preview { grid-template-columns: 108px minmax(180px,1fr) 155px 115px 100px; }
+.entry-card .preview-large { width: 100%; height: 180px; border: 0; border-radius: 0; border-bottom: 1px solid #eee; }
+.tile-dialog { position: fixed; width: min(640px, calc(100% - 28px)); max-height: min(85vh, 860px); padding: 0; border: 1px solid #ddd; border-radius: 8px; background: #fff; color: #222; box-shadow: 0 18px 60px #0002; }
+.tile-dialog::backdrop { background: #0007; }
+.dialog-top { display: flex; justify-content: space-between; align-items: center; padding: 12px 22px; color: #777; font-size: 12px; border-bottom: 1px solid #eee; }
+.dialog-top button { background: none; color: #444; border: 0; padding: 7px; }
+.tile-dialog .preview-large { margin: 22px auto 0; width: calc(100% - 44px); max-height: 260px; height: auto; border: 0; }
+.dialog-body { padding: 24px; }
+.dialog-body h2 { font-size: 23px; margin: 0 0 8px; font-weight: 650; line-height: 1.25; }
+.dialog-artist { color: #555; margin: 0 0 20px; }
+.dialog-description { line-height: 1.65; color: #444; margin: 0 0 20px; }
+.dialog-body dl { border-top: 1px solid #eee; margin: 0; padding: 8px 0; }
+.dialog-body dl div { display: grid; grid-template-columns: 125px 1fr; gap: 15px; padding: 9px 0; font-size: 13px; }
+.dialog-body dt { color: #888; }
+.dialog-body dd { margin: 0; }
+.dialog-note { color: #777; font-size: 12px; line-height: 1.6; margin: 16px 0; }
+.dialog-actions { display: flex; flex-wrap: wrap; gap: 24px; padding-top: 14px; border-top: 1px solid #eee; }
+@media (max-width: 1100px) {
+  .entry-row.with-preview { grid-template-columns: 88px minmax(160px,1fr) 125px 95px; }
+  .entry-row.with-preview .preview-thumb { width: 88px; height: 70px; }
+}
+@media (max-width: 650px) {
+  .entry-row.with-preview { grid-template-columns: 65px minmax(0,1fr) auto; }
+  .entry-row.with-preview .preview-thumb { width: 65px; height: 60px; }
+  .entry-card .preview-large { height: 130px; }
+  .dialog-body { padding: 16px; }
+  .dialog-body dl div { grid-template-columns: 95px 1fr; }
+}
