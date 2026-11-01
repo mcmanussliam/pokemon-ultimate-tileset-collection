@@ -158,12 +158,12 @@ function render(reset = false) {
 const app = $('app');
 app.innerHTML = [
   '<div class="shell">',
-  '<header class="topbar"><a class="site-name" href="./">' + text(COLLECTION) + '</a>',
+  '<header class="topbar">',
   '<nav aria-label="Main"><a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">Original spreadsheet ↗</a>',
   '<a href="' + REPO + '" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav></header>',
   '<div class="banner"><img src="' + text(import.meta.env.BASE_URL + 'banner.png') + '" alt="Pokémon Ultimate Tileset Collection banner" /></div>',
-  '<main><section class="intro"><h1>' + text(COLLECTION) + '</h1>',
-  '<p>Browse the <a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">' + text(COLLECTION) + '</a> by artist, category and generation. ',
+  '<main><section class="intro">',
+  '<p>Browse tilesets by artist, category and generation. Explore the <a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">original spreadsheet</a>. ',
   'This is an unofficial index; the original creators retain their artwork and usage rights.</p></section>',
   '<section class="browser" aria-label="Browse tilesets">',
   '<aside class="sidebar"><div class="side-heading">Categories</div><div id="categories" class="categories"></div>',
