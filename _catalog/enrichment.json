@@ -275,5 +275,283 @@
     "source_title": "Tiles - Water autotiles (magiscarf)",
     "excerpt": "I have made water autotiles out of Magiscarf&#039;s revamped tiles. They are not perfect at all, but they do have a water animation and work for the click-and-drag autotile format. They come in three colours: puddle, pond and lake",
     "checked_at": "2026-11-01T23:26:28.843Z"
+  },
+  "https://eeveeexpo.com/resources/1313/": {
+    "status": "ok",
+    "source_title": "Tiles - Emerald Shallow Water Autotile",
+    "excerpt": "Requested by a user on r/PokemonRMXP. I've been meaning to make a compilation of all my Emerald tiles but I'll release this one early to help anybody who...",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/297/": {
+    "status": "ok",
+    "source_title": "Tiles - BW Waterfall Autotiles",
+    "excerpt": "Water + WFEdge should be placed in the tileset on layer one. New Waterfall or WaterTop should go on layer 2. Spoiler: Waterfall Spoiler: Waterfall Top Spoiler: Waterfall Edge Cliff If you already have the BW Spring Tileset, you do",
+    "image_candidate": "https://i.imgur.com/yYJ3jL0.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.pokecommunity.com/threads/hgss-autotiles-for-rmxp.455912/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1638/": {
+    "status": "ok",
+    "source_title": "Gen 3 Lava Autotile - Flowing, Static, Lava-fall",
+    "excerpt": "I made a lava autotile for my own, custom tileset - which consists of gen 3 assets! I'll probably update this autotile in the future, since the volcanic area is still a bit further away from being developed right now. But if someo",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1420/": {
+    "status": "ok",
+    "source_title": "Tiles - Sawsbucks Coffee Pack (Cafe Tileset + Coffee Items + Barista Trainer Class)",
+    "excerpt": "Have you ever wanted to enjoy the wonders of chain restaurants in your Gen 3-style fangame? Well, now you can! Inspired by the Sawsbucks Cafe from the murdered-for-copyright Roblox game Pokemon Brick Bronze, I've made some resourc",
+    "image_candidate": "https://eeveeexpo.com/attachments/22165/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/462/": {
+    "status": "ok",
+    "source_title": "Tiles - HGSS for RMXP",
+    "excerpt": "Hey, makers Today I would like to share with you the first results of a big project started several months ago: RIP & fix of all the graphic resources from the HGSS games. I've been in the making business for almost 15 years, and ",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/208/": {
+    "status": "ok",
+    "source_title": "Tiles - Public Gen 4 Tileset",
+    "excerpt": "Want to begin developing your game without the worry of using \"placeholder\" tiles? Look no further! This tileset includes a variety of tiles from many...",
+    "image_candidate": "https://i.imgur.com/B49Sf5S.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/295/": {
+    "status": "ok",
+    "source_title": "Tiles - WesleyFG's DPPt Tileset",
+    "excerpt": "I found this tileset on DeviantArt some time ago and decided format it to RPG Maker XP. This is the result ~",
+    "image_candidate": "https://i.ibb.co/3Mn2f5r/Route-01.png%20https://i.ibb.co/jGFLdvd/Aelice-Town.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/242/": {
+    "status": "ok",
+    "source_title": "Tiles - Alistair's Tileset",
+    "excerpt": "I found this tileset on DeviantArt some time ago and decided format it to RPG Maker XP. This is the result ~",
+    "image_candidate": "https://eeveeexpo.com/attachments/182/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1377/": {
+    "status": "ok",
+    "source_title": "Tiles - Pokemon Gaia Tileset- Compiled",
+    "excerpt": "Project Gaia is collection of Pokemon Tiles which were most official. The collection is made by zetavares852 a deviantart user. This tileset was compiled by pixelmaster a lot of time ago, (in case you need it) but that was not com",
+    "image_candidate": "https://eeveeexpo.com/attachments/20579/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/585/": {
+    "status": "ok",
+    "source_title": "The Last Nurse Joy - Resource Pack",
+    "excerpt": "ayyyy i heard you like the graphics from the last nurse joy. we got: the tilesets the overworld sprites the little pokemon sprites w/ all the animation frames pretty much everything else If there is something that isn't included, ",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.pokecommunity.com/threads/ikarus-tileset-patch-v3-fixed-version-gen-4-tiles-for-fire-red.532686/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.pokecommunity.com/threads/rom-hacking-sprites-pack-overworlds-trainer-sprites-tilesets-and-more.527581/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.pokecommunity.com/threads/pokemon-firered-hgss-graphics-style-patch.402382/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://forums.pokemmo.com/index.php?/topic/172958-ips-darkshades-kanto-ds-style-graphics-tileset-patch/": {
+    "status": "ok",
+    "source_title": "[IPS] Darkshade's Kanto DS style graphics (tileset patch)",
+    "excerpt": "Darkshade's Kanto DS style graphics original patch/hack author: @Darkshade some error fixing: Omega (whack a hack forums) patch extraction: @Sirbagsalot Download: https://www.mediafire.com/file/tkalb53n16vwkcz/Pokemmo+FireRed+Tile",
+    "image_candidate": "https://forums.pokemmo.com/uploads/monthly_2024_10/onebug.png.147458be63c70c0e71e1670fa786c2c4.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/636/": {
+    "status": "ok",
+    "source_title": "Tiles - Ready to Use: KingTapir Tilesets",
+    "excerpt": "Hey everyone! I'm a really big fan of KingTapir. I love his tiles, his style has always been awesome, and I'm here to show you just how awesome they are by letting you use these sets in your own game. These were compiled with King",
+    "image_candidate": "https://eeveeexpo.com/attachments/3798/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/212/": {
+    "status": "ok",
+    "source_title": "Tiles - Abandoned Ship/S.S. Tidal FR/LG-style conversion",
+    "excerpt": "All of the tiles in this tileset should fit a FRLG style graphical look. I've also added a few extra things that were not part of the original tileset, and I replaced a few tiles with ones that exist in FRLG. I've also made a door",
+    "image_candidate": "https://i.imgur.com/ocJ6pED.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1200/": {
+    "status": "ok",
+    "source_title": "Pokémon Syvin Resource Pack",
+    "excerpt": "You MUST give credit when using this pack.",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/26/": {
+    "status": "ok",
+    "source_title": "Tiles - Public Gen 3 Tileset",
+    "excerpt": "These are the tilesets I made for my Game Jam 2016 project Pokémon Umber. Since those were all for public use anyway, I thought I might as well post them...",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/843/": {
+    "status": "ok",
+    "source_title": "Tiles - Elle's Animated Saffron Gym Pack",
+    "excerpt": "I've been working on mapping FRLG Saffron City lately and I thought it would be fun to animate the gym as much as I can because I love making simple animated autotiles. Actually, it's been so long that I played those games, I didn",
+    "image_candidate": "https://eeveeexpo.com/attachments/7598/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/15/": {
+    "status": "ok",
+    "source_title": "Tiles - Ready to use Tilesets",
+    "excerpt": "I made these sets because I wanted to practice arranging and aligning, so I found artisits who had made a few tiles but hadn't necessarily compiled them.",
+    "image_candidate": "https://i.imgur.com/xy1zPiF.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/621/": {
+    "status": "ok",
+    "source_title": "Ekat's Public Gen 3 Tilesets",
+    "excerpt": "This is a big collection of public tiles, autotiles, and tilesets that I've made. The download includes 81 sets, as well as a txt. file with complete...",
+    "image_candidate": "https://i.imgur.com/PwdeyAd.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1349/": {
+    "status": "ok",
+    "source_title": "Pokémon Afterlife Game Jam #9 Resource Pack",
+    "excerpt": "This resource pack contains audio, autotiles, characters, fogs, items, Pokémon sprites, tilesets, and titles edited and created for Pokémon Afterlife.",
+    "image_candidate": "https://eeveeexpo.com/attachments/19932/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/892/": {
+    "status": "ok",
+    "source_title": "Reunion Graphics Pack",
+    "excerpt": "So included is all the graphics that were made extra and weren't already included in the default PSDK. I have some OW sprites, some tiles, fogs, arts; the usual stuff. There is also a subfolder with spoilers; if you can avoid it, ",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/1010/": {
+    "status": "ok",
+    "source_title": "Scotophobia Resource Pack",
+    "excerpt": "As usual, all I ask is that you don't use spoilers in video thumbnails. Thanks. -Elle Link To Game Credits Sprites: Aveontrainer Elle Idilio Kyle-Dove Tiles: Elle TheDeadHeroAlistair Videogame Visual Assets: Dokapon Millenium Ques",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/844/": {
+    "status": "ok",
+    "source_title": "Other - PSDK .XXV Graphics Asset Pack",
+    "excerpt": "PSDK .XXV features a mix of tiles that are default for the PSDK kit as well as custom ones. As well there are some customized battle backgrounds, some custom sprites and a lot of animated tiles / animated autotiles! I hope you wil",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/785/": {
+    "status": "ok",
+    "source_title": "The Tower of Hats - Resource Pack",
+    "excerpt": "My full and complete resource pack for my summer Game Jam entry \" The Tower of Hats \". Game Link I know technically once I publish this, you're all free to use as you please, but I just have one request. You don't have to listen t",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/576/": {
+    "status": "ok",
+    "source_title": "Pokémon Nightshade Resource Pack",
+    "excerpt": "Overview Here is my resource pack for Pokémon Nightshade. You'll find plenty of goodies, including: Animations Autotiles Battle Backgrounds Characters Fogs Icons Panoramas Pictures Tilesets Titles Trainers Preview of the Assets Cr",
+    "image_candidate": "https://i.imgur.com/r28saUs.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/360/": {
+    "status": "ok",
+    "source_title": "Pokémon Apathy Resource Pack",
+    "excerpt": "Here are all the custom graphics used in Apathy. This includes autotiles, icons, fogs, panoramas, battle backs, pictures, characters, and windowskins. There is also the single piece of music, a custom version of the song Island Li",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/233/": {
+    "status": "ok",
+    "source_title": "Pokémon Wayward resource pack",
+    "excerpt": "Here are all the custom resources from my Pokémon Wayward game jam video game adventure. This includes text boxes, battle UI, overworld sprites, trainer sprites, tilesets and autotiles. Alternative download: https://drive.google.c",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/226/": {
+    "status": "ok",
+    "source_title": "Christmas Stories Resources",
+    "excerpt": "The pack contains a few autotiles, battlebacks, characters, and a custom modified version of the cave tileset for gen V game. Previews: Credits No credits needed! Reactions: TechSkylander1518 Author xUMG Downloads 1,621 Views 1,99",
+    "image_candidate": "https://i.imgur.com/5Vruu5F.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/828/": {
+    "status": "ok",
+    "source_title": "any version - [Map Pack] Remastered Kanto and Johto Overworld and Caves, with Bonus Beta maps (and Music)",
+    "excerpt": "Remastered Kanto and Johto Overworld and Caves Map Pack, with Bonus Beta maps (and Music) Are you a solo dev struggling to fill all the roles? Are you adept at writing and designing, and in need of a ready-made playground for your",
+    "image_candidate": "https://i.imgur.com/ehGGZ3n.png",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://bisaboard.bisafans.de/index.php?thread/295978-mapping-ressourcen/": {
+    "status": "ok",
+    "source_title": "Mapping-Ressourcen - BisaBoard",
+    "image_candidate": "https://community.bisafans.de/index.php?attachment/101183-3-gen-beerenb%C3%A4ume-png/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://bisaboard.bisafans.de/index.php?thread/205582-mapping-ressourcen/": {
+    "status": "ok",
+    "source_title": "Mapping Ressourcen - BisaBoard",
+    "image_candidate": "https://community.bisafans.de/index.php?attachment/90046-we6xqck2-png/",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemoncrystal/sheet/9212/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemoncrystal/sheet/9213/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemoncrystal/sheet/9209/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemongoldsilver/sheet/60234/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemongoldsilver/sheet/60235/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemongoldsilver/sheet/60233/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemonyellow/sheet/145656/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemonredblue/sheet/63033/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.spriters-resource.com/game_boy_gbc/pokemongreen/sheet/144001/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.reddit.com/r/PokemonROMhacks/comments/1de5m2z/release_leob0505_orasinspired_custom_tilesets_for/": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://tcrf.net/Pok%C3%A9mon_Gold_and_Silver/Unused_Graphics": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://eeveeexpo.com/resources/25/": {
+    "status": "ok",
+    "source_title": "Overworlds - Gen 5 Overworld Pack",
+    "excerpt": "This resource pack was created by yours truly. In it you will find most of the Unova OW's you will ever need. Just about every trainer and NPC is included, but there are probably a few I didn't include as they were not as necessar",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://discord.com/invite/pokecommunity": {
+    "status": "manual",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://github.com/TeamAquasHideout/Team-Aquas-Asset-Repo/tree/main/Tilesets/The%20Great%20Tileset%20Exchange/Full%20Tilesets/Volcano%20Secondary": {
+    "status": "manual",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.deviantart.com/peekychew/art/Public-Tileset-Dump-3-4-Beach-and-Sea-828233122": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
+  },
+  "https://www.deviantart.com/peekychew/art/Beach-and-Sea-Tiles-642129192": {
+    "status": "http_403",
+    "checked_at": "2026-11-01T23:27:36.218Z"
   }
 }
