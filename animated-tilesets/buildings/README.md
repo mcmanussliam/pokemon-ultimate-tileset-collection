@@ -5,10 +5,10 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **7 tilesets**
 
-- [\[object Object\]](object-object-aveontrainer/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-27/) — Aveontrainer
 - [Neo Sinnoh - Building 01 by MikeJAJ on DeviantArt](neo-sinnoh-building-01-mikejaj/) — MikeJAJ
 - [Neo Sinnoh - Building 02 by MikeJAJ on DeviantArt](neo-sinnoh-building-02-mikejaj/) — MikeJAJ
 - [Neo Sinnoh - Macro Cosmos Headquarters by MikeJAJ on DeviantArt](neo-sinnoh-macro-cosmos-headquarters-mikejaj/) — MikeJAJ
 - [Neo Sinnoh - Pokemart by MikeJAJ on DeviantArt](neo-sinnoh-pokemart-mikejaj/) — MikeJAJ
 - [Neo Sinnoh - Pokemon Center by MikeJAJ on DeviantArt](neo-sinnoh-pokemon-center-mikejaj/) — MikeJAJ
+- [Water-Mill by aveontrainer on DeviantArt](water-mill-aveontrainer/) — Aveontrainer
+- [Wind Mill by aveontrainer on DeviantArt](wind-mill-aveontrainer/) — Aveontrainer

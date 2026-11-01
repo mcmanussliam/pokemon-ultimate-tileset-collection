@@ -1,0 +1,19 @@
+{
+  "title": "Game Boy Advance - Pokémon FireRed / LeafGreen - Tileset 2 - The Spriters Resource",
+  "artist": "fabnt",
+  "category_1": "Pokémon FR/LG",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/sheet/3863/",
+  "credits": "Ripped (up to you)",
+  "number": "8",
+  "sheet": "Indoor + Outdoor Tilesets",
+  "sheet_row": 14,
+  "id": "https-www-spriters-resource-com-game-boy-advance-pokemonfireredleafgreen-sheet-3863",
+  "subcategory": "pokemon-frlg",
+  "folder": "indoor-outdoor-tilesets/pokemon-frlg/game-boy-advance-pokemon-firered-leafgreen-tileset-2-fabnt",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

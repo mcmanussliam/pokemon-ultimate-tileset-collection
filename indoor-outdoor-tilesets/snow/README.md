@@ -5,4 +5,4 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **1 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
+- [Cold Storage Interior by Ekat99 on DeviantArt](cold-storage-interior-ekat99/) — Ekat99

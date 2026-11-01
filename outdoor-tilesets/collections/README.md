@@ -5,39 +5,39 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **39 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-ekat99-71/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-magiscarf-88/) — Magiscarf
-- [\[object Object\]](object-object-anarlaurendil/) — Anarlaurendil
-- [\[object Object\]](object-object-anarlaurendil-190/) — Anarlaurendil
-- [\[object Object\]](object-object-thedeadheroalistair/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-thedeadheroalistair-207/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-thedeadheroalistair-208/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-thedeadheroalistair-212/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-thedeadheroalistair-213/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-chaoticcherrycake/) — ChaoticCherryCake
-- [\[object Object\]](object-object-chaoticcherrycake-216/) — ChaoticCherryCake
-- [\[object Object\]](object-object-chaoticcherrycake-218/) — ChaoticCherryCake
-- [\[object Object\]](object-object-aldo/) — Aldo
-- [\[object Object\]](object-object-thedeadheroalistair-370/) — TheDeadHeroAlistair
+- [\[Free\] New Tiles Mastersheet by Magiscarf on DeviantArt](free-new-tiles-mastersheet-magiscarf/) — Magiscarf
 - [4th gen Outdoor Tileset by Akizakura16 on DeviantArt](4th-gen-outdoor-tileset-akizakura16/) — Akizakura16
+- [Alienor Tileset v1 - Pokemon Sacred Phoenix by Anarlaurendil on DeviantArt](alienor-tileset-v1-pokemon-sacred-phoenix-anarlaurendil/) — Anarlaurendil
+- [Alienor Tileset v2 - Pokemon Sacred Phoenix by Anarlaurendil on DeviantArt](alienor-tileset-v2-pokemon-sacred-phoenix-anarlaurendil/) — Anarlaurendil
+- [Autumn Peaks RPG Maker Tileset by TheDeadHeroAlistair on DeviantArt](autumn-peaks-rpg-maker-tileset-thedeadheroalistair/) — TheDeadHeroAlistair
 - [Bloodlines Tileset by mustafa505 on DeviantArt](bloodlines-tileset-mustafa505/) — mustafa505
+- [Bunch o' free tiles by Magiscarf on DeviantArt](bunch-o-free-tiles-magiscarf/) — Magiscarf
 - [BW Spring Tileset version 2 (WIP) by TheFloofyPanthar on DeviantArt](bw-spring-tileset-version-2-wip-thefloofypanthar/) — TheFloofyPanthar
 - [DoT Day11 - Resort Mix by Phyromatical on DeviantArt](dot-day11-resort-mix-phyromatical/) — Phyromatical
 - [DoT Day5 - Gen 4 Halloween by Phyromatical on DeviantArt](dot-day5-gen-4-halloween-phyromatical/) — Phyromatical
+- [Ekat's Mega Gen 3 Set by Ekat99 on DeviantArt](ekat-s-mega-gen-3-set-ekat99/) — Ekat99
 - [Fall Collection (Route tiles) by ditto209 on DeviantArt](fall-collection-route-tiles-ditto209/) — ditto209
 - [Flurmimons Tileset - Nature](flurmimons-tileset-nature-flurmimon/) — Flurmimon
+- [Free Tileset 16x16 by ChaoticCherryCake on DeviantArt](free-tileset-16x16-chaoticcherrycake/) — ChaoticCherryCake
 - [Gen 2 Style Overworld Tiles for Pokemon Essentials - sprite post - Imgur](gen-2-style-overworld-tiles-for-pokemon-essentials-sprite-post-skidmarc25/) — SkidMarc25
 - [KODER COMPILATION by KOD-3R on DeviantArt](koder-compilation-kod-3r/) — KOD-3R
+- [Latest Tileset So Far by TheDeadHeroAlistair on DeviantArt](latest-tileset-so-far-thedeadheroalistair/) — TheDeadHeroAlistair
 - [MagentaGiratina's Gen 3 Outdoor Tiles \| Eevee Expo](magentagiratina-s-gen-3-outdoor-tiles-magentagiratina/) — MagentaGiratina
+- [Meandering Marsh Tileset by TheDeadHeroAlistair on DeviantArt](meandering-marsh-tileset-thedeadheroalistair/) — TheDeadHeroAlistair
+- [Mega Outdoor Tileset by Ekat99 on DeviantArt](mega-outdoor-tileset-ekat99/) — Ekat99
 - [Misc B/W Tiles - Seasons Edit by UltimoSpriter on DeviantArt](misc-b-w-tiles-seasons-edit-ultimospriter/) — UltimoSpriter
 - [New Fairy/Dragon Tileset \| Eevee Expo](new-fairy-dragon-tileset-cinnayva/) — CinnaYva
 - [Pokemon Gen 2 HD Sprites by SkidMarc25 on DeviantArt](pokemon-gen-2-hd-sprites-skidmarc25/) — SkidMarc25
 - [Pokemon Halycon Outdoors](pokemon-halycon-outdoors-ekat99/) — Ekat99
+- [Pokemon Tileset From Public Tiles 32x32 by ChaoticCherryCake on DeviantArt](pokemon-tileset-from-public-tiles-32x32-chaoticcherrycake/) — ChaoticCherryCake
+- [Pokemon Tileset From Public Tiles by ChaoticCherryCake on DeviantArt](pokemon-tileset-from-public-tiles-chaoticcherrycake/) — ChaoticCherryCake
+- [Project Helidor Caves Cliffs and Rocks Megaset by TheDeadHeroAlistair on DeviantArt](project-helidor-caves-cliffs-and-rocks-megaset-thedeadheroalistair/) — TheDeadHeroAlistair
+- [Project Heliodor Composite RPG Maker XP Tileset by TheDeadHeroAlistair on DeviantArt](project-heliodor-composite-rpg-maker-xp-tileset-thedeadheroalistair/) — TheDeadHeroAlistair
 - [Project Heliodor Ground Megaset](project-heliodor-ground-megaset-thedeadheroalistair/) — TheDeadHeroAlistair
+- [Project Heliodor Modular House Megaset by TheDeadHeroAlistair on DeviantArt](project-heliodor-modular-house-megaset-thedeadheroalistair/) — TheDeadHeroAlistair
 - [Project Heliodor Trees Megaset](project-heliodor-trees-megaset-thedeadheroalistair/) — TheDeadHeroAlistair
 - [Public Tileset by The-Red-eX on DeviantArt](public-tileset-the-red-ex/) — The-Red-eX
+- [Random Tiles \| Eevee Expo](random-tiles-aldo/) — Aldo
 - [RPG Maker XP friendly tileset Version 3 outdoor by dirtywiggles on DeviantArt](rpg-maker-xp-friendly-tileset-version-3-outdoor-dirtywiggles/) — dirtywiggles
 - [Some custom tiles by mustafa505 on DeviantArt](some-custom-tiles-mustafa505/) — mustafa505
 - [Starter Kit Tileset by UltimoSpriter on DeviantArt](starter-kit-tileset-ultimospriter/) — UltimoSpriter

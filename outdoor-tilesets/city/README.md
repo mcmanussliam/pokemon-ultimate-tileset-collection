@@ -5,31 +5,31 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **28 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-ekat99-13/) — Ekat99
-- [\[object Object\]](object-object-ekat99-16/) — Ekat99
-- [\[object Object\]](object-object-ekat99-20/) — Ekat99
-- [\[object Object\]](object-object-ekat99-41/) — Ekat99
-- [\[object Object\]](object-object-ekat99-42/) — Ekat99
-- [\[object Object\]](object-object-ekat99-47/) — Ekat99
-- [\[object Object\]](object-object-ekat99-55/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-kingtapir/) — KingTapir
-- [\[object Object\]](object-object-kingtapir-102/) — KingTapir
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-thedeadheroalistair/) — TheDeadHeroAlistair
-- [\[object Object\]](object-object-thedeadheroalistair-211/) — TheDeadHeroAlistair
 - [Accumula Town Tileset by UltimoSpriter on DeviantArt](accumula-town-tileset-ultimospriter/) — UltimoSpriter
+- [Agate Village (Tileset) by KingTapir on DeviantArt](agate-village-tileset-kingtapir/) — KingTapir
 - [Aspertia City Tileset by UltimoSpriter on DeviantArt](aspertia-city-tileset-ultimospriter/) — UltimoSpriter
+- [Brick City by Ekat99 on DeviantArt](brick-city-ekat99/) — Ekat99
 - [Citrus Outdoors](citrus-outdoors-ekat99/) — Ekat99
+- [City Tiles by Magiscarf on DeviantArt](city-tiles-magiscarf/) — Magiscarf
+- [Dark City Tiles 01 by J-Treecko252 on DeviantArt](dark-city-tiles-01-j-treecko252/) — J-Treecko252
 - [Driftveil City Tileset by UltimoSpriter on DeviantArt](driftveil-city-tileset-ultimospriter/) — UltimoSpriter
+- [Fortree City RPG Maker Tileset by TheDeadHeroAlistair on DeviantArt](fortree-city-rpg-maker-tileset-thedeadheroalistair/) — TheDeadHeroAlistair
+- [Future Verdanturf Town by Ekat99 on DeviantArt](future-verdanturf-town-ekat99/) — Ekat99
+- [Gateon Port (Tileset) by KingTapir on DeviantArt](gateon-port-tileset-kingtapir/) — KingTapir
 - [GD - Tileset - Stadt Boden - Grab by The-Red-eX on DeviantArt](gd-tileset-stadt-boden-grab-the-red-ex/) — The-Red-eX
+- [Jonquil Town by Ekat99 on DeviantArt](jonquil-town-ekat99/) — Ekat99
+- [Juniper City RPG Maker Tileset by TheDeadHeroAlistair on DeviantArt](juniper-city-rpg-maker-tileset-thedeadheroalistair/) — TheDeadHeroAlistair
+- [Mt. Moon Village by Ekat99 on DeviantArt](mt-moon-village-ekat99/) — Ekat99
+- [Nuphar City by Ekat99 on DeviantArt](nuphar-city-ekat99/) — Ekat99
 - [Nuvema Town Tileset by UltimoSpriter on DeviantArt](nuvema-town-tileset-ultimospriter/) — UltimoSpriter
+- [Odisea Outdoors by Ekat99 on DeviantArt](odisea-outdoors-ekat99/) — Ekat99
 - [Pewter City Tiles Add On by ditto209 on DeviantArt](pewter-city-tiles-add-on-ditto209/) — ditto209
 - [Pewter City Tileset (Updated) by ditto209 on DeviantArt](pewter-city-tileset-updated-ditto209/) — ditto209
+- [Pokemon Halcyon - Venice Outdoors by Ekat99 on DeviantArt](pokemon-halcyon-venice-outdoors-ekat99/) — Ekat99
 - [Primoris City](primoris-city-ditto209/) — ditto209
 - [Sanyou City Tiles by UltimoSpriter on DeviantArt](sanyou-city-tiles-ultimospriter/) — UltimoSpriter
 - [Shippou City Exterior Tiles by UltimoSpriter on DeviantArt](shippou-city-exterior-tiles-ultimospriter/) — UltimoSpriter
+- [Silph City by Ekat99 on DeviantArt](silph-city-ekat99/) — Ekat99
 - [Thistle Town by Ekat99 on DeviantArt](thistle-town-ekat99/) — Ekat99
 - [Tons of Tileset 2/10 - Fear Town Tileset by Phyromatical on DeviantArt](tons-of-tileset-2-10-fear-town-tileset-phyromatical/) — Phyromatical
 - [Virbank City Tileset by UltimoSpriter on DeviantArt](virbank-city-tileset-ultimospriter/) — UltimoSpriter

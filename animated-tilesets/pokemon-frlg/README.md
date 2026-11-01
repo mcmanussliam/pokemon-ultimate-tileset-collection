@@ -5,4 +5,4 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **1 tilesets**
 
-- [\[object Object\]](object-object-kepler27/) — Kepler27
+- [Game Boy Advance - Pokémon FireRed / LeafGreen - Animated Tiles - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-animated-tiles-kepler27/) — Kepler27

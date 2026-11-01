@@ -5,6 +5,6 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **3 tilesets**
 
-- [\[object Object\]](object-object-heartlessdragoon/) — Heartlessdragoon
-- [\[object Object\]](object-object-glassbetelgeuse/) — glassbetelgeuse
-- [\[object Object\]](object-object-glassbetelgeuse-231/) — glassbetelgeuse
+- [Emerald Snow Tiles \| Eevee Expo](emerald-snow-tiles-glassbetelgeuse/) — glassbetelgeuse
+- [Game Boy Advance - Pokémon Emerald - Exterior Tileset - The Spriters Resource](game-boy-advance-pokemon-emerald-exterior-tileset-heartlessdragoon/) — Heartlessdragoon
+- [Tiles - Emerald Outdoors \| Eevee Expo](tiles-emerald-outdoors-glassbetelgeuse/) — glassbetelgeuse

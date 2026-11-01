@@ -5,5 +5,5 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **2 tilesets**
 
-- [\[object Object\]](object-object-pixelmister/) — PixelMister
+- [Pokemon Gaia Project Tileset (COMPLETE-ISH) by PixelMister on DeviantArt](pokemon-gaia-project-tileset-complete-ish-pixelmister/) — PixelMister
 - [Pokemon Gaia Tileset - Compiled](pokemon-gaia-tileset-compiled-a-i-r/) — A.I.R

@@ -5,5 +5,5 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **2 tilesets**
 
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-12/) — J-Treecko252
+- [Swamp (Deep) Autotile by J-Treecko252 on DeviantArt](swamp-deep-autotile-j-treecko252/) — J-Treecko252
+- [Swamp (Shallow) Autotile by J-Treecko252 on DeviantArt](swamp-shallow-autotile-j-treecko252/) — J-Treecko252

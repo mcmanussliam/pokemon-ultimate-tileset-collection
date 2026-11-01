@@ -5,9 +5,9 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **6 tilesets**
 
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-magiscarf-2/) — Magiscarf
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
 - [Animated Sewer Spout](animated-sewer-spout-elinthind/) — Elinthind
+- [Animated White Sand Shore Autotile by J-Treecko252 on DeviantArt](animated-white-sand-shore-autotile-j-treecko252/) — J-Treecko252
+- [Next Animated Water Tiles by Magiscarf on DeviantArt](next-animated-water-tiles-magiscarf/) — Magiscarf
+- [Water Animation by Magiscarf on DeviantArt](water-animation-magiscarf/) — Magiscarf
 - [Waterfall+River animation frames by Hek-el-grande on DeviantArt](waterfall-river-animation-frames-hek-el-grande/) — Hek-el-grande
 - [Wave Character with Movement Pattern](wave-character-with-movement-pattern-bigoof/) — BigOOF

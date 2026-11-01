@@ -6,23 +6,12 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 **50 tilesets**
 
 - [!!Pokemon Safari Plants MV by skatefilter5 on DeviantArt](pokemon-safari-plants-mv-skatefilter5/) — skatefilter5
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-kingtapir/) — KingTapir
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-146/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-147/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-148/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-149/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-151/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-154/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-155/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-156/) — J-Treecko252
-- [\[object Object\]](object-object-anon-alpaca/) — Anon Alpaca
+- [Alola Tile Dump #3 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-3-check-description-kingtapir/) — KingTapir
 - [Autumnal Colours by PeekyChew on DeviantArt](autumnal-colours-peekychew/) — PeekyChew
 - [Big Trees Tileset Expansion](big-trees-tileset-expansion-ditto209/) — ditto209
 - [BW Taragonia-Mix - Special Trees by Phyromatical on DeviantArt](bw-taragonia-mix-special-trees-phyromatical/) — Phyromatical
 - [Days Of Winter Tileset](days-of-winter-tileset-ditto209/) — ditto209
+- [Dead Tree Tiles Ver.01 by J-Treecko252 on DeviantArt](dead-tree-tiles-ver-01-j-treecko252/) — J-Treecko252
 - [DoT Day1 - New Autumn Tiles by Phyromatical on DeviantArt](dot-day1-new-autumn-tiles-phyromatical/) — Phyromatical
 - [DoT Day10 - Cherryblossom Edits by Phyromatical on DeviantArt](dot-day10-cherryblossom-edits-phyromatical/) — Phyromatical
 - [DoT Day14 - Magiscarf Edits by Phyromatical on DeviantArt](dot-day14-magiscarf-edits-phyromatical/) — Phyromatical
@@ -31,6 +20,7 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 - [Free tiles by Zeo254 on DeviantArt](free-tiles-zeo254/) — Zeo254
 - [Gen 3 Palm Trees](gen-3-palm-trees-thepurplest/) — ThePurplest
 - [Hidden Grotto GBC](hidden-grotto-gbc-caos-cepi/) — Caos-Cepi
+- [More Trees by Magiscarf on DeviantArt](more-trees-magiscarf/) — Magiscarf
 - [New Tree Style](new-tree-style-hek-el-grande/) — Hek-el-grande
 - [New tree style by Hek-el-grande on DeviantArt](new-tree-style-hek-el-grande-377/) — Hek-el-grande
 - [Outdoor Collection Big Trees](outdoor-collection-big-trees-ekat99/) — Ekat99
@@ -42,6 +32,7 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 - [PokeNertualUnfinishedAlt](pokenertualunfinishedalt-skatefilter5/) — skatefilter5
 - [Public tiles by Zeo. by Zeo254 on DeviantArt](public-tiles-by-zeo-zeo254/) — Zeo254
 - [Safari Zone MV tilesets](safari-zone-mv-tilesets-skatefilter5/) — skatefilter5
+- [Tiles - Big Tree Pack \| Eevee Expo](tiles-big-tree-pack-anon-alpaca/) — Anon Alpaca
 - [Tileset by Lordkazeh on DeviantArt](tileset-lordkazeh/) — Lordkazeh
 - [tileset gba style 2 V 2 by Zeo254 on DeviantArt](tileset-gba-style-2-v-2-zeo254/) — Zeo254
 - [Tileset x by Zeo254 on DeviantArt](tileset-x-zeo254/) — Zeo254
@@ -54,4 +45,13 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 - [Tree Tiles Ver 10](tree-tiles-ver-10-j-treecko252/) — J-Treecko252
 - [Tree Tiles Ver 14](tree-tiles-ver-14-j-treecko252/) — J-Treecko252
 - [Tree Tiles Ver 15](tree-tiles-ver-15-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.03 by J-Treecko252 on DeviantArt](tree-tiles-ver-03-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.04 by J-Treecko252 on DeviantArt](tree-tiles-ver-04-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.05 by J-Treecko252 on DeviantArt](tree-tiles-ver-05-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.06 by J-Treecko252 on DeviantArt](tree-tiles-ver-06-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.08 by J-Treecko252 on DeviantArt](tree-tiles-ver-08-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.11 by J-Treecko252 on DeviantArt](tree-tiles-ver-11-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.12 by J-Treecko252 on DeviantArt](tree-tiles-ver-12-j-treecko252/) — J-Treecko252
+- [Tree Tiles Ver.13 by J-Treecko252 on DeviantArt](tree-tiles-ver-13-j-treecko252/) — J-Treecko252
 - [Trees (Tileset expansion) by ditto209 on DeviantArt](trees-tileset-expansion-ditto209/) — ditto209
+- [Yellow Garden by Ekat99 on DeviantArt](yellow-garden-ekat99/) — Ekat99

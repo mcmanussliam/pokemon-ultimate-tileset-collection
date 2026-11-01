@@ -5,24 +5,21 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **42 tilesets**
 
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-122/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-123/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-160/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-162/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-175/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-179/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-183/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-185/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-186/) — J-Treecko252
-- [\[object Object\]](object-object-anarlaurendil/) — Anarlaurendil
-- [\[object Object\]](object-object-chaoticcherrycake/) — ChaoticCherryCake
-- [\[object Object\]](object-object-pinkscales-da/) — pinkscales-DA
 - [DoT Day12 - Old Ways by Phyromatical on DeviantArt](dot-day12-old-ways-phyromatical/) — Phyromatical
 - [HGSS Tiles thing 1.0 by Nod3rator on DeviantArt](hgss-tiles-thing-1-0-nod3rator/) — Nod3rator
 - [New Soil](new-soil-hek-el-grande/) — Hek-el-grande
+- [Path Tiles EX - Add-Ons 01 by J-Treecko252 on DeviantArt](path-tiles-ex-add-ons-01-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Asphalt (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-sand-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Asphalt (Transparent) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-transparent-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Cobbled Road (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-cobbled-road-sand-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Dead Grass 01 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-01-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Dead Grass 02 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-02-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Dead Grass 03 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-03-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Heavily Worn Grass by J-Treecko252 on DeviantArt](path-tiles-ex-heavily-worn-grass-j-treecko252/) — J-Treecko252
 - [Path Tiles EX - Rocky by J-Treecko252 on DeviantArt](path-tiles-ex-rocky-j-treecko252/) — J-Treecko252
 - [Path Tiles EX - Sandstone Road by J-Treecko252 on DeviantArt](path-tiles-ex-sandstone-road-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - Stone Road (Snow) by J-Treecko252 on DeviantArt](path-tiles-ex-stone-road-snow-j-treecko252/) — J-Treecko252
+- [Path Tiles EX - White Sand by J-Treecko252 on DeviantArt](path-tiles-ex-white-sand-j-treecko252/) — J-Treecko252
 - [Path Tiles EX Add Ons 02](path-tiles-ex-add-ons-02-j-treecko252/) — J-Treecko252
 - [Path Tiles EX Add Ons 03](path-tiles-ex-add-ons-03-j-treecko252/) — J-Treecko252
 - [Path Tiles EX Asphalt Grass](path-tiles-ex-asphalt-grass-j-treecko252/) — J-Treecko252
@@ -45,5 +42,8 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 - [Path Tiles EX Stone Road Grass](path-tiles-ex-stone-road-grass-j-treecko252/) — J-Treecko252
 - [Path Tiles EX Stone Road Sand](path-tiles-ex-stone-road-sand-j-treecko252/) — J-Treecko252
 - [Path Tiles EX Worn Gras](path-tiles-ex-worn-gras-j-treecko252/) — J-Treecko252
+- [Paved stone path - Tileset by Anarlaurendil on DeviantArt](paved-stone-path-tileset-anarlaurendil/) — Anarlaurendil
 - [Pokemon A1 Mt Moon Ground by skatefilter5 on DeviantArt](pokemon-a1-mt-moon-ground-skatefilter5/) — skatefilter5
 - [Pokemon A1 Neutral Ground](pokemon-a1-neutral-ground-skatefilter5/) — skatefilter5
+- [Tileset 10000 Views by ChaoticCherryCake on DeviantArt](tileset-10000-views-chaoticcherrycake/) — ChaoticCherryCake
+- [Various Outside Tiles by pinkscales-DA on DeviantArt](various-outside-tiles-pinkscales-da/) — pinkscales-DA

@@ -1,0 +1,19 @@
+{
+  "title": "Game Boy Advance - Pokémon Emerald - Exterior Tileset - The Spriters Resource",
+  "artist": "Heartlessdragoon",
+  "category_1": "Pokémon Emerald",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_advance/pokemonemerald/sheet/61816/",
+  "credits": "Ripped (up to you)",
+  "number": "92",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 295,
+  "id": "https-www-spriters-resource-com-game-boy-advance-pokemonemerald-sheet-61816",
+  "subcategory": "pokemon-emerald",
+  "folder": "outdoor-tilesets/pokemon-emerald/game-boy-advance-pokemon-emerald-exterior-tileset-heartlessdragoon",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

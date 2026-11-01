@@ -5,13 +5,6 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **21 tilesets**
 
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-136/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-137/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-139/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-140/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-142/) — J-Treecko252
-- [\[object Object\]](object-object-madrvst/) — madRVST
 - [Main Terrain by skatefilter5 on DeviantArt](main-terrain-skatefilter5/) — skatefilter5
 - [Mountain Rock Tiles: Version 1 by UltimoSpriter on DeviantArt](mountain-rock-tiles-version-1-ultimospriter/) — UltimoSpriter
 - [Pokemon B2 Mt Moon Ground 1 by skatefilter5 on DeviantArt](pokemon-b2-mt-moon-ground-1-skatefilter5/) — skatefilter5
@@ -22,7 +15,14 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 - [Rock Tiles Ver 05](rock-tiles-ver-05-j-treecko252/) — J-Treecko252
 - [Rock Tiles Ver 08](rock-tiles-ver-08-j-treecko252/) — J-Treecko252
 - [Rock Tiles Ver 10](rock-tiles-ver-10-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.02 by J-Treecko252 on DeviantArt](rock-tiles-ver-02-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.03 by J-Treecko252 on DeviantArt](rock-tiles-ver-03-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.04 by J-Treecko252 on DeviantArt](rock-tiles-ver-04-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.06 by J-Treecko252 on DeviantArt](rock-tiles-ver-06-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.07 by J-Treecko252 on DeviantArt](rock-tiles-ver-07-j-treecko252/) — J-Treecko252
+- [Rock Tiles Ver.09 by J-Treecko252 on DeviantArt](rock-tiles-ver-09-j-treecko252/) — J-Treecko252
 - [Tiles x e y 2.0 Work in progress(By zeo) by Zeo254 on DeviantArt](tiles-x-e-y-2-0-work-in-progress-by-zeo-zeo254/) — Zeo254
 - [Tileset by Zeo. by Zeo254 on DeviantArt](tileset-by-zeo-zeo254/) — Zeo254
 - [Tileset GBA 2](tileset-gba-2-zeo254/) — Zeo254
 - [Tilesxygba Zpsd5b9820f by Zeo254 on DeviantArt](tilesxygba-zpsd5b9820f-zeo254/) — Zeo254
+- [Weird Rocks 1 by madRVST on DeviantArt](weird-rocks-1-madrvst/) — madRVST

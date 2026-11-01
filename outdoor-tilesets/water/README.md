@@ -5,9 +5,9 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **6 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
 - [B-W Water Tiles by UltimoSpriter on DeviantArt](b-w-water-tiles-ultimospriter/) — UltimoSpriter
+- [Deep Sea by Ekat99 on DeviantArt](deep-sea-ekat99/) — Ekat99
 - [GD - Tileset - Wassergebirge by The-Red-eX on DeviantArt](gd-tileset-wassergebirge-the-red-ex/) — The-Red-eX
+- [Seaweed by Magiscarf on DeviantArt](seaweed-magiscarf/) — Magiscarf
 - [Tons of Tileset 6/10 - Alternate Gallanty Water by Phyromatical on DeviantArt](tons-of-tileset-6-10-alternate-gallanty-water-phyromatical/) — Phyromatical
 - [Tons of Tileset 9/10 - something like water by Phyromatical on DeviantArt](tons-of-tileset-9-10-something-like-water-phyromatical/) — Phyromatical

@@ -5,5 +5,5 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **2 tilesets**
 
-- [\[object Object\]](object-object-aveontrainer/) — Aveontrainer
 - [DoT Day4 - Water Dungeon Tileset by Phyromatical on DeviantArt](dot-day4-water-dungeon-tileset-phyromatical/) — Phyromatical
+- [Sewer Tileset by aveontrainer on DeviantArt](sewer-tileset-aveontrainer/) — Aveontrainer

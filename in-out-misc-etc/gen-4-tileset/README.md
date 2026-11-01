@@ -5,6 +5,6 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **3 tilesets**
 
-- [\[object Object\]](object-object-moca/) — moca
-- [\[object Object\]](object-object-libertytwins/) — LibertyTwins
-- [\[object Object\]](object-object-budabeth/) — budabeth
+- [\[IPS\] Darkshade's Kanto DS style graphics (tileset patch) - Client Customization - PokeMMO](ips-darkshade-s-kanto-ds-style-graphics-tileset-patch-client-c-budabeth/) — budabeth
+- [Ikarus' Tileset Patch v3 (Fixed Version) - Gen 4 Tiles for Fire Red](ikarus-tileset-patch-v3-fixed-version-gen-4-tiles-for-fire-red-libertytwins/) — LibertyTwins
+- [Tiles - Public Gen 4 Tileset \| Eevee Expo](tiles-public-gen-4-tileset-moca/) — moca

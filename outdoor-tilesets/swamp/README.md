@@ -5,4 +5,4 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **1 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
+- [Swamp Tiles by Ekat99 on DeviantArt](swamp-tiles-ekat99/) — Ekat99

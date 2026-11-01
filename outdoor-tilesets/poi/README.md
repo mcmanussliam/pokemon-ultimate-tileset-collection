@@ -5,23 +5,23 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **20 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-ekat99-11/) — Ekat99
-- [\[object Object\]](object-object-ekat99-12/) — Ekat99
-- [\[object Object\]](object-object-ekat99-14/) — Ekat99
-- [\[object Object\]](object-object-ekat99-18/) — Ekat99
-- [\[object Object\]](object-object-ekat99-28/) — Ekat99
-- [\[object Object\]](object-object-ekat99-56/) — Ekat99
-- [\[object Object\]](object-object-ekat99-68/) — Ekat99
-- [\[object Object\]](object-object-ekat99-70/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-magiscarf-78/) — Magiscarf
-- [\[object Object\]](object-object-magiscarf-85/) — Magiscarf
+- [Cherubi Station (Cherubi Pallet) by Ekat99 on DeviantArt](cherubi-station-cherubi-pallet-ekat99/) — Ekat99
 - [Clown Jail](clown-jail-ekat99/) — Ekat99
 - [Cold Storage Tileset by UltimoSpriter on DeviantArt](cold-storage-tileset-ultimospriter/) — UltimoSpriter
+- [Concrete Tiles by Magiscarf on DeviantArt](concrete-tiles-magiscarf/) — Magiscarf
+- [Dreamyard by Ekat99 on DeviantArt](dreamyard-ekat99/) — Ekat99
 - [Dreamyard Tileset by UltimoSpriter on DeviantArt](dreamyard-tileset-ultimospriter/) — UltimoSpriter
+- [Fall Cafe by Ekat99 on DeviantArt](fall-cafe-ekat99/) — Ekat99
+- [Floating Cliffs by Ekat99 on DeviantArt](floating-cliffs-ekat99/) — Ekat99
+- [Freebies by Magiscarf on DeviantArt](freebies-magiscarf/) — Magiscarf
+- [Further Additional More Tiles by Magiscarf on DeviantArt](further-additional-more-tiles-magiscarf/) — Magiscarf
 - [Heaven Realm Tileset (XY-Styled) by Phyromatical on DeviantArt](heaven-realm-tileset-xy-styled-phyromatical/) — Phyromatical
 - [Mishmash of tropical tiles by princess-phoenix on DeviantArt](mishmash-of-tropical-tiles-princess-phoenix/) — princess-phoenix
+- [Nosepass Spring by Ekat99 on DeviantArt](nosepass-spring-ekat99/) — Ekat99
+- [Park Gazebo by Ekat99 on DeviantArt](park-gazebo-ekat99/) — Ekat99
+- [Park Tileset by Ekat99 on DeviantArt](park-tileset-ekat99/) — Ekat99
+- [Safari Zone by Ekat99 on DeviantArt](safari-zone-ekat99/) — Ekat99
 - [Shining Grove - Tileset Mix by Phyromatical on DeviantArt](shining-grove-tileset-mix-phyromatical/) — Phyromatical
 - [Summer Blues](summer-blues-ekat99/) — Ekat99
 - [The Overly-Red Forest Tileset by princess-phoenix on DeviantArt](the-overly-red-forest-tileset-princess-phoenix/) — princess-phoenix
+- [Wild West by Ekat99 on DeviantArt](wild-west-ekat99/) — Ekat99

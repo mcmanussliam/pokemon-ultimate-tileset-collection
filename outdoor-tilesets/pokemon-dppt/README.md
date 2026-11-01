@@ -5,5 +5,5 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **2 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-chromussama/) — ChromusSama
+- [DPPt Exterior Ground Tiles \| Eevee Expo](dppt-exterior-ground-tiles-chromussama/) — ChromusSama
+- [Sinnoh Tile Dump by Ekat99 on DeviantArt](sinnoh-tile-dump-ekat99/) — Ekat99

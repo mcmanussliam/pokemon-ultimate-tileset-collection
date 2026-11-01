@@ -5,10 +5,10 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **7 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-ekat99-9/) — Ekat99
-- [\[object Object\]](object-object-ekat99-26/) — Ekat99
-- [\[object Object\]](object-object-ekat99-27/) — Ekat99
+- [Fairy Woods - Default Pallet by Ekat99 on DeviantArt](fairy-woods-default-pallet-ekat99/) — Ekat99
+- [Fairy Woods - Idilio Pallet by Ekat99 on DeviantArt](fairy-woods-idilio-pallet-ekat99/) — Ekat99
+- [Haunted Woods (Normal Pallet) by Ekat99 on DeviantArt](haunted-woods-normal-pallet-ekat99/) — Ekat99
+- [Haunted Woods by Ekat99 on DeviantArt](haunted-woods-ekat99/) — Ekat99
 - [Ivy Woods](ivy-woods-ekat99/) — Ekat99
 - [New forest tiles by Hek-el-grande on DeviantArt](new-forest-tiles-hek-el-grande/) — Hek-el-grande
 - [Public Tileset Dump 4/4 - Standard Route by PeekyChew on DeviantArt](public-tileset-dump-4-4-standard-route-peekychew/) — PeekyChew

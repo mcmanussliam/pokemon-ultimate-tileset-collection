@@ -5,64 +5,51 @@ Tilesets from **misc tilesets**. [Original sheet](https://docs.google.com/spread
 
 **78 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
-- [\[object Object\]](object-object-ekat99-2/) — Ekat99
-- [\[object Object\]](object-object-ekat99-4/) — Ekat99
-- [\[object Object\]](object-object-magiscarf/) — Magiscarf
-- [\[object Object\]](object-object-magiscarf-6/) — Magiscarf
-- [\[object Object\]](object-object-kingtapir/) — KingTapir
-- [\[object Object\]](object-object-kingtapir-9/) — KingTapir
-- [\[object Object\]](object-object-j-treecko252/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-11/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-12/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-13/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-14/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko252-15/) — J-Treecko252
-- [\[object Object\]](object-object-j-treecko254/) — J-Treecko254
-- [\[object Object\]](object-object-j-treecko255/) — J-Treecko255
-- [\[object Object\]](object-object-anarlaurendil/) — Anarlaurendil
-- [\[object Object\]](object-object-aveontrainer/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-21/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-22/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-23/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-24/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-25/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-26/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-27/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-29/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-30/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-31/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-32/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-33/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-34/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-35/) — Aveontrainer
-- [\[object Object\]](object-object-aveontrainer-36/) — Aveontrainer
-- [\[object Object\]](object-object-lo8jd/) — Lo8jd
-- [\[object Object\]](object-object-beertierchen/) — Beertierchen
-- [\[object Object\]](object-object-beertierchen-40/) — Beertierchen
-- [\[object Object\]](object-object-u-lamington/) — u/lamington_
-- [\[object Object\]](object-object-riftclaw/) — riftclaw
-- [\[object Object\]](object-object-jinxed/) — Jinxed
-- [\[object Object\]](object-object-zerame/) — Zerame
-- [\[object Object\]](object-object-anon-alpaca/) — Anon Alpaca
-- [\[object Object\]](object-object-chromussama/) — ChromusSama
-- [\[object Object\]](object-object-droid779/) — Droid779
-- [\[object Object\]](object-object-vanillasunshine/) — VanillaSunshine
-- [\[object Object\]](object-object-elinthind/) — Elinthind
-- [\[object Object\]](object-object-pinkscales-da/) — pinkscales-DA
+- [Airplane by aveontrainer on DeviantArt](airplane-aveontrainer/) — Aveontrainer
+- [Airport by aveontrainer on DeviantArt](airport-aveontrainer/) — Aveontrainer
 - [Apricorn Tree Charsets (with Animation)](apricorn-tree-charsets-with-animation-diverscope/) — Diverscope
+- [Back Hoe by aveontrainer on DeviantArt](back-hoe-aveontrainer/) — Aveontrainer
+- [Bar Tileset by aveontrainer on DeviantArt](bar-tileset-aveontrainer/) — Aveontrainer
 - [Bull Dozer](bull-dozer-aveontrainer/) — Aveontrainer
+- [Cattle Car by Ekat99 on DeviantArt](cattle-car-ekat99/) — Ekat99
+- [Child's Room + Teatime Tileset Supplement by Elinthind on DeviantArt](child-s-room-teatime-tileset-supplement-elinthind/) — Elinthind
+- [Church Pew by aveontrainer on DeviantArt](church-pew-aveontrainer/) — Aveontrainer
+- [Console Tiles 01 by J-Treecko252 on DeviantArt](console-tiles-01-j-treecko252/) — J-Treecko252
+- [Crane by aveontrainer on DeviantArt](crane-aveontrainer/) — Aveontrainer
+- [Crystal Tiles by J-Treecko252 on DeviantArt](crystal-tiles-j-treecko252/) — J-Treecko252
 - [Desert GBC](desert-gbc-caos-cepi/) — Caos-Cepi
+- [Desert Rocks by aveontrainer on DeviantArt](desert-rocks-aveontrainer/) — Aveontrainer
 - [DoT Day16 - Hearthome Gym Rips by Phyromatical on DeviantArt](dot-day16-hearthome-gym-rips-phyromatical/) — Phyromatical
 - [DoT Day20 - Veilstone Gym Tiles by Phyromatical on DeviantArt](dot-day20-veilstone-gym-tiles-phyromatical/) — Phyromatical
+- [Factory by aveontrainer on DeviantArt](factory-aveontrainer/) — Aveontrainer
+- [Farm Tractor by aveontrainer on DeviantArt](farm-tractor-aveontrainer/) — Aveontrainer
+- [Forklift by aveontrainer on DeviantArt](forklift-aveontrainer/) — Aveontrainer
+- [Fossils by aveontrainer on DeviantArt](fossils-aveontrainer/) — Aveontrainer
+- [Fountain by aveontrainer on DeviantArt](fountain-aveontrainer/) — Aveontrainer
+- [FRLG Tilesets - Cars by pinkscales-DA on DeviantArt](frlg-tilesets-cars-pinkscales-da/) — pinkscales-DA
+- [Galar Tile Dump #2 by KingTapir on DeviantArt](galar-tile-dump-2-kingtapir/) — KingTapir
+- [Garden Objects by Ekat99 on DeviantArt](garden-objects-ekat99/) — Ekat99
+- [Gen 3 Giant Monster Skin Moult Tiles by Beertierchen on DeviantArt](gen-3-giant-monster-skin-moult-tiles-beertierchen/) — Beertierchen
+- [Gen 3 Pokémon statues (free to use with credit) : r/PokemonRMXP](gen-3-pokemon-statues-free-to-use-with-credit-r-pokemonrmxp-u-lamington/) — u/lamington_
 - [HGSS Terrain Balls](hgss-terrain-balls-nocturn/) — NocTurn
+- [Hospital Tileset by aveontrainer on DeviantArt](hospital-tileset-aveontrainer/) — Aveontrainer
 - [i don't want to create spam with this posts, i promise... but MORE VEHICLES!! : r/PokemonRMXP](i-don-t-want-to-create-spam-with-this-posts-i-promise-but-more-new-personality-9208-aka/) — New_Personality_9208 aka Sochipa
+- [Item Box Tiles by J-Treecko252 on DeviantArt](item-box-tiles-by-j-treecko252-j-treecko254/) — J-Treecko254
 - [Items Overworld Tileset](items-overworld-tileset-the-cool-treecko/) — The cool Treecko
+- [Japanese Guzei by aveontrainer on DeviantArt](japanese-guzei-aveontrainer/) — Aveontrainer
 - [Lots of Boats by PeekyChew on DeviantArt](lots-of-boats-peekychew/) — PeekyChew
+- [Machinery by aveontrainer on DeviantArt](machinery-aveontrainer/) — Aveontrainer
+- [Medieval weaponry and prison tileset by Anarlaurendil on DeviantArt](medieval-weaponry-and-prison-tileset-anarlaurendil/) — Anarlaurendil
 - [Mine Tiles by laecoris on DeviantArt](mine-tiles-laecoris/) — laecoris
+- [Misc Pokemon Tiles by Ekat99 on DeviantArt](misc-pokemon-tiles-ekat99/) — Ekat99
+- [Misc. Tiles by Magiscarf on DeviantArt](misc-tiles-magiscarf/) — Magiscarf
 - [Outside FLRG Custom Assets](outside-flrg-custom-assets-pinkscales-da/) — pinkscales-DA
 - [Outside FLRG Custom Rocks](outside-flrg-custom-rocks-pinkscales-da/) — pinkscales-DA
+- [Overworld Item Shine by J-Treecko252 on DeviantArt](overworld-item-shine-j-treecko252/) — J-Treecko252
 - [Patio Objects](patio-objects-ekat99/) — Ekat99
+- [Payloader tiles by Beertierchen on DeviantArt](payloader-tiles-beertierchen/) — Beertierchen
+- [Playground Tiles 01 by J-Treecko252 on DeviantArt](playground-tiles-01-j-treecko252/) — J-Treecko252
+- [Pog Dungeon Tiles](pog-dungeon-tiles-zerame/) — Zerame
 - [POKEMON BW AIRPORT TILESET FOR POKEMON FANGAMES by TOBALCR on DeviantArt](pokemon-bw-airport-tileset-for-pokemon-fangames-by-tobalcr-tobaclr/) — TOBACLR
 - [POKEMON BW ARCADE TILESET FOR POKEMON FANGAMES by TOBALCR on DeviantArt](pokemon-bw-arcade-tileset-for-pokemon-fangames-by-tobalcr-tobaclr/) — TOBACLR
 - [POKEMON BW CHRISTMAS TILESET FOR POKEMON FANGAMES by TOBALCR on DeviantArt](pokemon-bw-christmas-tileset-for-pokemon-fangames-by-tobalcr-tobaclr/) — TOBACLR
@@ -72,14 +59,27 @@ Tilesets from **misc tilesets**. [Original sheet](https://docs.google.com/spread
 - [POKEMON BW PARTY TILESET FOR POKEMON FANGAMES by TOBALCR on DeviantArt](pokemon-bw-party-tileset-for-pokemon-fangames-by-tobalcr-tobaclr/) — TOBACLR
 - [POKEMON BW RESTAURANT TILESET FOR POKEMON FANGAMES by TOBALCR on DeviantArt](pokemon-bw-restaurant-tileset-for-pokemon-fangames-by-tobalcr-tobaclr/) — TOBACLR
 - [POKEMON BW SMITHY TILESET FOR POKEMON by TOBALCR on DeviantArt](pokemon-bw-smithy-tileset-for-pokemon-by-tobalcr-tobaclr/) — TOBACLR
+- [Pokemon gen 3 style magnet train tileset by Lo8jd on DeviantArt](pokemon-gen-3-style-magnet-train-tileset-lo8jd/) — Lo8jd
+- [Pokemon Legends: Arceus - Jubilife Watchtower by KingTapir on DeviantArt](pokemon-legends-arceus-jubilife-watchtower-kingtapir/) — KingTapir
+- [Pokémon-Amie Decoration Megapack](pokemon-amie-decoration-megapack-jinxed/) — Jinxed
 - [PokEssentials Gen 5 Elevator Platform by TheFloofyPanthar on DeviantArt](pokessentials-gen-5-elevator-platform-thefloofypanthar/) — TheFloofyPanthar
 - [Pretty Authentic HGSS Apricorn Trees](pretty-authentic-hgss-apricorn-trees-derxwnakapsyla/) — DerxwnaKapsyla
 - [Rare berries tree spritesheet - OW by Anarlaurendil on DeviantArt](rare-berries-tree-spritesheet-ow-anarlaurendil/) — Anarlaurendil
+- [Rock Smash Vase Tiles by J-Treecko252 on DeviantArt](rock-smash-vase-tiles-by-j-treecko252-j-treecko255/) — J-Treecko255
 - [S.S Tidal + Abandoned Ship Remakes by PeekyChew on DeviantArt](s-s-tidal-abandoned-ship-remakes-peekychew/) — PeekyChew
+- [Sakura Tree by aveontrainer on DeviantArt](sakura-tree-aveontrainer/) — Aveontrainer
 - [Sign Tiles by J-Treecko252 on DeviantArt](sign-tiles-by-j-treecko252-j-treecko253/) — J-Treecko253
+- [Tauros Skeleton Tiles by J-Treecko252 on DeviantArt](tauros-skeleton-tiles-j-treecko252/) — J-Treecko252
+- [Tent Tiles by J-Treecko252 on DeviantArt](tent-tiles-j-treecko252/) — J-Treecko252
+- [Tiles - Better Berry Tree Graphics \| Eevee Expo](tiles-better-berry-tree-graphics-droid779/) — Droid779
+- [Tiles - Big Flora Pack \| Eevee Expo](tiles-big-flora-pack-anon-alpaca/) — Anon Alpaca
+- [Tiles - Customizable Bikes (Gen 3 & Gen 4) \| Eevee Expo](tiles-customizable-bikes-gen-3-gen-4-vanillasunshine/) — VanillaSunshine
+- [Tiles - Flower Encounter Grass \| Eevee Expo](tiles-flower-encounter-grass-riftclaw/) — riftclaw
+- [Tiles - Pokemon Emerald Doors Pack (+ Trees and Rocks) \| Eevee Expo](tiles-pokemon-emerald-doors-pack-trees-and-rocks-chromussama/) — ChromusSama
 - [Tiles Bar Juukou Senki Bullet Battlers](tiles-bar-juukou-senki-bullet-battlers-caos-cepi/) — Caos-Cepi
 - [Tons of Tileset 10/10 - Town on Bridges Tileset by Phyromatical on DeviantArt](tons-of-tileset-10-10-town-on-bridges-tileset-phyromatical/) — Phyromatical
 - [Tons of Tileset 7/10 - Pokemon League ripped by Phyromatical on DeviantArt](tons-of-tileset-7-10-pokemon-league-ripped-phyromatical/) — Phyromatical
+- [Torii by Magiscarf on DeviantArt](torii-magiscarf/) — Magiscarf
 - [Truck Pkmn 3rd Generation](truck-pkmn-3rd-generation-caos-cepi/) — Caos-Cepi
 - [Trunks! by Hek-el-grande on DeviantArt](trunks-hek-el-grande/) — Hek-el-grande
 - [Underwater Objects](underwater-objects-doofl/) — doofl

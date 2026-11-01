@@ -5,10 +5,10 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **7 tilesets**
 
-- [\[object Object\]](object-object-glassbetelgeuse/) — glassbetelgeuse
-- [\[object Object\]](object-object-elinthind/) — Elinthind
 - [Auto Water Tiles](auto-water-tiles-lolalime/) — lolalime
 - [AutoTiles for Rivers and Lakes \| Eevee Expo](autotiles-for-rivers-and-lakes-ignathiusnzx/) — IgnathiusNZX
 - [HGSS Autotiles for RMXP - The PokéCommunity Forums](hgss-autotiles-for-rmxp-the-pokecommunity-forums-deepblue-pacificwaves/) — DeepBlue PacificWaves
 - [Primoris Ocean by ditto209 on DeviantArt](primoris-ocean-ditto209/) — ditto209
+- [Sewer Autotiles by Elinthind on DeviantArt](sewer-autotiles-elinthind/) — Elinthind
 - [Tiles - BW Waterfall Autotiles \| Eevee Expo](tiles-bw-waterfall-autotiles-floofypanthar/) — FloofyPanthar
+- [Tiles - Emerald Shallow Water Autotile \| Eevee Expo](tiles-emerald-shallow-water-autotile-glassbetelgeuse/) — glassbetelgeuse

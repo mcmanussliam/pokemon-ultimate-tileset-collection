@@ -1,0 +1,19 @@
+{
+  "title": "Tiles HGSS for RMXP 1.2",
+  "artist": "SirMarlo",
+  "category_1": "Pokémon HGSS",
+  "category_2": "",
+  "generation": "Gen 4",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/462/",
+  "credits": "☆",
+  "number": "4",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 10,
+  "id": "https-eeveeexpo-com-resources-462",
+  "subcategory": "pokemon-hgss",
+  "folder": "in-out-misc-etc/pokemon-hgss/tiles-hgss-for-rmxp-1-2-sirmarlo",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

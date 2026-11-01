@@ -5,6 +5,6 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **3 tilesets**
 
-- [\[object Object\]](object-object-eternaldarkwing/) — EternalDarkWing
-- [\[object Object\]](object-object-hoeloe/) — Hoeloe
-- [\[object Object\]](object-object-fabnt/) — fabnt
+- [Game Boy Advance - Pokémon FireRed / LeafGreen - Buildings - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-buildings-eternaldarkwing/) — EternalDarkWing
+- [Game Boy Advance - Pokémon FireRed / LeafGreen - Tileset - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-tileset-hoeloe/) — Hoeloe
+- [Game Boy Advance - Pokémon FireRed / LeafGreen - Tileset 1 - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-tileset-1-fabnt/) — fabnt

@@ -5,4 +5,4 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **1 tilesets**
 
-- [\[object Object\]](object-object-ekat99/) — Ekat99
+- [All Cliffs by Ekat99 on DeviantArt](all-cliffs-ekat99/) — Ekat99

@@ -5,8 +5,6 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **24 tilesets**
 
-- [\[object Object\]](object-object-larkylovesyou/) — LarkyLovesYou
-- [\[object Object\]](object-object-libertytwins/) — LibertyTwins
 - [\[Release\] leob0505 ORAS-Inspired Custom Tilesets for Pokémon Emerald Decomp ROM Hack - Free for Public Use! : r/PokemonROMhacks](release-leob0505-oras-inspired-custom-tilesets-for-pokemon-eme-u-leob0505/) — u/leob0505
 - [BIIIG tileset by Hek-el-grande on DeviantArt](biiig-tileset-hek-el-grande/) — Hek-el-grande
 - [Christmas Stories Resources](christmas-stories-resources-xumg/) — xUMG
@@ -14,6 +12,7 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 - [DPP Style Sinnoh Overworld Tileset V.1 by alchemybats on DeviantArt](dpp-style-sinnoh-overworld-tileset-v-1-alchemybats/) — alchemybats
 - [Ekat's Public Gen 3 Tilesets \| Eevee Expo](ekat-s-public-gen-3-tilesets-ekat99/) — Ekat99
 - [Gen 5 Overworld Pack \| Eevee Expo](gen-5-overworld-pack-radical-raptr/) — Radical Raptr
+- [Graphics: - ROM Hacking Sprites Pack: Overworlds, Trainer Sprites, Tilesets and more!](graphics-rom-hacking-sprites-pack-overworlds-trainer-sprites-t-libertytwins/) — LibertyTwins
 - [https://github.com/TeamAquasHideout/Team-Aquas-Asset-Repo/tree/main/Tilesets/The%20Great%20Tileset%20Exchange/Full%20Tilesets/Volcano%20Secondary](https-github-com-teamaquashideout-team-aquas-asset-repo-tree-m-teamaquashideout-and-co/) — TeamAquasHideout and Co.
 - [Kyledove's Public Resources by Kyle-Dove on DeviantArt](kyledove-s-public-resources-kyle-dove/) — Kyle-Dove
 - [Mapping Ressourcen - Archiv - BisaBoard](mapping-ressourcen-archiv-bisaboard-silence/) — Silence
@@ -28,4 +27,5 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 - [RPG Maker Friendly Tileset 5.0 generation 5 tiles by dirtywiggles on DeviantArt](rpg-maker-friendly-tileset-5-0-generation-5-tiles-dirtywiggles/) — dirtywiggles
 - [RPG Maker Friendly Tileset For Poke- Dirtywiggles](rpg-maker-friendly-tileset-for-poke-dirtywiggles/) — dirtywiggles
 - [Tiles - Elle's Animated Saffron Gym Pack \| Eevee Expo](tiles-elle-s-animated-saffron-gym-pack-elle/) — Elle
+- [Tiles - Sawsbucks Coffee Pack (Cafe Tileset + Coffee Items + Barista Trainer Class) \| Eevee Expo](tiles-sawsbucks-coffee-pack-cafe-tileset-coffee-items-barista-larkylovesyou/) — LarkyLovesYou
 - [zetavares852 User Profile \| DeviantArt](zetavares852-user-profile-deviantart-zetavares852/) — zetavares852

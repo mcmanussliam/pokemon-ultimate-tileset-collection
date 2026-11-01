@@ -5,8 +5,8 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **5 tilesets**
 
-- [\[object Object\]](object-object-kingtapir/) — KingTapir
-- [\[object Object\]](object-object-kingtapir-105/) — KingTapir
 - [Desert GBC Styleq](desert-gbc-styleq-caos-cepi/) — Caos-Cepi
+- [Desert Tileset (Deluxe Edition) by KingTapir on DeviantArt](desert-tileset-deluxe-edition-kingtapir/) — KingTapir
 - [Gen 3 Desert Tiles](gen-3-desert-tiles-foxowl23/) — Foxowl23
 - [Public Tileset Dump 2/4 - Desert by PeekyChew on DeviantArt](public-tileset-dump-2-4-desert-peekychew/) — PeekyChew
+- [Sandstream Desert Tileset by KingTapir on DeviantArt](sandstream-desert-tileset-kingtapir/) — KingTapir

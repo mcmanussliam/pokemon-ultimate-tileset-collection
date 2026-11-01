@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [\[object Object\]](object-object-aldo/) — Aldo
+- [Tiles - Alistair's Tileset \| Eevee Expo](tiles-alistair-s-tileset-aldo/) — Aldo

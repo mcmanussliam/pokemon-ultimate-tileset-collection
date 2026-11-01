@@ -6,9 +6,9 @@
 
 ## Preview
 
-![New Fairy/Dragon Tileset \| Eevee Expo — source-hosted preview](https://eeveeexpo.com/styles/default/ee_icon_resized.png)
+No verified image preview is available here yet. [View the artwork at its original source](https://eeveeexpo.com/resources/1656/).
 
-This preview is loaded directly from the original source site; the image is **not redistributed** here.
+The image is not copied to GitHub without confirmation that redistribution is allowed.
 
 ## Details
 
