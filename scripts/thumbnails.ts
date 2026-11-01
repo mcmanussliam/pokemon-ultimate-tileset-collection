@@ -33,7 +33,10 @@ const sources: Record<string, SourceInfo> = existsSync(OVERRIDES) ? JSON.parse(r
 const limit = Number(process.argv.find(s => s.startsWith('--limit='))?.split('=')[1] || '100');
 const retry = process.argv.includes('--retry');
 const MAX_BYTES = 8_000_000;
-const BAD_IMAGES = /avatar|logo|favicon|default|placeholder|sprite-emoji|smilie|emoji|icon_resized|ee_icon|badge/i;
+const BAD_IMAGES = /avatar|logo|favicon|default|placeholder|sprite-emoji|smilie|emoji|icon_resized|ee_icon|badge|site-icon|site_logo|icon\.png/i;
+const SITE_PAGES = new Set(['discord.com', 'www.discord.com', 'github.com', 'www.github.com']);
+const verbose = process.argv.includes('--verbose');
+let diagnostics = 0;
 mkdirSync(OUTPUT, { recursive: true });
 const now = new Date().toISOString();
 
@@ -61,6 +64,13 @@ async function get(url: string, accept: string): Promise<Response | undefined> {
         'Accept': accept },
       redirect: 'follow', signal: AbortSignal.timeout(9000),
     });
+    if (verbose && diagnostics < 15) {
+      const host = new URL(url).hostname;
+      if (host.includes('deviantart') || host.includes('spriters-resource')) {
+        console.log('Resolver: ' + host + ' HTTP ' + response.status + ' (' + (response.headers.get('content-type') || '?') + ')');
+        diagnostics++;
+      }
+    }
     return response.ok ? response : undefined;
   } catch { return undefined; }
 }
@@ -102,6 +112,10 @@ function findCandidates(html: string, source: string): string[] {
 async function resolvePublicImage(entry: Entry): Promise<string[]> {
   const source = validUrl(entry.source_url);
   if (!source) return [];
+  const host = new URL(source).hostname.toLowerCase();
+  // Links to GitHub repositories and Discord invitations rarely point to one image.
+  // Use a reviewed thumbnail source override for these instead of a social-card icon.
+  if (SITE_PAGES.has(host)) return [];
   if (/\.(png|jpe?g|gif|webp)(?:[?#]|$)/i.test(source)) return [source];
   const urls: string[] = [];
   if (/(^|\.)deviantart\.com$/i.test(new URL(source).hostname)) {
@@ -123,7 +137,7 @@ async function resolvePublicImage(entry: Entry): Promise<string[]> {
 async function makeThumbnail(entry: Entry, bytes: Buffer, source: string): Promise<boolean> {
   try {
     const meta = await sharp(bytes, { limitInputPixels: 30_000_000 }).metadata();
-    if (!meta.width || !meta.height || Math.min(meta.width, meta.height) < 48) return false;
+    if (!meta.width || !meta.height || meta.width < 160 || meta.height < 100) return false;
     // Crop nothing: preserve the artist's original composition and transparent areas.
     const thumb = await sharp(bytes, { limitInputPixels: 30_000_000, animated: false })
       .rotate()

@@ -157,6 +157,7 @@ function render(reset = false) {
 const app = $('app');
 app.innerHTML = [
   '<div class="shell">',
+  '<div class="banner"><img src="' + text(import.meta.env.BASE_URL + 'banner.png') + '" alt="Pokémon Ultimate Tileset Collection banner" /></div>',
   '<header class="topbar"><a class="site-name" href="./">Pokémon <span>Tilesets</span></a>',
   '<nav aria-label="Main"><a href="' + SHEET + '" target="_blank" rel="noopener noreferrer">Original spreadsheet ↗</a>',
   '<a href="' + REPO + '" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav></header>',
