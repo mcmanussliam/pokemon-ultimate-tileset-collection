@@ -15,6 +15,7 @@ type Check = Record<string, string>;
 const checks: Check = existsSync(checkedPath) ? JSON.parse(readFileSync(checkedPath, 'utf8')) : {};
 const limit = Number(process.argv.find(a => a.startsWith('--limit='))?.split('=')[1] || 90);
 const force = process.argv.includes('--force');
+const CHECK_VERSION = 'oembed-v2';
 
 function md(s: string): string { return s.replace(/([[\]|*])/g, '\\$1'); }
 function safeUrl(raw: string): string {
@@ -44,6 +45,23 @@ function metaPreview(html: string): string {
 async function findPreview(entry: Entry): Promise<string> {
   const url = safeUrl(entry.source_url);
   if (!url) return '';
+  // Official DeviantArt oEmbed endpoint is intended for displaying creator previews.
+  // It works better than scraping artwork pages and provides source-hosted thumbnails.
+  if (/(\.|^)deviantart\.com$/i.test(new URL(url).hostname)) {
+    try {
+      const api = 'https://backend.deviantart.com/oembed?url=' + encodeURIComponent(url) + '&format=json';
+      const response = await fetch(api, {
+        headers: { 'User-Agent': 'TilesetAtlas/1.0 (Source credit and links included)', 'Accept': 'application/json', 'Accept-Encoding': 'gzip, deflate' },
+        signal: AbortSignal.timeout(10000),
+      });
+      if (response.ok) {
+        const data = await response.json() as { thumbnail_url?: string; url?: string; type?: string };
+        const preview = safeUrl(data.thumbnail_url || data.url || '');
+        if (preview) return preview;
+      }
+      if (response.status === 429) return '';
+    } catch { /* fall back to source page */ }
+  }
   try {
     const response = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TilesetGallery/1.0)', Accept: 'text/html' },
@@ -85,7 +103,7 @@ async function main(): Promise<void> {
   const candidates = source.entries.filter(entry => {
     const key = entry.source_url;
     if (!key || entry.preview_url) return false;
-    if (!force && checks[key] && Date.parse(checks[key]) > minTime) return false;
+    if (!force && checks[key + '::' + CHECK_VERSION] && Date.parse(checks[key + '::' + CHECK_VERSION]) > minTime) return false;
     return true;
   }).slice(0, Math.max(0, limit));
   let success = 0;
@@ -94,7 +112,7 @@ async function main(): Promise<void> {
     while (cursor < candidates.length) {
       const entry = candidates[cursor++];
       const preview = await findPreview(entry);
-      checks[entry.source_url] = new Date().toISOString();
+      checks[entry.source_url + '::' + CHECK_VERSION] = new Date().toISOString();
       if (preview) {
         entry.preview_url = preview;
         entry.preview_source = 'Original creator page: Open Graph image';
