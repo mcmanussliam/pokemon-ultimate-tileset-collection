@@ -15,7 +15,7 @@ type Check = Record<string, string>;
 const checks: Check = existsSync(checkedPath) ? JSON.parse(readFileSync(checkedPath, 'utf8')) : {};
 const limit = Number(process.argv.find(a => a.startsWith('--limit='))?.split('=')[1] || 90);
 const force = process.argv.includes('--force');
-const CHECK_VERSION = 'oembed-v2';
+const CHECK_VERSION = 'oembed-v3';
 
 function md(s: string): string { return s.replace(/([[\]|*])/g, '\\$1'); }
 function safeUrl(raw: string): string {
@@ -37,7 +37,7 @@ function metaPreview(html: string): string {
     }
     if (['og:image', 'twitter:image', 'twitter:image:src'].includes(attrs.property || attrs.name || '')) {
       const url = safeUrl(attrs.content || '');
-      if (url && !/avatar|favicon|default-logo|placeholder/i.test(new URL(url).pathname)) return url;
+      if (url && !/avatar|favicon|logo|ee_icon|\/styles\/default|placeholder/i.test(new URL(url).pathname)) return url;
     }
   }
   return '';
@@ -113,7 +113,7 @@ async function main(): Promise<void> {
       const entry = candidates[cursor++];
       const preview = await findPreview(entry);
       checks[entry.source_url + '::' + CHECK_VERSION] = new Date().toISOString();
-      if (preview) {
+      if (preview && !/ee_icon|\/styles\/default|favicon|logo|placeholder/i.test(preview)) {
         entry.preview_url = preview;
         entry.preview_source = 'Original creator page: Open Graph image';
         updateEntryFiles(entry);

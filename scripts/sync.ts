@@ -19,6 +19,7 @@ type Catalogue = { source_spreadsheet: string; last_synced: string; total: numbe
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SHEET_ID = '1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8';
 const ORIGINAL = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/edit?gid=0#gid=0';
+const SOURCE_TITLES: Record<string, string> = JSON.parse(readFileSync(join(ROOT, '_catalog/source-titles.json'), 'utf8'));
 const CATEGORY_ALIASES: Record<string, string> = {
   beachers: 'beaches', 'mega-collection': 'collections', collection: 'collections',
   'pokemon-fr-lg': 'pokemon-frlg', 'pokemon-hg-ss': 'pokemon-hgss',
@@ -81,7 +82,16 @@ function cellText(cell: ExcelJS.Cell): string {
   const value = cell.value;
   if (value && typeof value === 'object') {
     if ('text' in value && typeof value.text === 'string') return value.text.trim();
-    if ('result' in value && value.result != null) return String(value.result).trim();
+    if ('result' in value && value.result != null) {
+      const result = value.result;
+      if (typeof result === 'string' || typeof result === 'number') return String(result).trim();
+      if (typeof result === 'object') {
+        if ('richText' in result && Array.isArray(result.richText)) {
+          return result.richText.map(v => v.text).join('').trim();
+        }
+        if ('text' in result && typeof result.text === 'string') return result.text.trim();
+      }
+    }
     if ('richText' in value && Array.isArray(value.richText)) {
       return value.richText.map(v => v.text).join('').trim();
     }
@@ -136,13 +146,15 @@ async function readSpreadsheet(): Promise<Raw[]> {
       if (h) { headers = h; return; }
       if (!headers) return;
       const value = (key: string) => headers?.[key] ? cellText(row.getCell(headers[key])) : '';
-      const title = value('title');
-      if (!title || /^(link|n\/a|-)$/i.test(title)) return;
       const sourceCell = row.getCell(headers.title);
+      const artworkUrl = cellHref(sourceCell);
+      let title = value('title');
+      if (!title || title === '[object Object]') title = SOURCE_TITLES[artworkUrl] || title;
+      if (!title || title === '[object Object]' || /^(link|n\/a|-)$/i.test(title)) return;
       rows.push({
         title, artist: value('artist'), category_1: value('category_1'),
         category_2: value('category_2'), generation: value('generation'),
-        source_platform: value('source_platform'), source_url: cellHref(sourceCell),
+        source_platform: value('source_platform'), source_url: artworkUrl,
         credits: value('credits'), number: value('number').replace(/\.0+$/, ''),
         sheet: sheet.name, sheet_row: number,
       });
@@ -243,7 +255,7 @@ function main(): Promise<void> {
       return {
         ...raw, id: slug(raw.source_url || raw.sheet + '-' + raw.sheet_row).slice(-90),
         subcategory: primary, folder,
-        preview_url: safeUrl(previous?.preview_url || (/\.(png|jpe?g|gif|webp)(\?|$)/i.test(raw.source_url) ? raw.source_url : '')), preview_source: previous?.preview_source || '',
+        preview_url: safeUrl(/ee_icon|\/styles\/default|favicon|logo|placeholder/i.test(previous?.preview_url || '') ? '' : (previous?.preview_url || (/\.(png|jpe?g|gif|webp)(\?|$)/i.test(raw.source_url) ? raw.source_url : ''))), preview_source: previous?.preview_source || '',
       };
     });
     const byCategory = new Map<string, Entry[]>();
