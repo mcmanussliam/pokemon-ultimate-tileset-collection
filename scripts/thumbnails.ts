@@ -143,7 +143,7 @@ function localAsset(entry: Entry): string | undefined {
   const file = readdirSync(directory).find(f => /^(tileset|preview)\.(png|jpe?g|gif|webp)$/i.test(f));
   return file ? join(directory, file) : undefined;
 }
-async function process(entry: Entry): Promise<boolean> {
+async function processEntry(entry: Entry): Promise<boolean> {
   const local = localAsset(entry);
   if (local) return makeThumbnail(entry, readFileSync(local), entry.folder);
   const override = sources[entry.source_url];
@@ -169,7 +169,7 @@ async function main() {
   const workers = Array.from({ length: Math.min(5, candidates.length) }, async () => {
     while (cursor < candidates.length) {
       const entry = candidates[cursor++];
-      const ok = await process(entry);
+      const ok = await processEntry(entry);
       attempted++;
       checks[entry.source_url] = now;
       if (ok) changed++;
