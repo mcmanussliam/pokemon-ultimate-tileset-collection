@@ -38,7 +38,7 @@ function text(s: string): string {
 }
 function imageUrl(input: string, origin: string): string {
   try {
-    const u = new URL(input.replace(/&amp;/g, '&'), origin);
+    const u = new URL(input.replace(/&amp;/g, '&').trim().split(/\s+https?:\/\//)[0], origin);
     return badImage.test(u.pathname) ? '' : validUrl(u.href);
   } catch { return ''; }
 }
@@ -132,15 +132,24 @@ async function main() {
     force || !details[e.source_url]?.checked_at ||
     Date.now() - Date.parse(details[e.source_url].checked_at || '') > 30 * 86400000 ||
     (!!approvals[e.source_url]?.approved && !details[e.source_url]?.preview_local)).slice(0, limit);
-  let ok = 0, saved = 0, forbidden = 0;
+  let ok = 0, saved = 0, forbidden = 0, deviantArtDenied = 0;
   for (const entry of selected) {
+    // Stop repeated requests when DeviantArt denies automated public access.
+    // Credentials and permission cannot be replaced with aggressive retries.
+    if (!onlyApproved && entry.source_url.includes('deviantart.com') && deviantArtDenied >= 3) {
+      console.log('DeviantArt returned repeated 403 responses. Skipping remaining DeviantArt entries.');
+      break;
+    }
     let inspected: Extra = {};
     if (!onlyApproved) {
       try { inspected = await inspect(entry); }
       catch { inspected = { status: 'network_error' }; }
     }
     if (inspected.status === 'ok') ok++;
-    if (inspected.status === 'http_403') forbidden++;
+    if (inspected.status === 'http_403') {
+      forbidden++;
+      if (entry.source_url.includes('deviantart.com')) deviantArtDenied++;
+    }
     const merged: Extra = { ...details[entry.source_url], ...inspected, checked_at: onlyApproved ?
       details[entry.source_url]?.checked_at : now };
     if (await saveApproved(entry, merged)) {

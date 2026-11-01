@@ -38,10 +38,6 @@ jobs:
       - name: Refresh tilesets, folders and READMEs from original sheet
         run: npm run sync
 
-      - name: Collect short public source excerpts
-        run: npm run enrich -- --limit=50
-        continue-on-error: true
-
       - name: Commit refreshed metadata and folders
         run: |
           git config user.name "github-actions[bot]"
