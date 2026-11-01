@@ -1,0 +1,19 @@
+{
+  "title": "Moon Base Tileset",
+  "artist": "Evan",
+  "category_1": "Misc",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/64/",
+  "credits": "❉",
+  "number": "15",
+  "sheet": "Indoor + Outdoor Tilesets",
+  "sheet_row": 21,
+  "id": "https-eeveeexpo-com-resources-64",
+  "subcategory": "misc",
+  "folder": "indoor-outdoor-tilesets/misc/moon-base-tileset-evan",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

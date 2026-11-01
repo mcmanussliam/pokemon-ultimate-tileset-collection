@@ -1,0 +1,19 @@
+{
+  "title": "Water Rock",
+  "artist": "BhagyaJyoti",
+  "category_1": "Rocks",
+  "category_2": "Water",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/bhagyajyoti/art/Water-Rock-845978802",
+  "credits": "☆",
+  "number": "12",
+  "sheet": "Auto Tilesets",
+  "sheet_row": 18,
+  "id": "https-www-deviantart-com-bhagyajyoti-art-water-rock-845978802",
+  "subcategory": "rocks",
+  "folder": "auto-tilesets/rocks/water-rock-bhagyajyoti",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "PokéCommunity",
+  "artist": "Various Artists",
+  "category_1": "Mega Collection",
+  "category_2": "Check #mapping&sprites and then pinned messages",
+  "generation": "Multiple Gens",
+  "source_platform": "Discord: PokéCommunity",
+  "source_url": "https://discord.com/invite/pokecommunity",
+  "credits": "☆ (check descriptions)",
+  "number": "53",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 60,
+  "id": "https-discord-com-invite-pokecommunity",
+  "subcategory": "collections",
+  "folder": "in-out-misc-etc/collections/pokecommunity-various-artists",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

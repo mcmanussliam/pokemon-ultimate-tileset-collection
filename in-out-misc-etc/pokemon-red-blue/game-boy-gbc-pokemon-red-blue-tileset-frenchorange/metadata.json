@@ -1,0 +1,19 @@
+{
+  "title": "Game Boy / GBC - Pokémon Red / Blue - Tileset - The Spriters Resource",
+  "artist": "FrenchOrange",
+  "category_1": "Pokémon Red/Blue",
+  "category_2": "",
+  "generation": "Gen 1",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_gbc/pokemonredblue/sheet/63033/",
+  "credits": "Ripped (up to you)",
+  "number": "44",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 50,
+  "id": "https-www-spriters-resource-com-game-boy-gbc-pokemonredblue-sheet-63033",
+  "subcategory": "pokemon-red-blue",
+  "folder": "in-out-misc-etc/pokemon-red-blue/game-boy-gbc-pokemon-red-blue-tileset-frenchorange",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

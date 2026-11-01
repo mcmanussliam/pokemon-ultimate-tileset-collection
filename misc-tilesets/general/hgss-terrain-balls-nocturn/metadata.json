@@ -1,0 +1,19 @@
+{
+  "title": "HGSS Terrain Balls",
+  "artist": "NocTurn",
+  "category_1": "",
+  "category_2": "",
+  "generation": "Gen 4",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/548/",
+  "credits": "☆",
+  "number": "50",
+  "sheet": "Misc Tilesets",
+  "sheet_row": 56,
+  "id": "https-eeveeexpo-com-resources-548",
+  "subcategory": "general",
+  "folder": "misc-tilesets/general/hgss-terrain-balls-nocturn",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

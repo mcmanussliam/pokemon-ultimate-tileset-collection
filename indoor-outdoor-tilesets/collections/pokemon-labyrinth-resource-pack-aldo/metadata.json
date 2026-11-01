@@ -1,0 +1,19 @@
+{
+  "title": "Pokemon Labyrinth Resource Pack",
+  "artist": "Aldo",
+  "category_1": "Collection",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/588/",
+  "credits": "☆",
+  "number": "14",
+  "sheet": "Indoor + Outdoor Tilesets",
+  "sheet_row": 20,
+  "id": "https-eeveeexpo-com-resources-588",
+  "subcategory": "collections",
+  "folder": "indoor-outdoor-tilesets/collections/pokemon-labyrinth-resource-pack-aldo",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

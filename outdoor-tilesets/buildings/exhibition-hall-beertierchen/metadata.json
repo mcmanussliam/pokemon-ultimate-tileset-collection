@@ -1,0 +1,19 @@
+{
+  "title": "Exhibition Hall",
+  "artist": "Beertierchen",
+  "category_1": "Buildings",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/beertierchen/art/ExhibitionHall-1009501703",
+  "credits": "☆",
+  "number": "226",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 89,
+  "id": "https-www-deviantart-com-beertierchen-art-exhibitionhall-1009501703",
+  "subcategory": "buildings",
+  "folder": "outdoor-tilesets/buildings/exhibition-hall-beertierchen",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

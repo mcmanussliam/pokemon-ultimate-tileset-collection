@@ -1,0 +1,19 @@
+{
+  "title": "New House",
+  "artist": "KOD-3R",
+  "category_1": "Buildings",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/kod-3r/art/New-House-328721730",
+  "credits": "☆",
+  "number": "335",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 123,
+  "id": "https-www-deviantart-com-kod-3r-art-new-house-328721730",
+  "subcategory": "buildings",
+  "folder": "outdoor-tilesets/buildings/new-house-kod-3r",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

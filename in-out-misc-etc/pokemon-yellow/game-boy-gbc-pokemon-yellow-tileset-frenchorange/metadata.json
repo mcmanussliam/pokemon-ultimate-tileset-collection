@@ -1,0 +1,19 @@
+{
+  "title": "Game Boy / GBC - Pokémon Yellow - Tileset - The Spriters Resource",
+  "artist": "FrenchOrange",
+  "category_1": "Pokémon Yellow",
+  "category_2": "",
+  "generation": "Gen 1",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_gbc/pokemonyellow/sheet/145656/",
+  "credits": "Ripped (up to you)",
+  "number": "43",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 49,
+  "id": "https-www-spriters-resource-com-game-boy-gbc-pokemonyellow-sheet-145656",
+  "subcategory": "pokemon-yellow",
+  "folder": "in-out-misc-etc/pokemon-yellow/game-boy-gbc-pokemon-yellow-tileset-frenchorange",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

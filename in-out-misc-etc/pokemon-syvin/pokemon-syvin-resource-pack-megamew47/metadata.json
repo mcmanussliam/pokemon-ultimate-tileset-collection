@@ -1,0 +1,19 @@
+{
+  "title": "Pokémon Syvin Resource Pack | Eevee Expo",
+  "artist": "MegaMew47",
+  "category_1": "Pokémon Syvin",
+  "category_2": "Collection",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/1200/",
+  "credits": "☆",
+  "number": "20",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 26,
+  "id": "https-eeveeexpo-com-resources-1200",
+  "subcategory": "pokemon-syvin",
+  "folder": "in-out-misc-etc/pokemon-syvin/pokemon-syvin-resource-pack-megamew47",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

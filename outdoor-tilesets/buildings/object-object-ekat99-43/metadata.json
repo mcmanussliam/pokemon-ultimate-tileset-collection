@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "Ekat99",
+  "category_1": "Buildings",
+  "category_2": "POI",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/ekat99/art/Viridian-Mansion-879738767",
+  "credits": "☆",
+  "number": "43",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 24,
+  "id": "https-www-deviantart-com-ekat99-art-viridian-mansion-879738767",
+  "subcategory": "buildings",
+  "folder": "outdoor-tilesets/buildings/object-object-ekat99-43",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Revamped FRLG Tileset",
+  "artist": "Frog",
+  "category_1": "Pokémon FRLG",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/960/",
+  "credits": "☆",
+  "number": "16",
+  "sheet": "Indoor + Outdoor Tilesets",
+  "sheet_row": 22,
+  "id": "https-eeveeexpo-com-resources-960",
+  "subcategory": "pokemon-frlg",
+  "folder": "indoor-outdoor-tilesets/pokemon-frlg/revamped-frlg-tileset-frog",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

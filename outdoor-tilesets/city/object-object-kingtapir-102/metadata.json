@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "KingTapir",
+  "category_1": "City",
+  "category_2": "Buildings",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/kingtapir/art/Gateon-Port-Tileset-855071101",
+  "credits": "☆",
+  "number": "102",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 151,
+  "id": "https-www-deviantart-com-kingtapir-art-gateon-port-tileset-855071101",
+  "subcategory": "city",
+  "folder": "outdoor-tilesets/city/object-object-kingtapir-102",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

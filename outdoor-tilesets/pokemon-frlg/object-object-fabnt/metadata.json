@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "fabnt",
+  "category_1": "Pokémon FR/LG",
+  "category_2": "Buildings",
+  "generation": "Gen 3",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/sheet/3862/",
+  "credits": "Ripped (up to you)",
+  "number": "95",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 300,
+  "id": "https-www-spriters-resource-com-game-boy-advance-pokemonfireredleafgreen-sheet-3862",
+  "subcategory": "pokemon-frlg",
+  "folder": "outdoor-tilesets/pokemon-frlg/object-object-fabnt",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

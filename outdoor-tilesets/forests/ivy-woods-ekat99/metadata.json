@@ -1,0 +1,19 @@
+{
+  "title": "Ivy Woods",
+  "artist": "Ekat99",
+  "category_1": "Forests",
+  "category_2": "POI",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/ekat99/art/Ivy-Woods-891125480",
+  "credits": "☆",
+  "number": "17",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 214,
+  "id": "https-www-deviantart-com-ekat99-art-ivy-woods-891125480",
+  "subcategory": "forests",
+  "folder": "outdoor-tilesets/forests/ivy-woods-ekat99",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

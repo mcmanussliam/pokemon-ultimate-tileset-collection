@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "Ekat99",
+  "category_1": "POI",
+  "category_2": "Buildings",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/ekat99/art/Park-Gazebo-875480358",
+  "credits": "☆",
+  "number": "56",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 281,
+  "id": "https-www-deviantart-com-ekat99-art-park-gazebo-875480358",
+  "subcategory": "poi",
+  "folder": "outdoor-tilesets/poi/object-object-ekat99-56",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

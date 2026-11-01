@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "Heartlessdragoon",
+  "category_1": "Pokémon Emerald",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_advance/pokemonemerald/sheet/83233/",
+  "credits": "❉",
+  "number": "43",
+  "sheet": "Indoor Tilesets",
+  "sheet_row": 49,
+  "id": "https-www-spriters-resource-com-game-boy-advance-pokemonemerald-sheet-83233",
+  "subcategory": "pokemon-emerald",
+  "folder": "indoor-tilesets/pokemon-emerald/object-object-heartlessdragoon",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

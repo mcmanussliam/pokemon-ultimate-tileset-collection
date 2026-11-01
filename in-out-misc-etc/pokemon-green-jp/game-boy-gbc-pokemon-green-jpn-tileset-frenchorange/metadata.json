@@ -1,0 +1,19 @@
+{
+  "title": "Game Boy / GBC - Pokémon Green (JPN) - Tileset - The Spriters Resource",
+  "artist": "FrenchOrange",
+  "category_1": "Pokémon Green (JP)",
+  "category_2": "",
+  "generation": "Gen 1",
+  "source_platform": "The Spriters Resource",
+  "source_url": "https://www.spriters-resource.com/game_boy_gbc/pokemongreen/sheet/144001/",
+  "credits": "Ripped (up to you)",
+  "number": "45",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 51,
+  "id": "https-www-spriters-resource-com-game-boy-gbc-pokemongreen-sheet-144001",
+  "subcategory": "pokemon-green-jp",
+  "folder": "in-out-misc-etc/pokemon-green-jp/game-boy-gbc-pokemon-green-jpn-tileset-frenchorange",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

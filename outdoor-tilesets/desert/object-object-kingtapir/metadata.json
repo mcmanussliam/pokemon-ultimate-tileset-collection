@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "KingTapir",
+  "category_1": "Desert",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/kingtapir/art/Desert-Tileset-Deluxe-Edition-909169932",
+  "credits": "☆",
+  "number": "96",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 208,
+  "id": "https-www-deviantart-com-kingtapir-art-desert-tileset-deluxe-edition-909169932",
+  "subcategory": "desert",
+  "folder": "outdoor-tilesets/desert/object-object-kingtapir",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

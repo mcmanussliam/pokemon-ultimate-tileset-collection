@@ -1,0 +1,19 @@
+{
+  "title": "Outside Stuff",
+  "artist": "skatefilter5",
+  "category_1": "Buildings",
+  "category_2": "Misc",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/skatefilter5/art/Main-Trees-891202430",
+  "credits": "❉",
+  "number": "305",
+  "sheet": "Outdoor Tilesets",
+  "sheet_row": 112,
+  "id": "https-www-deviantart-com-skatefilter5-art-main-trees-891202430",
+  "subcategory": "buildings",
+  "folder": "outdoor-tilesets/buildings/outside-stuff-skatefilter5",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

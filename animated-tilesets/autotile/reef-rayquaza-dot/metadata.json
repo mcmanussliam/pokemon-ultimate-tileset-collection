@@ -1,0 +1,19 @@
+{
+  "title": "Reef",
+  "artist": "Rayquaza-dot",
+  "category_1": "Autotile",
+  "category_2": "Water",
+  "generation": "Gen 3",
+  "source_platform": "DeviantArt",
+  "source_url": "https://www.deviantart.com/rayquaza-dot/art/Reef-361233704",
+  "credits": "☆",
+  "number": "44",
+  "sheet": "Animated Tilesets",
+  "sheet_row": 13,
+  "id": "https-www-deviantart-com-rayquaza-dot-art-reef-361233704",
+  "subcategory": "autotile",
+  "folder": "animated-tilesets/autotile/reef-rayquaza-dot",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

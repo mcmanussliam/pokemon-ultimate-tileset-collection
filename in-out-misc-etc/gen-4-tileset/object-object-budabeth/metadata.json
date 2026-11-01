@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "budabeth",
+  "category_1": "Gen 4 Tileset",
+  "category_2": "",
+  "generation": "Gen 4",
+  "source_platform": "PokeMMO",
+  "source_url": "https://forums.pokemmo.com/index.php?/topic/172958-ips-darkshades-kanto-ds-style-graphics-tileset-patch/",
+  "credits": "☆",
+  "number": "13",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 19,
+  "id": "ms-pokemmo-com-index-php-topic-172958-ips-darkshades-kanto-ds-style-graphics-tileset-patch",
+  "subcategory": "gen-4-tileset",
+  "folder": "in-out-misc-etc/gen-4-tileset/object-object-budabeth",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

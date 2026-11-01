@@ -1,0 +1,19 @@
+{
+  "title": "[object Object]",
+  "artist": "Aldo",
+  "category_1": "Alistair Tileset",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/242/",
+  "credits": "☆",
+  "number": "7",
+  "sheet": "In + Out + Misc + etc.",
+  "sheet_row": 13,
+  "id": "https-eeveeexpo-com-resources-242",
+  "subcategory": "alistair-tileset",
+  "folder": "in-out-misc-etc/alistair-tileset/object-object-aldo",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}

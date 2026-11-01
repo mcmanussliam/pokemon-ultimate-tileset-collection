@@ -1,0 +1,19 @@
+{
+  "title": "Auto Water Tiles",
+  "artist": "lolalime",
+  "category_1": "Water",
+  "category_2": "",
+  "generation": "Gen 3",
+  "source_platform": "Eevee Expo",
+  "source_url": "https://eeveeexpo.com/resources/1145/",
+  "credits": "☆",
+  "number": "3",
+  "sheet": "Auto Tilesets",
+  "sheet_row": 9,
+  "id": "https-eeveeexpo-com-resources-1145",
+  "subcategory": "water",
+  "folder": "auto-tilesets/water/auto-water-tiles-lolalime",
+  "preview_url": "",
+  "preview_source": "",
+  "_generated_by": "scripts/sync.ts"
+}
