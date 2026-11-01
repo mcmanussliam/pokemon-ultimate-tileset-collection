@@ -97,7 +97,7 @@ function matches(): Entry[] {
     if (state.subcategory !== 'all' && entry.subcategory !== state.subcategory) return false;
     if (state.generation !== 'all' && entry.generation !== state.generation) return false;
     const haystack = [entry.title, entry.artist, entry.category_1, entry.category_2,
-      entry.generation, entry.subcategory, entry.sheet].join(' ').toLocaleLowerCase();
+      entry.generation, entry.subcategory, entry.sheet, details[entry.source_url]?.excerpt || ''].join(' ').toLocaleLowerCase();
     return words.every(word => haystack.includes(word));
   });
   return selected.sort((a,b) => a.title.localeCompare(b.title));
