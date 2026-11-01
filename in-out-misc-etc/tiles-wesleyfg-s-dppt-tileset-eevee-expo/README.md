@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Primary category:** DPPt Tileset
 - **Generation:** Gen 4
 - **Source platform:** Eevee Expo
-- **Sheet entry number:** 6.0
+- **Sheet entry number:** 6
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://eeveeexpo.com/resources/295/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A12)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Auto Tilesets** in the original collection. S
 - **Primary category:** Water
 - **Generation:** Gen 3
 - **Source platform:** Eevee Expo
-- **Sheet entry number:** 3.0
+- **Sheet entry number:** 3
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://eeveeexpo.com/resources/1145/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=6#range=A9)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

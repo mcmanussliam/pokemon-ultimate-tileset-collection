@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Indoor + Outdoor Tilesets** in the original c
 - **Primary category:** Pokémon FR/LG
 - **Generation:** Gen 3
 - **Source platform:** The Spriters Resource
-- **Sheet entry number:** 8.0
+- **Sheet entry number:** 8
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/sheet/3863/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=3#range=A14)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

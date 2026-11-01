@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Primary category:** Mega Collection
 - **Generation:** Multiple Gens
 - **Source platform:** GitHub
-- **Sheet entry number:** 54.0
+- **Sheet entry number:** 54
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://github.com/TeamAquasHideout/Team-Aquas-Asset-Repo/tree/main/Tilesets/The%20Great%20Tileset%20Exchange/Full%20Tilesets/Volcano%20Secondary)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A61)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

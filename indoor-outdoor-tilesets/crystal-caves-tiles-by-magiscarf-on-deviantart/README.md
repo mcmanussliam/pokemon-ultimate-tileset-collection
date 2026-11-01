@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **Indoor + Outdoor Tilesets** in the original c
 - **Secondary category:** Water
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 7.0
+- **Sheet entry number:** 7
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/magiscarf/art/Crystal-Caves-Tiles-768727126)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=3#range=A13)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

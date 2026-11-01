@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Primary category:** Mega Collection
 - **Generation:** Multiple Gens
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 47.0
+- **Sheet entry number:** 47
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/mbcmechachu/favourites/82691804/pokemon-overworld-tiles)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A54)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

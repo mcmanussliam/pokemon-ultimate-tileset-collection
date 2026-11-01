@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Outdoor Tilesets** in the original collection
 - **Primary category:** POI
 - **Secondary category:** Trees
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 363.0
+- **Sheet entry number:** 363
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/princess-phoenix/art/Mishmash-of-tropical-tiles-656497141)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=1#range=A292)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#range=A292)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

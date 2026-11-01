@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Animated Tilesets** in the original collectio
 - **Primary category:** Pokémon Ruby/Sapphire
 - **Generation:** Gen 3
 - **Source platform:** The Spriters Resource
-- **Sheet entry number:** 62.0
+- **Sheet entry number:** 62
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/sheet/23876/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=5#range=A60)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

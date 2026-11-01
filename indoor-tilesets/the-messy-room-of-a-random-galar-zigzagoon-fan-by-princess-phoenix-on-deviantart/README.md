@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Indoor Tilesets** in the original collection.
 - **Original sheet tab:** Indoor Tilesets
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 78.0
+- **Sheet entry number:** 78
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/princess-phoenix/art/The-Messy-Room-of-a-Random-Galar-Zigzagoon-Fan-809170144)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=2#range=A84)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

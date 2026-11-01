@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **Indoor + Outdoor Tilesets** in the original c
 - **Secondary category:** Caves
 - **Generation:** Gen 4
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 22.0
+- **Sheet entry number:** 22
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/phyromatical/art/DoT-Day18-Dark-Ruins-tileset-652112353)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=3#range=A28)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Primary category:** Collection
 - **Generation:** Gen 3
 - **Source platform:** Reddit
-- **Sheet entry number:** 48.0
+- **Sheet entry number:** 48
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.reddit.com/r/PokemonROMhacks/comments/1de5m2z/release_leob0505_orasinspired_custom_tilesets_for/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A55)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

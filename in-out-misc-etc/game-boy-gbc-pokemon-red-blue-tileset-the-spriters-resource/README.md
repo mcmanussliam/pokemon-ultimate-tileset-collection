@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Primary category:** Pokémon Red/Blue
 - **Generation:** Gen 1
 - **Source platform:** The Spriters Resource
-- **Sheet entry number:** 44.0
+- **Sheet entry number:** 44
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.spriters-resource.com/game_boy_gbc/pokemonredblue/sheet/63033/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A50)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

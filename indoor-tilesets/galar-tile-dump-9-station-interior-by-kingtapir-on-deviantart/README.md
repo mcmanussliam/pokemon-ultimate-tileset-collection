@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Indoor Tilesets** in the original collection.
 - **Original sheet tab:** Indoor Tilesets
 - **Generation:** Gen 8
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 44.0
+- **Sheet entry number:** 44
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/kingtapir/art/Galar-Tile-Dump-9-Station-Interior-848649448)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=2#range=A50)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

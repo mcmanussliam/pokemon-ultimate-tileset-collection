@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Outdoor Tilesets** in the original collection
 - **Primary category:** Beachers
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 244.0
+- **Sheet entry number:** 244
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/peekychew/art/Public-Tileset-Dump-3-4-Beach-and-Sea-828233122)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=1#range=A13)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#range=A13)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

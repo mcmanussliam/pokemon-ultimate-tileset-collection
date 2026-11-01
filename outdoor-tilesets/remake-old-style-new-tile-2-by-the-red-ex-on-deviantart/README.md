@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Outdoor Tilesets** in the original collection
 - **Primary category:** Buildings
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 330.0
+- **Sheet entry number:** 330
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/the-red-ex/art/Remake-Old-style-new-Tile-2-432892162)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=1#range=A119)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#range=A119)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

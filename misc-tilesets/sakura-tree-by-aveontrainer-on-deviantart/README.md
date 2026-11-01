@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Misc Tilesets** in the original collection. S
 - **Original sheet tab:** Misc Tilesets
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 36.0
+- **Sheet entry number:** 36
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/aveontrainer/art/Sakura-Tree-811720757)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=4#range=A42)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

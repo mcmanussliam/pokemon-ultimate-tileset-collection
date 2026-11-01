@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Animated Tilesets** in the original collectio
 - **Primary category:** Water
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 30.0
+- **Sheet entry number:** 30
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/elinthind/art/Animated-Sewer-Spout-1188670945)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=5#range=A67)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

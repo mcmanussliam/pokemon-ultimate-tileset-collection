@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **In + Out + Misc + etc.** in the original coll
 - **Secondary category:** Unused
 - **Generation:** Gen 2
 - **Source platform:** The Cutting Room Floor
-- **Sheet entry number:** 49.0
+- **Sheet entry number:** 49
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://tcrf.net/Pok%C3%A9mon_Gold_and_Silver/Unused_Graphics)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=7#range=A56)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

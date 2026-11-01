@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **Outdoor Tilesets** in the original collection
 - **Secondary category:** Collection
 - **Generation:** Gen 4
 - **Source platform:** Eevee Expo
-- **Sheet entry number:** 235.0
+- **Sheet entry number:** 235
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://eeveeexpo.com/resources/799/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=1#range=A294)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#range=A294)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

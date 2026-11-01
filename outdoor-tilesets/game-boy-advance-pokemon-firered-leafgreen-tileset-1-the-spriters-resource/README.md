@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **Outdoor Tilesets** in the original collection
 - **Secondary category:** Buildings
 - **Generation:** Gen 3
 - **Source platform:** The Spriters Resource
-- **Sheet entry number:** 95.0
+- **Sheet entry number:** 95
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.spriters-resource.com/game_boy_advance/pokemonfireredleafgreen/sheet/3862/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=1#range=A300)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#range=A300)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

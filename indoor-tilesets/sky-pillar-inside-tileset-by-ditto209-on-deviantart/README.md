@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Indoor Tilesets** in the original collection.
 - **Original sheet tab:** Indoor Tilesets
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 70.0
+- **Sheet entry number:** 70
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/ditto209/art/Sky-pillar-inside-tileset-373842327)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=2#range=A76)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

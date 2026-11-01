@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Misc Tilesets** in the original collection. S
 - **Original sheet tab:** Misc Tilesets
 - **Generation:** Gen 3
 - **Source platform:** Reddit
-- **Sheet entry number:** 41.0
+- **Sheet entry number:** 41
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.reddit.com/r/PokemonRMXP/comments/1kjz6b6/gen_3_pok%C3%A9mon_statues_free_to_use_with_credit/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=4#range=A47)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

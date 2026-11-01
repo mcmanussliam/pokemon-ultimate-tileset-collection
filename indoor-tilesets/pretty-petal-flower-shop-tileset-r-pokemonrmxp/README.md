@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Indoor Tilesets** in the original collection.
 - **Original sheet tab:** Indoor Tilesets
 - **Generation:** Gen 3
 - **Source platform:** Reddit
-- **Sheet entry number:** 55.0
+- **Sheet entry number:** 55
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.reddit.com/r/PokemonRMXP/comments/1bm9u2n/pretty_petal_flower_shop_tileset/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=2#range=A61)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

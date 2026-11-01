@@ -9,12 +9,12 @@ A Pokémon tileset indexed under **Indoor Tilesets** in the original collection.
 - **Original sheet tab:** Indoor Tilesets
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 90.0
+- **Sheet entry number:** 90
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/elinthind/art/Crystal-Cavern-Gen-III-Tileset-1198944552)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=2#range=A96)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

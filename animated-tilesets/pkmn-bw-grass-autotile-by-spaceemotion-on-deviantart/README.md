@@ -11,12 +11,12 @@ A Pokémon tileset indexed under **Animated Tilesets** in the original collectio
 - **Secondary category:** Plants
 - **Generation:** Gen 5
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 54.0
+- **Sheet entry number:** 54
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/spaceemotion/art/PKMN-BW-Grass-Autotile-176226378)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=5#range=A22)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Auto Tilesets** in the original collection. S
 - **Primary category:** Plants
 - **Generation:** Gen 3
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 11.0
+- **Sheet entry number:** 11
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/skatefilter5/art/m-Autotiles-895783917)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=6#range=A17)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

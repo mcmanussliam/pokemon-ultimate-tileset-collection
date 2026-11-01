@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Indoor + Outdoor Tilesets** in the original c
 - **Primary category:** Misc
 - **Generation:** Gen 4
 - **Source platform:** DeviantArt
-- **Sheet entry number:** 24.0
+- **Sheet entry number:** 24
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.deviantart.com/phyromatical/art/DoT-Day21-Distortion-World-Remake-Tiles-652491797)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=3#range=A30)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

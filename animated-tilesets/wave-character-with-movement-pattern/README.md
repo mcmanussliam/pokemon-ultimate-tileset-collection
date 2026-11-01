@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Animated Tilesets** in the original collectio
 - **Primary category:** Water
 - **Generation:** Gen 3
 - **Source platform:** Eevee Expo
-- **Sheet entry number:** 37.0
+- **Sheet entry number:** 37
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://eeveeexpo.com/resources/866/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=5#range=A68)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits

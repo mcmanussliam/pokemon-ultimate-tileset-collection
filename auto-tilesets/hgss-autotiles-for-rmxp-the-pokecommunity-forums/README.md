@@ -10,12 +10,12 @@ A Pokémon tileset indexed under **Auto Tilesets** in the original collection. S
 - **Primary category:** Water
 - **Generation:** Gen 4
 - **Source platform:** PokeCommunity
-- **Sheet entry number:** 7.0
+- **Sheet entry number:** 7
 
 ## Sources
 
 - **Original artwork / download:** [Open the creator/source page](https://www.pokecommunity.com/threads/hgss-autotiles-for-rmxp.455912/)
-- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=6#range=A13)
+- **Original catalogue entry:** [View in the Google Sheet](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 - **Full original spreadsheet:** [Pokémon Ultimate Tileset Collection](https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit)
 
 ## Usage and credits
