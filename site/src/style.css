@@ -15,13 +15,10 @@ a:hover { text-decoration: underline; }
 button { cursor: pointer; }
 :focus-visible { outline: 2px solid #365fa2; outline-offset: 2px; }
 .shell { max-width: 1360px; margin: 0 auto; padding: 0 36px; }
-.banner img { display: block; width: 100%; height: auto; max-height: 260px; object-fit: contain; object-position: center; }
-.topbar { min-height: 72px; display: flex; align-items: center; justify-content: flex-end; border-bottom: 1px solid #e6e6e6; gap: 20px; }
-.topbar nav { display: flex; align-items: center; gap: 28px; font-size: 13px; }
-.topbar nav a { color: #555; }
-.intro { padding: 26px 0; border-bottom: 1px solid #e6e6e6; }
-h1 { font-size: clamp(30px, 4vw, 42px); margin: 0 0 12px; letter-spacing: -1.4px; font-weight: 700; }
-.intro p { max-width: 780px; margin: 0; font-size: 14px; color: #666; line-height: 1.7; }
+.banner img { display: block; width: 100%; height: auto; max-height: 420px; object-fit: contain; object-position: center; }
+.intro { display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 26px 0; border-bottom: 1px solid #e6e6e6; }
+.intro p { flex: 1 1 auto; max-width: 700px; margin: 0; font-size: 14px; color: #666; line-height: 1.7; }
+.intro-links { display: flex; justify-content: flex-end; flex: 0 0 auto; gap: 24px; margin-left: auto; white-space: nowrap; font-size: 13px; }
 .browser { display: grid; grid-template-columns: 196px minmax(0, 1fr); gap: 40px; padding: 32px 0 80px; }
 .sidebar { align-self: start; }
 .side-heading { color: #777; font-size: 12px; font-weight: 600; margin: 3px 0 14px; }
@@ -75,6 +72,8 @@ footer a { color: #555; }
   .browser { gap: 24px; }
 }
 @media (max-width: 900px) {
+  .intro { flex-wrap: wrap; gap: 14px 24px; }
+  .intro-links { margin-left: auto; }
   .browser { grid-template-columns: 1fr; gap: 18px; }
   .sidebar { display: block; }
   .categories { flex-direction: row; overflow-x: auto; gap: 5px; padding-bottom: 5px; }
@@ -84,11 +83,10 @@ footer a { color: #555; }
   .search { flex-basis: 100%; }
 }
 @media (max-width: 650px) {
-  .banner img { max-height: 170px; }
+  .banner img { max-height: 300px; }
   .shell { padding: 0 18px; }
-  .topbar { min-height: 65px; }
-  .topbar nav { gap: 14px; font-size: 11px; }
   .intro { padding: 20px 0; }
+  .intro-links { width: 100%; gap: 20px; justify-content: flex-end; font-size: 12px; }
   .result-tools { align-items: start; }
   .filters { width: 100%; }
   .filters label { flex: 1; min-width: 0; }
