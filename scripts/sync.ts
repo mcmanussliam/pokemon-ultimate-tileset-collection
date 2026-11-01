@@ -266,6 +266,12 @@ function main(): Promise<void> {
       if (previous?.folder && previous.folder !== e.folder) migrateFolder(previous.folder, e.folder);
       const target = join(ROOT, e.folder);
       mkdirSync(target, { recursive: true });
+      const localArtwork = assetName(target);
+      if (localArtwork) {
+        e.preview_url = 'https://raw.githubusercontent.com/mcmanussliam/pokemon-ultimate-tileset-collection/main/' +
+          e.folder.split('/').map(encodeURIComponent).join('/') + '/' + encodeURIComponent(localArtwork);
+        e.preview_source = 'Creator-authorised file in this repository';
+      }
       writeGenerated(join(target, 'README.md'), entryReadme(e));
       writeMetadata(join(target, 'metadata.json'), e);
       const category = e.folder.split('/')[0];
