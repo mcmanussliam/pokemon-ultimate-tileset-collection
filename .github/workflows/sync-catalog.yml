@@ -39,7 +39,7 @@ jobs:
         run: npm run sync
 
       - name: Discover source-hosted thumbnails where available
-        run: npm run previews -- --limit=90
+        run: npm run previews -- --limit=180
         continue-on-error: true
 
       - name: Commit refreshed metadata and move existing folders
@@ -58,13 +58,21 @@ jobs:
         run: npm run build
 
       - name: Configure GitHub Pages
+        id: pages
         uses: actions/configure-pages@v5
+        continue-on-error: true
+
+      - name: Note when Pages needs enabling
+        if: steps.pages.outcome != 'success'
+        run: echo "::warning::Enable Pages under Settings → Pages → Source GitHub Actions, then rerun this workflow."
 
       - name: Upload GitHub Pages artifact
+        if: steps.pages.outcome == 'success'
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
       - name: Deploy GitHub Pages
+        if: steps.pages.outcome == 'success'
         id: deployment
         uses: actions/deploy-pages@v4
