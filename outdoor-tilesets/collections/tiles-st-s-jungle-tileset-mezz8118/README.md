@@ -6,9 +6,9 @@
 
 ## Preview
 
-No verified image preview is available here yet. [View the artwork at its original source](https://eeveeexpo.com/resources/684/).
+![Tiles - St's Jungle tileset \| Eevee Expo — source-hosted preview](https://eeveeexpo.com/styles/default/ee_icon_resized.png)
 
-The image is not copied to GitHub without confirmation that redistribution is allowed.
+This preview is loaded directly from the original source site; the image is **not redistributed** here.
 
 ## Details
 
