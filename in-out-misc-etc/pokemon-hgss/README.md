@@ -5,6 +5,6 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **3 tilesets**
 
-- [Full Johto Gen 3 Tileset for Pokemon Essentials by SkidMarc25 on DeviantArt](full-johto-gen-3-tileset-for-pokemon-essentials-by-skidmarc25-skidmarc25-u-metalflygon/) — SkidMarc25 (u/metalflygon)
-- [Pokemon FireRed HGSS Graphics Style Patch](pokemon-firered-hgss-graphics-style-patch-noirhaya/) — noirhaya
-- [Tiles HGSS for RMXP 1.2](tiles-hgss-for-rmxp-1-2-sirmarlo/) — SirMarlo
+- [Full Johto Gen 3 Tileset for Pokemon Essentials by SkidMarc25 on DeviantArt](full-johto-gen-3-tileset-for-pokemon-essentials-by-skidmarc25-skidmarc25-u-metalflygon/) by SkidMarc25 (u/metalflygon)
+- [Pokemon FireRed HGSS Graphics Style Patch](pokemon-firered-hgss-graphics-style-patch-noirhaya/) by noirhaya
+- [Tiles HGSS for RMXP 1.2](tiles-hgss-for-rmxp-1-2-sirmarlo/) by SirMarlo

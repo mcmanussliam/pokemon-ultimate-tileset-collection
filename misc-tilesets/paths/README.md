@@ -5,4 +5,4 @@ Tilesets from **misc tilesets**. [Original sheet](https://docs.google.com/spread
 
 **1 tilesets**
 
-- [FRLG Tilesets - Hexagon Floor Tiles by pinkscales-DA on DeviantArt](frlg-tilesets-hexagon-floor-tiles-pinkscales-da/) — pinkscales-DA
+- [FRLG Tilesets - Hexagon Floor Tiles by pinkscales-DA on DeviantArt](frlg-tilesets-hexagon-floor-tiles-pinkscales-da/) by pinkscales-DA

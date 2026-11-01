@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [The Tower Of Hats - Resource Pack](the-tower-of-hats-resource-pack-elle/) — Elle
+- [The Tower Of Hats - Resource Pack](the-tower-of-hats-resource-pack-elle/) by Elle

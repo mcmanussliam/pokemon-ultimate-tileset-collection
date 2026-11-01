@@ -5,6 +5,6 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **3 tilesets**
 
-- [DoT Day15 - Victory Ruins by Phyromatical on DeviantArt](dot-day15-victory-ruins-phyromatical/) — Phyromatical
-- [Fall Ruins by Ekat99 on DeviantArt](fall-ruins-ekat99/) — Ekat99
-- [More Ruins Tiles by Ekat99 on DeviantArt](more-ruins-tiles-ekat99/) — Ekat99
+- [DoT Day15 - Victory Ruins by Phyromatical on DeviantArt](dot-day15-victory-ruins-phyromatical/) by Phyromatical
+- [Fall Ruins by Ekat99 on DeviantArt](fall-ruins-ekat99/) by Ekat99
+- [More Ruins Tiles by Ekat99 on DeviantArt](more-ruins-tiles-ekat99/) by Ekat99

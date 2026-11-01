@@ -5,6 +5,6 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **3 tilesets**
 
-- [Animated Spin Tiles](animated-spin-tiles-chromussama/) — ChromusSama
-- [Emerald Doors - FRLG Conversions 1 by pinkscales-DA on DeviantArt](emerald-doors-frlg-conversions-1-pinkscales-da/) — pinkscales-DA
-- [Tiles - 2 new animation of Healing Balls \| Eevee Expo](tiles-2-new-animation-of-healing-balls-kanda/) — kanda
+- [Animated Spin Tiles](animated-spin-tiles-chromussama/) by ChromusSama
+- [Emerald Doors - FRLG Conversions 1 by pinkscales-DA on DeviantArt](emerald-doors-frlg-conversions-1-pinkscales-da/) by pinkscales-DA
+- [Tiles - 2 new animation of Healing Balls \| Eevee Expo](tiles-2-new-animation-of-healing-balls-kanda/) by kanda

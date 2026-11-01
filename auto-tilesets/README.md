@@ -5,9 +5,9 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **14 tilesets in 6 subcategories**
 
-- [collections](collections/) — 1 tilesets
-- [lava](lava/) — 1 tilesets
-- [plants](plants/) — 2 tilesets
-- [rocks](rocks/) — 1 tilesets
-- [swamp](swamp/) — 2 tilesets
-- [water](water/) — 7 tilesets
+- [collections](collections/): 1 tilesets
+- [lava](lava/): 1 tilesets
+- [plants](plants/): 2 tilesets
+- [rocks](rocks/): 1 tilesets
+- [swamp](swamp/): 2 tilesets
+- [water](water/): 7 tilesets

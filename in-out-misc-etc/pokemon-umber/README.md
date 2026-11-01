@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Tiles - Public Gen 3 Tileset \| Eevee Expo](tiles-public-gen-3-tileset-dawn-bronze/) — Dawn Bronze
+- [Tiles - Public Gen 3 Tileset \| Eevee Expo](tiles-public-gen-3-tileset-dawn-bronze/) by Dawn Bronze

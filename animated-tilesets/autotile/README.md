@@ -5,25 +5,25 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **22 tilesets**
 
-- [Autotile Sea Water FRLG](autotile-sea-water-frlg-slashandrose/) — SlashAndRose
-- [Autotile Sea with Translucent Water FRLG](autotile-sea-with-translucent-water-frlg-slashandrose/) — SlashAndRose
-- [Beach Autotile by Rayquaza-dot on DeviantArt](beach-autotile-rayquaza-dot/) — Rayquaza-dot
-- [BW Water Autotile by Rayquaza-dot on DeviantArt](bw-water-autotile-rayquaza-dot/) — Rayquaza-dot
-- [BW Water Autotile Translucent Rayquaza-dot](bw-water-autotile-translucent-rayquaza-dot-slashandrose/) — SlashAndRose
-- [BW2 Sea by Rayquaza-dot on DeviantArt](bw2-sea-rayquaza-dot/) — Rayquaza-dot
-- [Free water autotile by Slaqueen on DeviantArt](free-water-autotile-slaqueen/) — Slaqueen
-- [Lava AutoTile by DormDude on DeviantArt](lava-autotile-dormdude/) — DormDude
-- [Lavafall by DormDude on DeviantArt](lavafall-dormdude/) — DormDude
-- [LavaRiver by DormDude on DeviantArt](lavariver-dormdude/) — DormDude
-- [Mini LavaFall by DormDude on DeviantArt](mini-lavafall-dormdude/) — DormDude
-- [PKMN BW Grass Autotile by spaceemotion on DeviantArt](pkmn-bw-grass-autotile-spaceemotion/) — spaceemotion
-- [Pokemon HGSS style Water Autotile by Rayquaza-dot on DeviantArt](pokemon-hgss-style-water-autotile-rayquaza-dot/) — Rayquaza-dot
-- [Pokemon Platinum Grass Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-grass-autotile-rayquaza-dot/) — Rayquaza-dot
-- [Pokemon Platinum Style Magma Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-magma-autotile-rayquaza-dot/) — Rayquaza-dot
-- [Pokemon Platinum Style Pond Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-pond-autotile-rayquaza-dot/) — Rayquaza-dot
-- [Pokemon Platinum Style Water Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-water-autotile-rayquaza-dot/) — Rayquaza-dot
-- [Pokemon WhirlPool AutoTile by DormDude on DeviantArt](pokemon-whirlpool-autotile-dormdude/) — DormDude
-- [Reef](reef-rayquaza-dot/) — Rayquaza-dot
-- [Water Autotile by 1AndOnlyLenah on DeviantArt](water-autotile-1andonlylenah/) — 1AndOnlyLenah
-- [Waterfall Autotile](waterfall-autotile-thefloofypanthar/) — TheFloofyPanthar
-- [Yet another water autotile by Slaqueen on DeviantArt](yet-another-water-autotile-slaqueen/) — Slaqueen
+- [Autotile Sea Water FRLG](autotile-sea-water-frlg-slashandrose/) by SlashAndRose
+- [Autotile Sea with Translucent Water FRLG](autotile-sea-with-translucent-water-frlg-slashandrose/) by SlashAndRose
+- [Beach Autotile by Rayquaza-dot on DeviantArt](beach-autotile-rayquaza-dot/) by Rayquaza-dot
+- [BW Water Autotile by Rayquaza-dot on DeviantArt](bw-water-autotile-rayquaza-dot/) by Rayquaza-dot
+- [BW Water Autotile Translucent Rayquaza-dot](bw-water-autotile-translucent-rayquaza-dot-slashandrose/) by SlashAndRose
+- [BW2 Sea by Rayquaza-dot on DeviantArt](bw2-sea-rayquaza-dot/) by Rayquaza-dot
+- [Free water autotile by Slaqueen on DeviantArt](free-water-autotile-slaqueen/) by Slaqueen
+- [Lava AutoTile by DormDude on DeviantArt](lava-autotile-dormdude/) by DormDude
+- [Lavafall by DormDude on DeviantArt](lavafall-dormdude/) by DormDude
+- [LavaRiver by DormDude on DeviantArt](lavariver-dormdude/) by DormDude
+- [Mini LavaFall by DormDude on DeviantArt](mini-lavafall-dormdude/) by DormDude
+- [PKMN BW Grass Autotile by spaceemotion on DeviantArt](pkmn-bw-grass-autotile-spaceemotion/) by spaceemotion
+- [Pokemon HGSS style Water Autotile by Rayquaza-dot on DeviantArt](pokemon-hgss-style-water-autotile-rayquaza-dot/) by Rayquaza-dot
+- [Pokemon Platinum Grass Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-grass-autotile-rayquaza-dot/) by Rayquaza-dot
+- [Pokemon Platinum Style Magma Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-magma-autotile-rayquaza-dot/) by Rayquaza-dot
+- [Pokemon Platinum Style Pond Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-pond-autotile-rayquaza-dot/) by Rayquaza-dot
+- [Pokemon Platinum Style Water Autotile by Rayquaza-dot on DeviantArt](pokemon-platinum-style-water-autotile-rayquaza-dot/) by Rayquaza-dot
+- [Pokemon WhirlPool AutoTile by DormDude on DeviantArt](pokemon-whirlpool-autotile-dormdude/) by DormDude
+- [Reef](reef-rayquaza-dot/) by Rayquaza-dot
+- [Water Autotile by 1AndOnlyLenah on DeviantArt](water-autotile-1andonlylenah/) by 1AndOnlyLenah
+- [Waterfall Autotile](waterfall-autotile-thefloofypanthar/) by TheFloofyPanthar
+- [Yet another water autotile by Slaqueen on DeviantArt](yet-another-water-autotile-slaqueen/) by Slaqueen

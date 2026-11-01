@@ -5,5 +5,5 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **2 tilesets**
 
-- [Haunted Swamp (Shallow) Autotile by J-Treecko252 on DeviantArt](haunted-swamp-shallow-autotile-j-treecko252/) — J-Treecko252
-- [Haunted Swamp Deep Autotile](haunted-swamp-deep-autotile-j-treecko252/) — J-Treecko252
+- [Haunted Swamp (Shallow) Autotile by J-Treecko252 on DeviantArt](haunted-swamp-shallow-autotile-j-treecko252/) by J-Treecko252
+- [Haunted Swamp Deep Autotile](haunted-swamp-deep-autotile-j-treecko252/) by J-Treecko252

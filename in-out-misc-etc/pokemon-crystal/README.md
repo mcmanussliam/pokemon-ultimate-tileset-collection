@@ -5,6 +5,6 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **3 tilesets**
 
-- [Game Boy / GBC - Pokémon Crystal - Tileset (Day) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-day-frenchorange/) — FrenchOrange
-- [Game Boy / GBC - Pokémon Crystal - Tileset (Morning) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-morning-frenchorange/) — FrenchOrange
-- [Game Boy / GBC - Pokémon Crystal - Tileset (Night) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-night-frenchorange/) — FrenchOrange
+- [Game Boy / GBC - Pokémon Crystal - Tileset (Day) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-day-frenchorange/) by FrenchOrange
+- [Game Boy / GBC - Pokémon Crystal - Tileset (Morning) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-morning-frenchorange/) by FrenchOrange
+- [Game Boy / GBC - Pokémon Crystal - Tileset (Night) - The Spriters Resource](game-boy-gbc-pokemon-crystal-tileset-night-frenchorange/) by FrenchOrange

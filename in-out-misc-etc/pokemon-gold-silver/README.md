@@ -5,6 +5,6 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **3 tilesets**
 
-- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Day) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-day-frenchorange/) — FrenchOrange
-- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Morning) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-morning-frenchorange/) — FrenchOrange
-- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Night) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-night-frenchorange/) — FrenchOrange
+- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Day) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-day-frenchorange/) by FrenchOrange
+- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Morning) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-morning-frenchorange/) by FrenchOrange
+- [Game Boy / GBC - Pokémon Gold / Silver - Tileset (Night) - The Spriters Resource](game-boy-gbc-pokemon-gold-silver-tileset-night-frenchorange/) by FrenchOrange

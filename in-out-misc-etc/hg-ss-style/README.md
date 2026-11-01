@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [any version - \[Map Pack\] Remastered Kanto and Johto Overworld and Caves, with Bonus Beta maps (and Music) \| Eevee Expo](any-version-map-pack-remastered-kanto-and-johto-overworld-and-aenaondogsky/) — AenaonDogsky
+- [any version - \[Map Pack\] Remastered Kanto and Johto Overworld and Caves, with Bonus Beta maps (and Music) \| Eevee Expo](any-version-map-pack-remastered-kanto-and-johto-overworld-and-aenaondogsky/) by AenaonDogsky

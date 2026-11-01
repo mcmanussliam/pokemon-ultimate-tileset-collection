@@ -5,4 +5,4 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **1 tilesets**
 
-- [Game Boy Advance - Pokémon Ruby / Sapphire - Animated Tiles - The Spriters Resource](game-boy-advance-pokemon-ruby-sapphire-animated-tiles-axmarrone/) — axmarrone
+- [Game Boy Advance - Pokémon Ruby / Sapphire - Animated Tiles - The Spriters Resource](game-boy-advance-pokemon-ruby-sapphire-animated-tiles-axmarrone/) by axmarrone

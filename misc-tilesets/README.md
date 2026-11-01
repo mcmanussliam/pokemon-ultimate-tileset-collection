@@ -5,6 +5,6 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **80 tilesets in 3 subcategories**
 
-- [general](general/) — 78 tilesets
-- [paths](paths/) — 1 tilesets
-- [pokemon emerald](pokemon-emerald/) — 1 tilesets
+- [general](general/): 78 tilesets
+- [paths](paths/): 1 tilesets
+- [pokemon emerald](pokemon-emerald/): 1 tilesets

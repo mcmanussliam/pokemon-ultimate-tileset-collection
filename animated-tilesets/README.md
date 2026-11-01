@@ -5,13 +5,13 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **62 tilesets in 10 subcategories**
 
-- [autotile](autotile/) — 22 tilesets
-- [buildings](buildings/) — 7 tilesets
-- [lava](lava/) — 4 tilesets
-- [misc](misc/) — 3 tilesets
-- [plants](plants/) — 15 tilesets
-- [pokemon frlg](pokemon-frlg/) — 1 tilesets
-- [pokemon ruby sapphire](pokemon-ruby-sapphire/) — 1 tilesets
-- [script](script/) — 1 tilesets
-- [swamp](swamp/) — 2 tilesets
-- [water](water/) — 6 tilesets
+- [autotile](autotile/): 22 tilesets
+- [buildings](buildings/): 7 tilesets
+- [lava](lava/): 4 tilesets
+- [misc](misc/): 3 tilesets
+- [plants](plants/): 15 tilesets
+- [pokemon frlg](pokemon-frlg/): 1 tilesets
+- [pokemon ruby sapphire](pokemon-ruby-sapphire/): 1 tilesets
+- [script](script/): 1 tilesets
+- [swamp](swamp/): 2 tilesets
+- [water](water/): 6 tilesets

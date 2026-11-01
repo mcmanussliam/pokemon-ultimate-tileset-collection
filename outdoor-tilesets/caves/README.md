@@ -5,4 +5,4 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **1 tilesets**
 
-- [Old ORAS Cave Tiles (V2) by KingTapir on DeviantArt](old-oras-cave-tiles-v2-kingtapir/) — KingTapir
+- [Old ORAS Cave Tiles (V2) by KingTapir on DeviantArt](old-oras-cave-tiles-v2-kingtapir/) by KingTapir

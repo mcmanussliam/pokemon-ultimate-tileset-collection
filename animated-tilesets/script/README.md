@@ -5,4 +5,4 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **1 tilesets**
 
-- [\[SCRIPT\] Unlimited Animated Tiles for Essentials by KleinStudio on DeviantArt](script-unlimited-animated-tiles-for-essentials-kleinstudio/) — KleinStudio
+- [\[SCRIPT\] Unlimited Animated Tiles for Essentials by KleinStudio on DeviantArt](script-unlimited-animated-tiles-for-essentials-kleinstudio/) by KleinStudio

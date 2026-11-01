@@ -5,5 +5,5 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **2 tilesets**
 
-- [Beach and Sea Tiles by PeekyChew on DeviantArt](beach-and-sea-tiles-peekychew/) — PeekyChew
-- [Public Tileset Dump 3/4 - Beach and Sea by PeekyChew on DeviantArt](public-tileset-dump-3-4-beach-and-sea-peekychew/) — PeekyChew
+- [Beach and Sea Tiles by PeekyChew on DeviantArt](beach-and-sea-tiles-peekychew/) by PeekyChew
+- [Public Tileset Dump 3/4 - Beach and Sea by PeekyChew on DeviantArt](public-tileset-dump-3-4-beach-and-sea-peekychew/) by PeekyChew

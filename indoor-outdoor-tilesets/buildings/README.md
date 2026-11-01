@@ -5,5 +5,5 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **2 tilesets**
 
-- [Ivy Colosseum tileset (Celebi arena) by Anarlaurendil on DeviantArt](ivy-colosseum-tileset-celebi-arena-anarlaurendil/) — Anarlaurendil
-- [Wine Cellar by Ekat99 on DeviantArt](wine-cellar-ekat99/) — Ekat99
+- [Ivy Colosseum tileset (Celebi arena) by Anarlaurendil on DeviantArt](ivy-colosseum-tileset-celebi-arena-anarlaurendil/) by Anarlaurendil
+- [Wine Cellar by Ekat99 on DeviantArt](wine-cellar-ekat99/) by Ekat99

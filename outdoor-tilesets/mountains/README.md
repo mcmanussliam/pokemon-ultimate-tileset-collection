@@ -5,5 +5,5 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **2 tilesets**
 
-- [GD - Tileset - Gebirge by The-Red-eX on DeviantArt](gd-tileset-gebirge-the-red-ex/) — The-Red-eX
-- [New Outside Mountains](new-outside-mountains-hek-el-grande/) — Hek-el-grande
+- [GD - Tileset - Gebirge by The-Red-eX on DeviantArt](gd-tileset-gebirge-the-red-ex/) by The-Red-eX
+- [New Outside Mountains](new-outside-mountains-hek-el-grande/) by Hek-el-grande

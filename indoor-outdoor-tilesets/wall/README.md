@@ -5,4 +5,4 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **1 tilesets**
 
-- [Reshiram and Zekrom walls by Hek-el-grande on DeviantArt](reshiram-and-zekrom-walls-hek-el-grande/) — Hek-el-grande
+- [Reshiram and Zekrom walls by Hek-el-grande on DeviantArt](reshiram-and-zekrom-walls-hek-el-grande/) by Hek-el-grande

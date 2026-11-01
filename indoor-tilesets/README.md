@@ -5,6 +5,6 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **90 tilesets in 3 subcategories**
 
-- [general](general/) — 75 tilesets
-- [pokemon emerald](pokemon-emerald/) — 1 tilesets
-- [pokemon halcyon](pokemon-halcyon/) — 14 tilesets
+- [general](general/): 75 tilesets
+- [pokemon emerald](pokemon-emerald/): 1 tilesets
+- [pokemon halcyon](pokemon-halcyon/): 14 tilesets

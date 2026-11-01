@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [The Last Nurse Joy - Resource Pack](the-last-nurse-joy-resource-pack-anon-alpaca/) — Anon Alpaca
+- [The Last Nurse Joy - Resource Pack](the-last-nurse-joy-resource-pack-anon-alpaca/) by Anon Alpaca

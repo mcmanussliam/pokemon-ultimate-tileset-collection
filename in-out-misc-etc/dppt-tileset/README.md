@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Tiles - WesleyFG's DPPt Tileset \| Eevee Expo](tiles-wesleyfg-s-dppt-tileset-aldo/) — Aldo
+- [Tiles - WesleyFG's DPPt Tileset \| Eevee Expo](tiles-wesleyfg-s-dppt-tileset-aldo/) by Aldo

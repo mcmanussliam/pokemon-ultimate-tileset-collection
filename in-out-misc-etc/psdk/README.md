@@ -5,5 +5,5 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **2 tilesets**
 
-- [Other - PSDK .XXV Graphics Asset Pack \| Eevee Expo](other-psdk-xxv-graphics-asset-pack-elle/) — Elle
-- [Reunion Graphics Pack 1](reunion-graphics-pack-1-elle/) — Elle
+- [Other - PSDK .XXV Graphics Asset Pack \| Eevee Expo](other-psdk-xxv-graphics-asset-pack-elle/) by Elle
+- [Reunion Graphics Pack 1](reunion-graphics-pack-1-elle/) by Elle

@@ -5,4 +5,4 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **1 tilesets**
 
-- [DoT Day24 - Evolina Mountains - Full Set by Phyromatical on DeviantArt](dot-day24-evolina-mountains-full-set-phyromatical/) — Phyromatical
+- [DoT Day24 - Evolina Mountains - Full Set by Phyromatical on DeviantArt](dot-day24-evolina-mountains-full-set-phyromatical/) by Phyromatical

@@ -5,4 +5,4 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **1 tilesets**
 
-- [DoT Day3 - Forest Dungeon Tileset by Phyromatical on DeviantArt](dot-day3-forest-dungeon-tileset-phyromatical/) — Phyromatical
+- [DoT Day3 - Forest Dungeon Tileset by Phyromatical on DeviantArt](dot-day3-forest-dungeon-tileset-phyromatical/) by Phyromatical

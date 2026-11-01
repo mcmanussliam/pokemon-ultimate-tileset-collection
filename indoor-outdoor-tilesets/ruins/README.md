@@ -5,4 +5,4 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **1 tilesets**
 
-- [DoT Day18 - Dark Ruins tileset by Phyromatical on DeviantArt](dot-day18-dark-ruins-tileset-phyromatical/) — Phyromatical
+- [DoT Day18 - Dark Ruins tileset by Phyromatical on DeviantArt](dot-day18-dark-ruins-tileset-phyromatical/) by Phyromatical

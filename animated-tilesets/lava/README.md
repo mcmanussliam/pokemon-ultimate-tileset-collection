@@ -5,7 +5,7 @@ Tilesets from **animated tilesets**. [Original sheet](https://docs.google.com/sp
 
 **4 tilesets**
 
-- [Animated Lava Autotile Ver.01 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-01-j-treecko252/) — J-Treecko252
-- [Animated Lava Autotile Ver.02 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-02-j-treecko252/) — J-Treecko252
-- [Animated Lava Autotile Ver.03 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-03-j-treecko252/) — J-Treecko252
-- [Animated Lava Falls Autotile](animated-lava-falls-autotile-j-treecko252/) — J-Treecko252
+- [Animated Lava Autotile Ver.01 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-01-j-treecko252/) by J-Treecko252
+- [Animated Lava Autotile Ver.02 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-02-j-treecko252/) by J-Treecko252
+- [Animated Lava Autotile Ver.03 by J-Treecko252 on DeviantArt](animated-lava-autotile-ver-03-j-treecko252/) by J-Treecko252
+- [Animated Lava Falls Autotile](animated-lava-falls-autotile-j-treecko252/) by J-Treecko252

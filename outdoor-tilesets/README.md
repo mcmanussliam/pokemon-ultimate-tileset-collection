@@ -5,28 +5,28 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **382 tilesets in 25 subcategories**
 
-- [beaches](beaches/) — 2 tilesets
-- [buildings](buildings/) — 123 tilesets
-- [caves](caves/) — 1 tilesets
-- [city](city/) — 28 tilesets
-- [cliffs](cliffs/) — 1 tilesets
-- [collections](collections/) — 39 tilesets
-- [desert](desert/) — 5 tilesets
-- [forests](forests/) — 7 tilesets
-- [mountains](mountains/) — 2 tilesets
-- [paths](paths/) — 42 tilesets
-- [plants](plants/) — 10 tilesets
-- [poi](poi/) — 20 tilesets
-- [pokemon dppt](pokemon-dppt/) — 2 tilesets
-- [pokemon emerald](pokemon-emerald/) — 3 tilesets
-- [pokemon frlg](pokemon-frlg/) — 3 tilesets
-- [pokemon sun moon](pokemon-sun-moon/) — 1 tilesets
-- [rocks](rocks/) — 21 tilesets
-- [routes](routes/) — 1 tilesets
-- [ruins](ruins/) — 3 tilesets
-- [sky](sky/) — 1 tilesets
-- [snow](snow/) — 8 tilesets
-- [swamp](swamp/) — 1 tilesets
-- [trees](trees/) — 50 tilesets
-- [volcano](volcano/) — 2 tilesets
-- [water](water/) — 6 tilesets
+- [beaches](beaches/): 2 tilesets
+- [buildings](buildings/): 123 tilesets
+- [caves](caves/): 1 tilesets
+- [city](city/): 28 tilesets
+- [cliffs](cliffs/): 1 tilesets
+- [collections](collections/): 39 tilesets
+- [desert](desert/): 5 tilesets
+- [forests](forests/): 7 tilesets
+- [mountains](mountains/): 2 tilesets
+- [paths](paths/): 42 tilesets
+- [plants](plants/): 10 tilesets
+- [poi](poi/): 20 tilesets
+- [pokemon dppt](pokemon-dppt/): 2 tilesets
+- [pokemon emerald](pokemon-emerald/): 3 tilesets
+- [pokemon frlg](pokemon-frlg/): 3 tilesets
+- [pokemon sun moon](pokemon-sun-moon/): 1 tilesets
+- [rocks](rocks/): 21 tilesets
+- [routes](routes/): 1 tilesets
+- [ruins](ruins/): 3 tilesets
+- [sky](sky/): 1 tilesets
+- [snow](snow/): 8 tilesets
+- [swamp](swamp/): 1 tilesets
+- [trees](trees/): 50 tilesets
+- [volcano](volcano/): 2 tilesets
+- [water](water/): 6 tilesets

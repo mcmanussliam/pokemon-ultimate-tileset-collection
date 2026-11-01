@@ -5,4 +5,4 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **1 tilesets**
 
-- [Water Rock](water-rock-bhagyajyoti/) — BhagyaJyoti
+- [Water Rock](water-rock-bhagyajyoti/) by BhagyaJyoti

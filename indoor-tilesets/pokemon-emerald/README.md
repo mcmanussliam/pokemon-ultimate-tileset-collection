@@ -5,4 +5,4 @@ Tilesets from **indoor tilesets**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Game Boy Advance - Pokémon Emerald - Interior Tilesets - The Spriters Resource](game-boy-advance-pokemon-emerald-interior-tilesets-heartlessdragoon/) — Heartlessdragoon
+- [Game Boy Advance - Pokémon Emerald - Interior Tilesets - The Spriters Resource](game-boy-advance-pokemon-emerald-interior-tilesets-heartlessdragoon/) by Heartlessdragoon

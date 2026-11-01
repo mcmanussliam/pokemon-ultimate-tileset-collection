@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Pokémon Syvin Resource Pack \| Eevee Expo](pokemon-syvin-resource-pack-megamew47/) — MegaMew47
+- [Pokémon Syvin Resource Pack \| Eevee Expo](pokemon-syvin-resource-pack-megamew47/) by MegaMew47

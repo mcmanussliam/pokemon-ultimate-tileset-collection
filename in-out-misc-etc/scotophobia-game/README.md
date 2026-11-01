@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Scotophobia Resource Pack 1](scotophobia-resource-pack-1-elle/) — Elle
+- [Scotophobia Resource Pack 1](scotophobia-resource-pack-1-elle/) by Elle

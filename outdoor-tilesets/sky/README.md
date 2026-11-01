@@ -5,4 +5,4 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **1 tilesets**
 
-- [Clouds by Ekat99 on DeviantArt](clouds-ekat99/) — Ekat99
+- [Clouds by Ekat99 on DeviantArt](clouds-ekat99/) by Ekat99

@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Tiles - Ready to Use: KingTapir Tilesets \| Eevee Expo](tiles-ready-to-use-kingtapir-tilesets-nocturn/) — NocTurn
+- [Tiles - Ready to Use: KingTapir Tilesets \| Eevee Expo](tiles-ready-to-use-kingtapir-tilesets-nocturn/) by NocTurn

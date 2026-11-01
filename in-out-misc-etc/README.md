@@ -5,25 +5,25 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **55 tilesets in 22 subcategories**
 
-- [alistair tileset](alistair-tileset/) — 1 tilesets
-- [collections](collections/) — 24 tilesets
-- [dppt tileset](dppt-tileset/) — 1 tilesets
-- [gen 4 tileset](gen-4-tileset/) — 3 tilesets
-- [hg ss style](hg-ss-style/) — 1 tilesets
-- [kingtapir](kingtapir/) — 1 tilesets
-- [pokemon afterlife game jam](pokemon-afterlife-game-jam/) — 1 tilesets
-- [pokemon crystal](pokemon-crystal/) — 3 tilesets
-- [pokemon frlg](pokemon-frlg/) — 1 tilesets
-- [pokemon gaia](pokemon-gaia/) — 2 tilesets
-- [pokemon gold silver](pokemon-gold-silver/) — 3 tilesets
-- [pokemon green jp](pokemon-green-jp/) — 1 tilesets
-- [pokemon hgss](pokemon-hgss/) — 3 tilesets
-- [pokemon last nurse joy](pokemon-last-nurse-joy/) — 1 tilesets
-- [pokemon primal](pokemon-primal/) — 1 tilesets
-- [pokemon red blue](pokemon-red-blue/) — 1 tilesets
-- [pokemon syvin](pokemon-syvin/) — 1 tilesets
-- [pokemon umber](pokemon-umber/) — 1 tilesets
-- [pokemon yellow](pokemon-yellow/) — 1 tilesets
-- [psdk](psdk/) — 2 tilesets
-- [scotophobia game](scotophobia-game/) — 1 tilesets
-- [the tower of hats game](the-tower-of-hats-game/) — 1 tilesets
+- [alistair tileset](alistair-tileset/): 1 tilesets
+- [collections](collections/): 24 tilesets
+- [dppt tileset](dppt-tileset/): 1 tilesets
+- [gen 4 tileset](gen-4-tileset/): 3 tilesets
+- [hg ss style](hg-ss-style/): 1 tilesets
+- [kingtapir](kingtapir/): 1 tilesets
+- [pokemon afterlife game jam](pokemon-afterlife-game-jam/): 1 tilesets
+- [pokemon crystal](pokemon-crystal/): 3 tilesets
+- [pokemon frlg](pokemon-frlg/): 1 tilesets
+- [pokemon gaia](pokemon-gaia/): 2 tilesets
+- [pokemon gold silver](pokemon-gold-silver/): 3 tilesets
+- [pokemon green jp](pokemon-green-jp/): 1 tilesets
+- [pokemon hgss](pokemon-hgss/): 3 tilesets
+- [pokemon last nurse joy](pokemon-last-nurse-joy/): 1 tilesets
+- [pokemon primal](pokemon-primal/): 1 tilesets
+- [pokemon red blue](pokemon-red-blue/): 1 tilesets
+- [pokemon syvin](pokemon-syvin/): 1 tilesets
+- [pokemon umber](pokemon-umber/): 1 tilesets
+- [pokemon yellow](pokemon-yellow/): 1 tilesets
+- [psdk](psdk/): 2 tilesets
+- [scotophobia game](scotophobia-game/): 1 tilesets
+- [the tower of hats game](the-tower-of-hats-game/): 1 tilesets

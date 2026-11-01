@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Pokemon Afterlife Game Jam #09 Resource Pack v2](pokemon-afterlife-game-jam-09-resource-pack-v2-gangstanerd/) — GangstaNerd
+- [Pokemon Afterlife Game Jam #09 Resource Pack v2](pokemon-afterlife-game-jam-09-resource-pack-v2-gangstanerd/) by GangstaNerd

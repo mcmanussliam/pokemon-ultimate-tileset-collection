@@ -5,126 +5,126 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **123 tilesets**
 
-- [\[Free\] Rustic Tiles w/ updates by Magiscarf on DeviantArt](free-rustic-tiles-w-updates-magiscarf/) — Magiscarf
-- [1950s House by Ekat99 on DeviantArt](1950s-house-ekat99/) — Ekat99
-- [A Frame Houses by Ekat99 on DeviantArt](a-frame-houses-ekat99/) — Ekat99
-- [Alola Tile Dump #1 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-1-check-description-kingtapir/) — KingTapir
-- [Alola Tile Dump #1-6 (Revamped) by KingTapir on DeviantArt](alola-tile-dump-1-6-revamped-kingtapir/) — KingTapir
-- [Alola Tile Dump #2 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-2-check-description-kingtapir/) — KingTapir
-- [Alola Tile Dump #4 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-4-check-description-kingtapir/) — KingTapir
-- [Alola Tile Dump #7 by KingTapir on DeviantArt](alola-tile-dump-7-kingtapir/) — KingTapir
-- [Alola Tile Dump No Outlines](alola-tile-dump-no-outlines-kingtapir/) — KingTapir
-- [Apartment Building Tiles 01 by J-Treecko252 on DeviantArt](apartment-building-tiles-01-j-treecko252/) — J-Treecko252
-- [Beach Houses by Ekat99 on DeviantArt](beach-houses-ekat99/) — Ekat99
-- [Black City Tiles by UltimoSpriter on DeviantArt](black-city-tiles-ultimospriter/) — UltimoSpriter
-- [Brick House Tiles by Ekat99 on DeviantArt](brick-house-tiles-ekat99/) — Ekat99
-- [Building tiles: Custom Pokecenter Tiles 1 by madRVST on DeviantArt](building-tiles-custom-pokecenter-tiles-1-madrvst/) — madRVST
-- [Buildings Tiles w/ Snow by Magiscarf on DeviantArt](buildings-tiles-w-snow-magiscarf/) — Magiscarf
-- [Cable Car by Ekat99 on DeviantArt](cable-car-ekat99/) — Ekat99
-- [Cable Car Tileset](cable-car-tileset-tenshi-of-war/) — Tenshi Of War
-- [Chansey Hospital FRLG by pinkscales-DA on DeviantArt](chansey-hospital-frlg-pinkscales-da/) — pinkscales-DA
-- [Den of Souls Homes - Pokmon Rejuvation by Ekat99 on DeviantArt](den-of-souls-homes-pokmon-rejuvation-ekat99/) — Ekat99
-- [Desert House by aveontrainer on DeviantArt](desert-house-aveontrainer/) — Aveontrainer
-- [Dojo](dojo-kod-3r/) — KOD-3R
-- [DoT Day6 - Bridgeton Tileset by Phyromatical on DeviantArt](dot-day6-bridgeton-tileset-phyromatical/) — Phyromatical
-- [DoT Day7 - Random old things by Phyromatical on DeviantArt](dot-day7-random-old-things-phyromatical/) — Phyromatical
-- [DoT Day9 - BW2 Houses edites by Phyromatical on DeviantArt](dot-day9-bw2-houses-edites-phyromatical/) — Phyromatical
-- [Ecologic energy by KOD-3R on DeviantArt](ecologic-energy-kod-3r/) — KOD-3R
-- [Entry for the TOD contest](entry-for-the-tod-contest-mikejaj/) — MikeJAJ
-- [Exhibition Hall](exhibition-hall-beertierchen/) — Beertierchen
-- [Fall Harvest by Ekat99 on DeviantArt](fall-harvest-ekat99/) — Ekat99
-- [Farm Exterior Tileset by aveontrainer on DeviantArt](farm-exterior-tileset-aveontrainer/) — Aveontrainer
-- [Farming E](farming-e-skatefilter5/) — skatefilter5
-- [Fisherman's Hut Tileset by aveontrainer on DeviantArt](fisherman-s-hut-tileset-aveontrainer/) — Aveontrainer
-- [FRLG Celadon Mansion by CloudyDayJoy on DeviantArt](frlg-celadon-mansion-cloudydayjoy/) — CloudyDayJoy
-- [FRLG Custom Tilesets - Peaked Houses Update 1 by pinkscales-DA on DeviantArt](frlg-custom-tilesets-peaked-houses-update-1-pinkscales-da/) — pinkscales-DA
-- [FRLG style house by Magiscarf on DeviantArt](frlg-style-house-magiscarf/) — Magiscarf
-- [FRLG-styled tiles by spherical-ice on DeviantArt](frlg-styled-tiles-spherical-ice/) — Spherical-Ice
-- [Galar Tile Dump #1 by KingTapir on DeviantArt](galar-tile-dump-1-kingtapir/) — KingTapir
-- [Galar Tile Dump #10 (Station Exterior) by KingTapir on DeviantArt](galar-tile-dump-10-station-exterior-kingtapir/) — KingTapir
-- [Galar Tile Dump #3 by KingTapir on DeviantArt](galar-tile-dump-3-kingtapir/) — KingTapir
-- [Galar Tile Dump #6 (Isle of Armor Special) by KingTapir on DeviantArt](galar-tile-dump-6-isle-of-armor-special-kingtapir/) — KingTapir
-- [Garden House Exterior](garden-house-exterior-ekat99/) — Ekat99
-- [Garden House Sheet](garden-house-sheet-ekat99/) — Ekat99
-- [Gatehouse by Ekat99 on DeviantArt](gatehouse-ekat99/) — Ekat99
-- [Gen 3 Cathedral by Beertierchen on DeviantArt](gen-3-cathedral-beertierchen/) — Beertierchen
-- [Gen 3 Coastal City Tileset by Foxowl23 on DeviantArt](gen-3-coastal-city-tileset-by-foxowl23-foxowl25/) — Foxowl25
-- [Gen 3 Fancy Palace Tiles by Beertierchen on DeviantArt](gen-3-fancy-palace-tiles-beertierchen/) — Beertierchen
-- [Gen 3 Greenhouse Tileset by Foxowl23 on DeviantArt](gen-3-greenhouse-tileset-by-foxowl23-foxowl24/) — Foxowl24
-- [Gen 3 Luxurious Gatehouse tiles \[Free to use\] by Beertierchen on DeviantArt](gen-3-luxurious-gatehouse-tiles-free-to-use-beertierchen/) — Beertierchen
-- [Gen 3 Mall Shopping Center](gen-3-mall-shopping-center-beertierchen/) — Beertierchen
-- [Gen 3 Pokemon Center / Mart Tiles by Beertierchen on DeviantArt](gen-3-pokemon-center-mart-tiles-beertierchen/) — Beertierchen
-- [Gen 3 style Radio Tower and modified Pokemon Tower by Lo8jd on DeviantArt](gen-3-style-radio-tower-and-modified-pokemon-tower-lo8jd/) — Lo8jd
-- [General Pink Flower Buildings by Ekat99 on DeviantArt](general-pink-flower-buildings-ekat99/) — Ekat99
-- [General Store by Ekat99 on DeviantArt](general-store-ekat99/) — Ekat99
-- [Goldenleaf Homes - Pokmon Rejuvenation by Ekat99 on DeviantArt](goldenleaf-homes-pokmon-rejuvenation-ekat99/) — Ekat99
-- [Goldenrod City Tileset by UltimoSpriter on DeviantArt](goldenrod-city-tileset-ultimospriter/) — UltimoSpriter
-- [Grocery Tiles by Ekat99 on DeviantArt](grocery-tiles-ekat99/) — Ekat99
-- [Gym (Exterior) Tiles Ver.01 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-01-j-treecko252/) — J-Treecko252
-- [Gym (Exterior) Tiles Ver.02 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-02-j-treecko252/) — J-Treecko252
-- [Gym (Exterior) Tiles Ver.03 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-03-j-treecko252/) — J-Treecko252
-- [Haunted Mansion Exterior by Ekat99 on DeviantArt](haunted-mansion-exterior-ekat99/) — Ekat99
-- [House 2](house-2-ditto209/) — ditto209
-- [House 3 by ditto209 on DeviantArt](house-3-ditto209/) — ditto209
-- [House Tile 2](house-tile-2-lordkazeh/) — Lordkazeh
-- [Lookout Station Exterior by Ekat99 on DeviantArt](lookout-station-exterior-ekat99/) — Ekat99
-- [Lusamine's Mansion (Alola Tile Dump #5) \[Updated\] by KingTapir on DeviantArt](lusamine-s-mansion-alola-tile-dump-5-updated-kingtapir/) — KingTapir
-- [Mansion by KOD-3R on DeviantArt](mansion-kod-3r/) — KOD-3R
-- [Mixed style CPs](mixed-style-cps-hek-el-grande/) — Hek-el-grande
-- [More Freebies by Magiscarf on DeviantArt](more-freebies-magiscarf/) — Magiscarf
-- [New House](new-house-kod-3r/) — KOD-3R
-- [New pallete :3 by Hek-el-grande on DeviantArt](new-pallete-3-hek-el-grande/) — Hek-el-grande
-- [Old Resort Exterior](old-resort-exterior-ekat99/) — Ekat99
-- [Other House](other-house-kod-3r/) — KOD-3R
-- [Outs by AdventurerAldo on DeviantArt](outs-adventureraldo/) — AdventurerAldo
-- [Outside Stuff](outside-stuff-skatefilter5/) — skatefilter5
-- [Pallet Town Tiles by Morlock-Liam on DeviantArt](pallet-town-tiles-morlock-liam/) — Morlock-Liam
-- [Pkmn league and statues by Hek-el-grande on DeviantArt](pkmn-league-and-statues-hek-el-grande/) — Hek-el-grande
-- [Players House](players-house-ditto209/) — ditto209
-- [Pointy Buildings](pointy-buildings-ekat99/) — Ekat99
-- [PokeCenter by aveontrainer on DeviantArt](pokecenter-aveontrainer/) — Aveontrainer
-- [PokeCenter by aveontrainer on DeviantArt](pokecenter-aveontrainer-201/) — Aveontrainer
-- [PokeMart by aveontrainer on DeviantArt](pokemart-aveontrainer/) — Aveontrainer
-- [Pokemon C3 Mt Moon Ground](pokemon-c3-mt-moon-ground-skatefilter5/) — skatefilter5
-- [Pokemon Center (Galar Tile Dump #4) by KingTapir on DeviantArt](pokemon-center-galar-tile-dump-4-kingtapir/) — KingTapir
-- [Pokemon Gyms Custom Tileset by LuiztheDarkMaster on DeviantArt](pokemon-gyms-custom-tileset-luizthedarkmaster/) — LuizTheDarkMaster
-- [Pokemon Halcyon - Dojo by Ekat99 on DeviantArt](pokemon-halcyon-dojo-ekat99/) — Ekat99
-- [Pokemon Lab by aveontrainer on DeviantArt](pokemon-lab-aveontrainer/) — Aveontrainer
-- [Pokemon Mansion tileset modification by Lo8jd on DeviantArt](pokemon-mansion-tileset-modification-lo8jd/) — Lo8jd
-- [Pokemon tile - modern house to age-old cottage by Anarlaurendil on DeviantArt](pokemon-tile-modern-house-to-age-old-cottage-anarlaurendil/) — Anarlaurendil
-- [Pokemon Tileset - GBA - Buildings by Ruurule on DeviantArt](pokemon-tileset-gba-buildings-ruurule/) — Ruurule
-- [Pokmon Center & Mart Buildings](pokmon-center-mart-buildings-ekat99/) — Ekat99
-- [Pond And Bridge by Ekat99 on DeviantArt](pond-and-bridge-ekat99/) — Ekat99
-- [PUBLIC TILES WITH CREDITS by Zeo254 on DeviantArt](public-tiles-with-credits-zeo254/) — Zeo254
-- [Remake - Old style, new Tile' (2) by The-Red-eX on DeviantArt](remake-old-style-new-tile-2-the-red-ex/) — The-Red-eX
-- [Remake - Old style, new Tile' (4) by The-Red-eX on DeviantArt](remake-old-style-new-tile-4-the-red-ex/) — The-Red-eX
-- [Remake - Old style, new Tile' (5) by The-Red-eX on DeviantArt](remake-old-style-new-tile-5-the-red-ex/) — The-Red-eX
-- [Residential Building FREE WITH CREDIT](residential-building-free-with-credit-ghha90/) — Ghha90
-- [Resort Buildings](resort-buildings-ditto209/) — ditto209
-- [Revised Apathy Houses by Ekat99 on DeviantArt](revised-apathy-houses-ekat99/) — Ekat99
-- [Route 4 Tiles by UltimoSpriter on DeviantArt](route-4-tiles-ultimospriter/) — UltimoSpriter
-- [RPG Maker Tileset for Jade Springs by TheDeadHeroAlistair on DeviantArt](rpg-maker-tileset-for-jade-springs-thedeadheroalistair/) — TheDeadHeroAlistair
-- [Sazanami Town Tiles by UltimoSpriter on DeviantArt](sazanami-town-tiles-ultimospriter/) — UltimoSpriter
-- [Schoolhouse Exterior](schoolhouse-exterior-ekat99/) — Ekat99
-- [Sheridan Homes Pokmon Rejuvation](sheridan-homes-pokmon-rejuvation-ekat99/) — Ekat99
-- [Shrine Tiles by PeekyChew on DeviantArt](shrine-tiles-peekychew/) — PeekyChew
-- [Skyscraper Tiles 01 by J-Treecko252 on DeviantArt](skyscraper-tiles-01-j-treecko252/) — J-Treecko252
-- [Slaking Motel by KingTapir on DeviantArt](slaking-motel-kingtapir/) — KingTapir
-- [Small Desert House by aveontrainer on DeviantArt](small-desert-house-aveontrainer/) — Aveontrainer
-- [Snow and Stone by Magiscarf on DeviantArt](snow-and-stone-magiscarf/) — Magiscarf
-- [Starting House (Galar Tile Dump #5) by KingTapir on DeviantArt](starting-house-galar-tile-dump-5-kingtapir/) — KingTapir
-- [Subterranean Suburbia](subterranean-suburbia-magiscarf/) — Magiscarf
-- [Terraces 2.0 by Magiscarf on DeviantArt](terraces-2-0-magiscarf/) — Magiscarf
-- [Terraces by Magiscarf on DeviantArt](terraces-magiscarf/) — Magiscarf
-- [Tiles Zeo by Zeo254 on DeviantArt](tiles-zeo-zeo254/) — Zeo254
-- [Tileset 2 by Lordkazeh on DeviantArt](tileset-2-lordkazeh/) — Lordkazeh
-- [tileset gba give credits. by Zeo254 on DeviantArt](tileset-gba-give-credits-zeo254/) — Zeo254
-- [TILESET GBA GIVE CREDITS. by Zeo254 on DeviantArt](tileset-gba-give-credits-zeo254-264/) — Zeo254
-- [Tileset Pokemon Resurgent by Zeo254 on DeviantArt](tileset-pokemon-resurgent-zeo254/) — Zeo254
-- [Traditional Japanese Building Tiles Mix by PeekyChew on DeviantArt](traditional-japanese-building-tiles-mix-peekychew/) — PeekyChew
-- [Traditional Japanese Mart by aveontrainer on DeviantArt](traditional-japanese-mart-aveontrainer/) — Aveontrainer
-- [Traditional Japanese Pokemon Center](traditional-japanese-pokemon-center-aveontrainer/) — Aveontrainer
-- [Train Station Tiles 01 by J-Treecko252 on DeviantArt](train-station-tiles-01-j-treecko252/) — J-Treecko252
-- [Trainer's School (Alola Tile Dump #6) by KingTapir on DeviantArt](trainer-s-school-alola-tile-dump-6-kingtapir/) — KingTapir
-- [Victorian Variations by Magiscarf on DeviantArt](victorian-variations-magiscarf/) — Magiscarf
-- [Viridian Mansion by Ekat99 on DeviantArt](viridian-mansion-ekat99/) — Ekat99
+- [\[Free\] Rustic Tiles w/ updates by Magiscarf on DeviantArt](free-rustic-tiles-w-updates-magiscarf/) by Magiscarf
+- [1950s House by Ekat99 on DeviantArt](1950s-house-ekat99/) by Ekat99
+- [A Frame Houses by Ekat99 on DeviantArt](a-frame-houses-ekat99/) by Ekat99
+- [Alola Tile Dump #1 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-1-check-description-kingtapir/) by KingTapir
+- [Alola Tile Dump #1-6 (Revamped) by KingTapir on DeviantArt](alola-tile-dump-1-6-revamped-kingtapir/) by KingTapir
+- [Alola Tile Dump #2 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-2-check-description-kingtapir/) by KingTapir
+- [Alola Tile Dump #4 (CHECK DESCRIPTION) by KingTapir on DeviantArt](alola-tile-dump-4-check-description-kingtapir/) by KingTapir
+- [Alola Tile Dump #7 by KingTapir on DeviantArt](alola-tile-dump-7-kingtapir/) by KingTapir
+- [Alola Tile Dump No Outlines](alola-tile-dump-no-outlines-kingtapir/) by KingTapir
+- [Apartment Building Tiles 01 by J-Treecko252 on DeviantArt](apartment-building-tiles-01-j-treecko252/) by J-Treecko252
+- [Beach Houses by Ekat99 on DeviantArt](beach-houses-ekat99/) by Ekat99
+- [Black City Tiles by UltimoSpriter on DeviantArt](black-city-tiles-ultimospriter/) by UltimoSpriter
+- [Brick House Tiles by Ekat99 on DeviantArt](brick-house-tiles-ekat99/) by Ekat99
+- [Building tiles: Custom Pokecenter Tiles 1 by madRVST on DeviantArt](building-tiles-custom-pokecenter-tiles-1-madrvst/) by madRVST
+- [Buildings Tiles w/ Snow by Magiscarf on DeviantArt](buildings-tiles-w-snow-magiscarf/) by Magiscarf
+- [Cable Car by Ekat99 on DeviantArt](cable-car-ekat99/) by Ekat99
+- [Cable Car Tileset](cable-car-tileset-tenshi-of-war/) by Tenshi Of War
+- [Chansey Hospital FRLG by pinkscales-DA on DeviantArt](chansey-hospital-frlg-pinkscales-da/) by pinkscales-DA
+- [Den of Souls Homes - Pokmon Rejuvation by Ekat99 on DeviantArt](den-of-souls-homes-pokmon-rejuvation-ekat99/) by Ekat99
+- [Desert House by aveontrainer on DeviantArt](desert-house-aveontrainer/) by Aveontrainer
+- [Dojo](dojo-kod-3r/) by KOD-3R
+- [DoT Day6 - Bridgeton Tileset by Phyromatical on DeviantArt](dot-day6-bridgeton-tileset-phyromatical/) by Phyromatical
+- [DoT Day7 - Random old things by Phyromatical on DeviantArt](dot-day7-random-old-things-phyromatical/) by Phyromatical
+- [DoT Day9 - BW2 Houses edites by Phyromatical on DeviantArt](dot-day9-bw2-houses-edites-phyromatical/) by Phyromatical
+- [Ecologic energy by KOD-3R on DeviantArt](ecologic-energy-kod-3r/) by KOD-3R
+- [Entry for the TOD contest](entry-for-the-tod-contest-mikejaj/) by MikeJAJ
+- [Exhibition Hall](exhibition-hall-beertierchen/) by Beertierchen
+- [Fall Harvest by Ekat99 on DeviantArt](fall-harvest-ekat99/) by Ekat99
+- [Farm Exterior Tileset by aveontrainer on DeviantArt](farm-exterior-tileset-aveontrainer/) by Aveontrainer
+- [Farming E](farming-e-skatefilter5/) by skatefilter5
+- [Fisherman's Hut Tileset by aveontrainer on DeviantArt](fisherman-s-hut-tileset-aveontrainer/) by Aveontrainer
+- [FRLG Celadon Mansion by CloudyDayJoy on DeviantArt](frlg-celadon-mansion-cloudydayjoy/) by CloudyDayJoy
+- [FRLG Custom Tilesets - Peaked Houses Update 1 by pinkscales-DA on DeviantArt](frlg-custom-tilesets-peaked-houses-update-1-pinkscales-da/) by pinkscales-DA
+- [FRLG style house by Magiscarf on DeviantArt](frlg-style-house-magiscarf/) by Magiscarf
+- [FRLG-styled tiles by spherical-ice on DeviantArt](frlg-styled-tiles-spherical-ice/) by Spherical-Ice
+- [Galar Tile Dump #1 by KingTapir on DeviantArt](galar-tile-dump-1-kingtapir/) by KingTapir
+- [Galar Tile Dump #10 (Station Exterior) by KingTapir on DeviantArt](galar-tile-dump-10-station-exterior-kingtapir/) by KingTapir
+- [Galar Tile Dump #3 by KingTapir on DeviantArt](galar-tile-dump-3-kingtapir/) by KingTapir
+- [Galar Tile Dump #6 (Isle of Armor Special) by KingTapir on DeviantArt](galar-tile-dump-6-isle-of-armor-special-kingtapir/) by KingTapir
+- [Garden House Exterior](garden-house-exterior-ekat99/) by Ekat99
+- [Garden House Sheet](garden-house-sheet-ekat99/) by Ekat99
+- [Gatehouse by Ekat99 on DeviantArt](gatehouse-ekat99/) by Ekat99
+- [Gen 3 Cathedral by Beertierchen on DeviantArt](gen-3-cathedral-beertierchen/) by Beertierchen
+- [Gen 3 Coastal City Tileset by Foxowl23 on DeviantArt](gen-3-coastal-city-tileset-by-foxowl23-foxowl25/) by Foxowl25
+- [Gen 3 Fancy Palace Tiles by Beertierchen on DeviantArt](gen-3-fancy-palace-tiles-beertierchen/) by Beertierchen
+- [Gen 3 Greenhouse Tileset by Foxowl23 on DeviantArt](gen-3-greenhouse-tileset-by-foxowl23-foxowl24/) by Foxowl24
+- [Gen 3 Luxurious Gatehouse tiles \[Free to use\] by Beertierchen on DeviantArt](gen-3-luxurious-gatehouse-tiles-free-to-use-beertierchen/) by Beertierchen
+- [Gen 3 Mall Shopping Center](gen-3-mall-shopping-center-beertierchen/) by Beertierchen
+- [Gen 3 Pokemon Center / Mart Tiles by Beertierchen on DeviantArt](gen-3-pokemon-center-mart-tiles-beertierchen/) by Beertierchen
+- [Gen 3 style Radio Tower and modified Pokemon Tower by Lo8jd on DeviantArt](gen-3-style-radio-tower-and-modified-pokemon-tower-lo8jd/) by Lo8jd
+- [General Pink Flower Buildings by Ekat99 on DeviantArt](general-pink-flower-buildings-ekat99/) by Ekat99
+- [General Store by Ekat99 on DeviantArt](general-store-ekat99/) by Ekat99
+- [Goldenleaf Homes - Pokmon Rejuvenation by Ekat99 on DeviantArt](goldenleaf-homes-pokmon-rejuvenation-ekat99/) by Ekat99
+- [Goldenrod City Tileset by UltimoSpriter on DeviantArt](goldenrod-city-tileset-ultimospriter/) by UltimoSpriter
+- [Grocery Tiles by Ekat99 on DeviantArt](grocery-tiles-ekat99/) by Ekat99
+- [Gym (Exterior) Tiles Ver.01 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-01-j-treecko252/) by J-Treecko252
+- [Gym (Exterior) Tiles Ver.02 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-02-j-treecko252/) by J-Treecko252
+- [Gym (Exterior) Tiles Ver.03 by J-Treecko252 on DeviantArt](gym-exterior-tiles-ver-03-j-treecko252/) by J-Treecko252
+- [Haunted Mansion Exterior by Ekat99 on DeviantArt](haunted-mansion-exterior-ekat99/) by Ekat99
+- [House 2](house-2-ditto209/) by ditto209
+- [House 3 by ditto209 on DeviantArt](house-3-ditto209/) by ditto209
+- [House Tile 2](house-tile-2-lordkazeh/) by Lordkazeh
+- [Lookout Station Exterior by Ekat99 on DeviantArt](lookout-station-exterior-ekat99/) by Ekat99
+- [Lusamine's Mansion (Alola Tile Dump #5) \[Updated\] by KingTapir on DeviantArt](lusamine-s-mansion-alola-tile-dump-5-updated-kingtapir/) by KingTapir
+- [Mansion by KOD-3R on DeviantArt](mansion-kod-3r/) by KOD-3R
+- [Mixed style CPs](mixed-style-cps-hek-el-grande/) by Hek-el-grande
+- [More Freebies by Magiscarf on DeviantArt](more-freebies-magiscarf/) by Magiscarf
+- [New House](new-house-kod-3r/) by KOD-3R
+- [New pallete :3 by Hek-el-grande on DeviantArt](new-pallete-3-hek-el-grande/) by Hek-el-grande
+- [Old Resort Exterior](old-resort-exterior-ekat99/) by Ekat99
+- [Other House](other-house-kod-3r/) by KOD-3R
+- [Outs by AdventurerAldo on DeviantArt](outs-adventureraldo/) by AdventurerAldo
+- [Outside Stuff](outside-stuff-skatefilter5/) by skatefilter5
+- [Pallet Town Tiles by Morlock-Liam on DeviantArt](pallet-town-tiles-morlock-liam/) by Morlock-Liam
+- [Pkmn league and statues by Hek-el-grande on DeviantArt](pkmn-league-and-statues-hek-el-grande/) by Hek-el-grande
+- [Players House](players-house-ditto209/) by ditto209
+- [Pointy Buildings](pointy-buildings-ekat99/) by Ekat99
+- [PokeCenter by aveontrainer on DeviantArt](pokecenter-aveontrainer/) by Aveontrainer
+- [PokeCenter by aveontrainer on DeviantArt](pokecenter-aveontrainer-201/) by Aveontrainer
+- [PokeMart by aveontrainer on DeviantArt](pokemart-aveontrainer/) by Aveontrainer
+- [Pokemon C3 Mt Moon Ground](pokemon-c3-mt-moon-ground-skatefilter5/) by skatefilter5
+- [Pokemon Center (Galar Tile Dump #4) by KingTapir on DeviantArt](pokemon-center-galar-tile-dump-4-kingtapir/) by KingTapir
+- [Pokemon Gyms Custom Tileset by LuiztheDarkMaster on DeviantArt](pokemon-gyms-custom-tileset-luizthedarkmaster/) by LuizTheDarkMaster
+- [Pokemon Halcyon - Dojo by Ekat99 on DeviantArt](pokemon-halcyon-dojo-ekat99/) by Ekat99
+- [Pokemon Lab by aveontrainer on DeviantArt](pokemon-lab-aveontrainer/) by Aveontrainer
+- [Pokemon Mansion tileset modification by Lo8jd on DeviantArt](pokemon-mansion-tileset-modification-lo8jd/) by Lo8jd
+- [Pokemon tile - modern house to age-old cottage by Anarlaurendil on DeviantArt](pokemon-tile-modern-house-to-age-old-cottage-anarlaurendil/) by Anarlaurendil
+- [Pokemon Tileset - GBA - Buildings by Ruurule on DeviantArt](pokemon-tileset-gba-buildings-ruurule/) by Ruurule
+- [Pokmon Center & Mart Buildings](pokmon-center-mart-buildings-ekat99/) by Ekat99
+- [Pond And Bridge by Ekat99 on DeviantArt](pond-and-bridge-ekat99/) by Ekat99
+- [PUBLIC TILES WITH CREDITS by Zeo254 on DeviantArt](public-tiles-with-credits-zeo254/) by Zeo254
+- [Remake - Old style, new Tile' (2) by The-Red-eX on DeviantArt](remake-old-style-new-tile-2-the-red-ex/) by The-Red-eX
+- [Remake - Old style, new Tile' (4) by The-Red-eX on DeviantArt](remake-old-style-new-tile-4-the-red-ex/) by The-Red-eX
+- [Remake - Old style, new Tile' (5) by The-Red-eX on DeviantArt](remake-old-style-new-tile-5-the-red-ex/) by The-Red-eX
+- [Residential Building FREE WITH CREDIT](residential-building-free-with-credit-ghha90/) by Ghha90
+- [Resort Buildings](resort-buildings-ditto209/) by ditto209
+- [Revised Apathy Houses by Ekat99 on DeviantArt](revised-apathy-houses-ekat99/) by Ekat99
+- [Route 4 Tiles by UltimoSpriter on DeviantArt](route-4-tiles-ultimospriter/) by UltimoSpriter
+- [RPG Maker Tileset for Jade Springs by TheDeadHeroAlistair on DeviantArt](rpg-maker-tileset-for-jade-springs-thedeadheroalistair/) by TheDeadHeroAlistair
+- [Sazanami Town Tiles by UltimoSpriter on DeviantArt](sazanami-town-tiles-ultimospriter/) by UltimoSpriter
+- [Schoolhouse Exterior](schoolhouse-exterior-ekat99/) by Ekat99
+- [Sheridan Homes Pokmon Rejuvation](sheridan-homes-pokmon-rejuvation-ekat99/) by Ekat99
+- [Shrine Tiles by PeekyChew on DeviantArt](shrine-tiles-peekychew/) by PeekyChew
+- [Skyscraper Tiles 01 by J-Treecko252 on DeviantArt](skyscraper-tiles-01-j-treecko252/) by J-Treecko252
+- [Slaking Motel by KingTapir on DeviantArt](slaking-motel-kingtapir/) by KingTapir
+- [Small Desert House by aveontrainer on DeviantArt](small-desert-house-aveontrainer/) by Aveontrainer
+- [Snow and Stone by Magiscarf on DeviantArt](snow-and-stone-magiscarf/) by Magiscarf
+- [Starting House (Galar Tile Dump #5) by KingTapir on DeviantArt](starting-house-galar-tile-dump-5-kingtapir/) by KingTapir
+- [Subterranean Suburbia](subterranean-suburbia-magiscarf/) by Magiscarf
+- [Terraces 2.0 by Magiscarf on DeviantArt](terraces-2-0-magiscarf/) by Magiscarf
+- [Terraces by Magiscarf on DeviantArt](terraces-magiscarf/) by Magiscarf
+- [Tiles Zeo by Zeo254 on DeviantArt](tiles-zeo-zeo254/) by Zeo254
+- [Tileset 2 by Lordkazeh on DeviantArt](tileset-2-lordkazeh/) by Lordkazeh
+- [tileset gba give credits. by Zeo254 on DeviantArt](tileset-gba-give-credits-zeo254/) by Zeo254
+- [TILESET GBA GIVE CREDITS. by Zeo254 on DeviantArt](tileset-gba-give-credits-zeo254-264/) by Zeo254
+- [Tileset Pokemon Resurgent by Zeo254 on DeviantArt](tileset-pokemon-resurgent-zeo254/) by Zeo254
+- [Traditional Japanese Building Tiles Mix by PeekyChew on DeviantArt](traditional-japanese-building-tiles-mix-peekychew/) by PeekyChew
+- [Traditional Japanese Mart by aveontrainer on DeviantArt](traditional-japanese-mart-aveontrainer/) by Aveontrainer
+- [Traditional Japanese Pokemon Center](traditional-japanese-pokemon-center-aveontrainer/) by Aveontrainer
+- [Train Station Tiles 01 by J-Treecko252 on DeviantArt](train-station-tiles-01-j-treecko252/) by J-Treecko252
+- [Trainer's School (Alola Tile Dump #6) by KingTapir on DeviantArt](trainer-s-school-alola-tile-dump-6-kingtapir/) by KingTapir
+- [Victorian Variations by Magiscarf on DeviantArt](victorian-variations-magiscarf/) by Magiscarf
+- [Viridian Mansion by Ekat99 on DeviantArt](viridian-mansion-ekat99/) by Ekat99

@@ -5,5 +5,5 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **2 tilesets**
 
-- [DoT Day23 - Alternate Volcano Tiles by Phyromatical on DeviantArt](dot-day23-alternate-volcano-tiles-phyromatical/) — Phyromatical
-- [Volcano Tiles by Ekat99 on DeviantArt](volcano-tiles-ekat99/) — Ekat99
+- [DoT Day23 - Alternate Volcano Tiles by Phyromatical on DeviantArt](dot-day23-alternate-volcano-tiles-phyromatical/) by Phyromatical
+- [Volcano Tiles by Ekat99 on DeviantArt](volcano-tiles-ekat99/) by Ekat99

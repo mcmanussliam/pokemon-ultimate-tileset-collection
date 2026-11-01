@@ -5,4 +5,4 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **1 tilesets**
 
-- [Pokemon Autotiles Unfinished](pokemon-autotiles-unfinished-skatefilter5/) — skatefilter5
+- [Pokemon Autotiles Unfinished](pokemon-autotiles-unfinished-skatefilter5/) by skatefilter5

@@ -5,45 +5,45 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **42 tilesets**
 
-- [DoT Day12 - Old Ways by Phyromatical on DeviantArt](dot-day12-old-ways-phyromatical/) — Phyromatical
-- [HGSS Tiles thing 1.0 by Nod3rator on DeviantArt](hgss-tiles-thing-1-0-nod3rator/) — Nod3rator
-- [New Soil](new-soil-hek-el-grande/) — Hek-el-grande
-- [Path Tiles EX - Add-Ons 01 by J-Treecko252 on DeviantArt](path-tiles-ex-add-ons-01-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Asphalt (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Asphalt (Transparent) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-transparent-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Cobbled Road (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-cobbled-road-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Dead Grass 01 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-01-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Dead Grass 02 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-02-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Dead Grass 03 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-03-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Heavily Worn Grass by J-Treecko252 on DeviantArt](path-tiles-ex-heavily-worn-grass-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Rocky by J-Treecko252 on DeviantArt](path-tiles-ex-rocky-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Sandstone Road by J-Treecko252 on DeviantArt](path-tiles-ex-sandstone-road-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - Stone Road (Snow) by J-Treecko252 on DeviantArt](path-tiles-ex-stone-road-snow-j-treecko252/) — J-Treecko252
-- [Path Tiles EX - White Sand by J-Treecko252 on DeviantArt](path-tiles-ex-white-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Add Ons 02](path-tiles-ex-add-ons-02-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Add Ons 03](path-tiles-ex-add-ons-03-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Asphalt Grass](path-tiles-ex-asphalt-grass-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Asphalt Snow](path-tiles-ex-asphalt-snow-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Cobbled Road](path-tiles-ex-cobbled-road-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Cobbled Road Grass](path-tiles-ex-cobbled-road-grass-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Cobbled Road Snow](path-tiles-ex-cobbled-road-snow-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Compacted Sand](path-tiles-ex-compacted-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Compacted Snow](path-tiles-ex-compacted-snow-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Concrete Grass](path-tiles-ex-concrete-grass-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Concrete Sand](path-tiles-ex-concrete-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Concrete Snow](path-tiles-ex-concrete-snow-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Dark Sand](path-tiles-ex-dark-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Dirt](path-tiles-ex-dirt-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Gravel](path-tiles-ex-gravel-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Haunted Woods Trail](path-tiles-ex-haunted-woods-trail-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Sand](path-tiles-ex-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Stone](path-tiles-ex-stone-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Stone Road](path-tiles-ex-stone-road-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Stone Road Grass](path-tiles-ex-stone-road-grass-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Stone Road Sand](path-tiles-ex-stone-road-sand-j-treecko252/) — J-Treecko252
-- [Path Tiles EX Worn Gras](path-tiles-ex-worn-gras-j-treecko252/) — J-Treecko252
-- [Paved stone path - Tileset by Anarlaurendil on DeviantArt](paved-stone-path-tileset-anarlaurendil/) — Anarlaurendil
-- [Pokemon A1 Mt Moon Ground by skatefilter5 on DeviantArt](pokemon-a1-mt-moon-ground-skatefilter5/) — skatefilter5
-- [Pokemon A1 Neutral Ground](pokemon-a1-neutral-ground-skatefilter5/) — skatefilter5
-- [Tileset 10000 Views by ChaoticCherryCake on DeviantArt](tileset-10000-views-chaoticcherrycake/) — ChaoticCherryCake
-- [Various Outside Tiles by pinkscales-DA on DeviantArt](various-outside-tiles-pinkscales-da/) — pinkscales-DA
+- [DoT Day12 - Old Ways by Phyromatical on DeviantArt](dot-day12-old-ways-phyromatical/) by Phyromatical
+- [HGSS Tiles thing 1.0 by Nod3rator on DeviantArt](hgss-tiles-thing-1-0-nod3rator/) by Nod3rator
+- [New Soil](new-soil-hek-el-grande/) by Hek-el-grande
+- [Path Tiles EX - Add-Ons 01 by J-Treecko252 on DeviantArt](path-tiles-ex-add-ons-01-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Asphalt (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Asphalt (Transparent) by J-Treecko252 on DeviantArt](path-tiles-ex-asphalt-transparent-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Cobbled Road (Sand) by J-Treecko252 on DeviantArt](path-tiles-ex-cobbled-road-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Dead Grass 01 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-01-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Dead Grass 02 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-02-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Dead Grass 03 by J-Treecko252 on DeviantArt](path-tiles-ex-dead-grass-03-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Heavily Worn Grass by J-Treecko252 on DeviantArt](path-tiles-ex-heavily-worn-grass-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Rocky by J-Treecko252 on DeviantArt](path-tiles-ex-rocky-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Sandstone Road by J-Treecko252 on DeviantArt](path-tiles-ex-sandstone-road-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - Stone Road (Snow) by J-Treecko252 on DeviantArt](path-tiles-ex-stone-road-snow-j-treecko252/) by J-Treecko252
+- [Path Tiles EX - White Sand by J-Treecko252 on DeviantArt](path-tiles-ex-white-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Add Ons 02](path-tiles-ex-add-ons-02-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Add Ons 03](path-tiles-ex-add-ons-03-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Asphalt Grass](path-tiles-ex-asphalt-grass-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Asphalt Snow](path-tiles-ex-asphalt-snow-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Cobbled Road](path-tiles-ex-cobbled-road-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Cobbled Road Grass](path-tiles-ex-cobbled-road-grass-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Cobbled Road Snow](path-tiles-ex-cobbled-road-snow-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Compacted Sand](path-tiles-ex-compacted-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Compacted Snow](path-tiles-ex-compacted-snow-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Concrete Grass](path-tiles-ex-concrete-grass-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Concrete Sand](path-tiles-ex-concrete-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Concrete Snow](path-tiles-ex-concrete-snow-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Dark Sand](path-tiles-ex-dark-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Dirt](path-tiles-ex-dirt-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Gravel](path-tiles-ex-gravel-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Haunted Woods Trail](path-tiles-ex-haunted-woods-trail-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Sand](path-tiles-ex-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Stone](path-tiles-ex-stone-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Stone Road](path-tiles-ex-stone-road-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Stone Road Grass](path-tiles-ex-stone-road-grass-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Stone Road Sand](path-tiles-ex-stone-road-sand-j-treecko252/) by J-Treecko252
+- [Path Tiles EX Worn Gras](path-tiles-ex-worn-gras-j-treecko252/) by J-Treecko252
+- [Paved stone path - Tileset by Anarlaurendil on DeviantArt](paved-stone-path-tileset-anarlaurendil/) by Anarlaurendil
+- [Pokemon A1 Mt Moon Ground by skatefilter5 on DeviantArt](pokemon-a1-mt-moon-ground-skatefilter5/) by skatefilter5
+- [Pokemon A1 Neutral Ground](pokemon-a1-neutral-ground-skatefilter5/) by skatefilter5
+- [Tileset 10000 Views by ChaoticCherryCake on DeviantArt](tileset-10000-views-chaoticcherrycake/) by ChaoticCherryCake
+- [Various Outside Tiles by pinkscales-DA on DeviantArt](various-outside-tiles-pinkscales-da/) by pinkscales-DA

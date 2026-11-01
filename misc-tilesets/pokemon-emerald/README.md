@@ -5,4 +5,4 @@ Tilesets from **misc tilesets**. [Original sheet](https://docs.google.com/spread
 
 **1 tilesets**
 
-- [Game Boy Advance - Pokémon Emerald - Moving Truck - The Spriters Resource](game-boy-advance-pokemon-emerald-moving-truck-previous/) — Previous
+- [Game Boy Advance - Pokémon Emerald - Moving Truck - The Spriters Resource](game-boy-advance-pokemon-emerald-moving-truck-previous/) by Previous

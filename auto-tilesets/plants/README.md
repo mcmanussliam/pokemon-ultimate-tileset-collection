@@ -5,5 +5,5 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **2 tilesets**
 
-- [m Autotiles](m-autotiles-skatefilter5/) — skatefilter5
-- [Tiles - Flower Autotile Pack \| Eevee Expo](tiles-flower-autotile-pack-ignathiusnzx/) — IgnathiusNZX
+- [m Autotiles](m-autotiles-skatefilter5/) by skatefilter5
+- [Tiles - Flower Autotile Pack \| Eevee Expo](tiles-flower-autotile-pack-ignathiusnzx/) by IgnathiusNZX

@@ -5,6 +5,6 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **3 tilesets**
 
-- [Distortion World - Tileset \| Eevee Expo](distortion-world-tileset-cinnayva/) — CinnaYva
-- [DoT Day21 - Distortion World Remake Tiles by Phyromatical on DeviantArt](dot-day21-distortion-world-remake-tiles-phyromatical/) — Phyromatical
-- [Moon Base Tileset](moon-base-tileset-evan/) — Evan
+- [Distortion World - Tileset \| Eevee Expo](distortion-world-tileset-cinnayva/) by CinnaYva
+- [DoT Day21 - Distortion World Remake Tiles by Phyromatical on DeviantArt](dot-day21-distortion-world-remake-tiles-phyromatical/) by Phyromatical
+- [Moon Base Tileset](moon-base-tileset-evan/) by Evan

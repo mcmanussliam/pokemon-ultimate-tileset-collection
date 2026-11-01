@@ -5,11 +5,11 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **8 tilesets**
 
-- [Aether Tileset (Alola Tile Dump #7) by KingTapir on DeviantArt](aether-tileset-alola-tile-dump-7-kingtapir/) — KingTapir
-- [Flurmimons Tileset - Caves by Flurmimon on DeviantArt](flurmimons-tileset-caves-flurmimon/) — Flurmimon
-- [Galar Tile Dump #8 (Master Dojo) by KingTapir on DeviantArt](galar-tile-dump-8-master-dojo-kingtapir/) — KingTapir
-- [Land Meets Sea Expansion Set by UltimoSpriter on DeviantArt](land-meets-sea-expansion-set-ultimospriter/) — UltimoSpriter
-- [Pokemon Labyrinth Resource Pack](pokemon-labyrinth-resource-pack-aldo/) — Aldo
-- [Revamped Tiles by Magiscarf on DeviantArt](revamped-tiles-magiscarf/) — Magiscarf
-- [Scraps and Old Stuff](scraps-and-old-stuff-thedeadheroalistair/) — TheDeadHeroAlistair
-- [Tileset ver.3 \[Free\*\] by Magiscarf on DeviantArt](tileset-ver-3-free-magiscarf/) — Magiscarf
+- [Aether Tileset (Alola Tile Dump #7) by KingTapir on DeviantArt](aether-tileset-alola-tile-dump-7-kingtapir/) by KingTapir
+- [Flurmimons Tileset - Caves by Flurmimon on DeviantArt](flurmimons-tileset-caves-flurmimon/) by Flurmimon
+- [Galar Tile Dump #8 (Master Dojo) by KingTapir on DeviantArt](galar-tile-dump-8-master-dojo-kingtapir/) by KingTapir
+- [Land Meets Sea Expansion Set by UltimoSpriter on DeviantArt](land-meets-sea-expansion-set-ultimospriter/) by UltimoSpriter
+- [Pokemon Labyrinth Resource Pack](pokemon-labyrinth-resource-pack-aldo/) by Aldo
+- [Revamped Tiles by Magiscarf on DeviantArt](revamped-tiles-magiscarf/) by Magiscarf
+- [Scraps and Old Stuff](scraps-and-old-stuff-thedeadheroalistair/) by TheDeadHeroAlistair
+- [Tileset ver.3 \[Free\*\] by Magiscarf on DeviantArt](tileset-ver-3-free-magiscarf/) by Magiscarf

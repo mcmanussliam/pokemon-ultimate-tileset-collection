@@ -5,4 +5,4 @@ Tilesets from **auto tilesets**. [Original sheet](https://docs.google.com/spread
 
 **1 tilesets**
 
-- [Gen 3 Lava Autotile - Flowing, Static, Lava-fall \| Eevee Expo](gen-3-lava-autotile-flowing-static-lava-fall-cinnayva/) — CinnaYva
+- [Gen 3 Lava Autotile - Flowing, Static, Lava-fall \| Eevee Expo](gen-3-lava-autotile-flowing-static-lava-fall-cinnayva/) by CinnaYva

@@ -5,4 +5,4 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **1 tilesets**
 
-- [Pokemon Ultra Sun and Moon - Melemele Island Tiles by Morlock-Liam on DeviantArt](pokemon-ultra-sun-and-moon-melemele-island-tiles-morlock-liam/) — Morlock-Liam
+- [Pokemon Ultra Sun and Moon - Melemele Island Tiles by Morlock-Liam on DeviantArt](pokemon-ultra-sun-and-moon-melemele-island-tiles-morlock-liam/) by Morlock-Liam

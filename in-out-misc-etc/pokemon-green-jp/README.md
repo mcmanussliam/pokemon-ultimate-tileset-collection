@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Game Boy / GBC - Pokémon Green (JPN) - Tileset - The Spriters Resource](game-boy-gbc-pokemon-green-jpn-tileset-frenchorange/) — FrenchOrange
+- [Game Boy / GBC - Pokémon Green (JPN) - Tileset - The Spriters Resource](game-boy-gbc-pokemon-green-jpn-tileset-frenchorange/) by FrenchOrange

@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Game Boy / GBC - Pokémon Yellow - Tileset - The Spriters Resource](game-boy-gbc-pokemon-yellow-tileset-frenchorange/) — FrenchOrange
+- [Game Boy / GBC - Pokémon Yellow - Tileset - The Spriters Resource](game-boy-gbc-pokemon-yellow-tileset-frenchorange/) by FrenchOrange

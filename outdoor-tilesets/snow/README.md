@@ -5,11 +5,11 @@ Tilesets from **outdoor tilesets**. [Original sheet](https://docs.google.com/spr
 
 **8 tilesets**
 
-- [DoT Day13 - Onset of Winter-tiles by Phyromatical on DeviantArt](dot-day13-onset-of-winter-tiles-phyromatical/) — Phyromatical
-- [Gen 3 Snow Tileset - Update \| Eevee Expo](gen-3-snow-tileset-update-cinnayva/) — CinnaYva
-- [Gen 3 Snowpoint Temple and Snow Tiles by Ekat99 on DeviantArt](gen-3-snowpoint-temple-and-snow-tiles-ekat99/) — Ekat99
-- [Pokemon Halcyon - Snowy Train Outdoors by Ekat99 on DeviantArt](pokemon-halcyon-snowy-train-outdoors-ekat99/) — Ekat99
-- [Public Tileset Dump 1/4 - Snow by PeekyChew on DeviantArt](public-tileset-dump-1-4-snow-peekychew/) — PeekyChew
-- [Snowpoint Outskirt Tiles by KingTapir on DeviantArt](snowpoint-outskirt-tiles-kingtapir/) — KingTapir
-- [Tons of Tileset 5/10 - Cool Gaia Tiles by Phyromatical on DeviantArt](tons-of-tileset-5-10-cool-gaia-tiles-phyromatical/) — Phyromatical
-- [Tons of Tileset 8/10 - Ice Floe Tileset by Phyromatical on DeviantArt](tons-of-tileset-8-10-ice-floe-tileset-phyromatical/) — Phyromatical
+- [DoT Day13 - Onset of Winter-tiles by Phyromatical on DeviantArt](dot-day13-onset-of-winter-tiles-phyromatical/) by Phyromatical
+- [Gen 3 Snow Tileset - Update \| Eevee Expo](gen-3-snow-tileset-update-cinnayva/) by CinnaYva
+- [Gen 3 Snowpoint Temple and Snow Tiles by Ekat99 on DeviantArt](gen-3-snowpoint-temple-and-snow-tiles-ekat99/) by Ekat99
+- [Pokemon Halcyon - Snowy Train Outdoors by Ekat99 on DeviantArt](pokemon-halcyon-snowy-train-outdoors-ekat99/) by Ekat99
+- [Public Tileset Dump 1/4 - Snow by PeekyChew on DeviantArt](public-tileset-dump-1-4-snow-peekychew/) by PeekyChew
+- [Snowpoint Outskirt Tiles by KingTapir on DeviantArt](snowpoint-outskirt-tiles-kingtapir/) by KingTapir
+- [Tons of Tileset 5/10 - Cool Gaia Tiles by Phyromatical on DeviantArt](tons-of-tileset-5-10-cool-gaia-tiles-phyromatical/) by Phyromatical
+- [Tons of Tileset 8/10 - Ice Floe Tileset by Phyromatical on DeviantArt](tons-of-tileset-8-10-ice-floe-tileset-phyromatical/) by Phyromatical

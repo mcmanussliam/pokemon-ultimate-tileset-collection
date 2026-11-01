@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Pokemon Primal Tileset by dirtywiggles on DeviantArt](pokemon-primal-tileset-dirtywiggles/) — dirtywiggles
+- [Pokemon Primal Tileset by dirtywiggles on DeviantArt](pokemon-primal-tileset-dirtywiggles/) by dirtywiggles

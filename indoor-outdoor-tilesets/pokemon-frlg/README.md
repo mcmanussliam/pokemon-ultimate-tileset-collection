@@ -5,5 +5,5 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **2 tilesets**
 
-- [Game Boy Advance - Pokémon FireRed / LeafGreen - Tileset 2 - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-tileset-2-fabnt/) — fabnt
-- [Revamped FRLG Tileset](revamped-frlg-tileset-frog/) — Frog
+- [Game Boy Advance - Pokémon FireRed / LeafGreen - Tileset 2 - The Spriters Resource](game-boy-advance-pokemon-firered-leafgreen-tileset-2-fabnt/) by fabnt
+- [Revamped FRLG Tileset](revamped-frlg-tileset-frog/) by Frog

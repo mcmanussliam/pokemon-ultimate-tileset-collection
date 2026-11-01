@@ -5,8 +5,8 @@ Tilesets from **indoor outdoor tilesets**. [Original sheet](https://docs.google.
 
 **5 tilesets**
 
-- [Costal Cave by Ekat99 on DeviantArt](costal-cave-ekat99/) — Ekat99
-- [Crystal Caves Tiles by Magiscarf on DeviantArt](crystal-caves-tiles-magiscarf/) — Magiscarf
-- [DoT Day17 - Evolina Ice Cave by Phyromatical on DeviantArt](dot-day17-evolina-ice-cave-phyromatical/) — Phyromatical
-- [DoT Day19 - Mixed Cave-Tileset by Phyromatical on DeviantArt](dot-day19-mixed-cave-tileset-phyromatical/) — Phyromatical
-- [Lava and Cave Tileset by PeekyChew on DeviantArt](lava-and-cave-tileset-peekychew/) — PeekyChew
+- [Costal Cave by Ekat99 on DeviantArt](costal-cave-ekat99/) by Ekat99
+- [Crystal Caves Tiles by Magiscarf on DeviantArt](crystal-caves-tiles-magiscarf/) by Magiscarf
+- [DoT Day17 - Evolina Ice Cave by Phyromatical on DeviantArt](dot-day17-evolina-ice-cave-phyromatical/) by Phyromatical
+- [DoT Day19 - Mixed Cave-Tileset by Phyromatical on DeviantArt](dot-day19-mixed-cave-tileset-phyromatical/) by Phyromatical
+- [Lava and Cave Tileset by PeekyChew on DeviantArt](lava-and-cave-tileset-peekychew/) by PeekyChew

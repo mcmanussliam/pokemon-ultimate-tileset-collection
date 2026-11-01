@@ -5,15 +5,15 @@ Browsable version of the [original source spreadsheet](https://docs.google.com/s
 
 **28 tilesets in 12 subcategories**
 
-- [buildings](buildings/) — 2 tilesets
-- [caves](caves/) — 5 tilesets
-- [collections](collections/) — 8 tilesets
-- [forests](forests/) — 1 tilesets
-- [misc](misc/) — 3 tilesets
-- [mountains](mountains/) — 1 tilesets
-- [pokemon frlg](pokemon-frlg/) — 2 tilesets
-- [pokemon halcyon](pokemon-halcyon/) — 1 tilesets
-- [ruins](ruins/) — 1 tilesets
-- [snow](snow/) — 1 tilesets
-- [wall](wall/) — 1 tilesets
-- [water](water/) — 2 tilesets
+- [buildings](buildings/): 2 tilesets
+- [caves](caves/): 5 tilesets
+- [collections](collections/): 8 tilesets
+- [forests](forests/): 1 tilesets
+- [misc](misc/): 3 tilesets
+- [mountains](mountains/): 1 tilesets
+- [pokemon frlg](pokemon-frlg/): 2 tilesets
+- [pokemon halcyon](pokemon-halcyon/): 1 tilesets
+- [ruins](ruins/): 1 tilesets
+- [snow](snow/): 1 tilesets
+- [wall](wall/): 1 tilesets
+- [water](water/): 2 tilesets

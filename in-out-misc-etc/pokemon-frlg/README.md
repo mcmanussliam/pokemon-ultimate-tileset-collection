@@ -5,4 +5,4 @@ Tilesets from **in out misc etc**. [Original sheet](https://docs.google.com/spre
 
 **1 tilesets**
 
-- [Abandoned Ship FRLG](abandoned-ship-frlg-avatar/) — Avatar
+- [Abandoned Ship FRLG](abandoned-ship-frlg-avatar/) by Avatar
