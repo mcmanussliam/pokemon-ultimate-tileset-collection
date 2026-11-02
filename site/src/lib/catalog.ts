@@ -66,7 +66,7 @@ export const defaults: Filters = {
   generation: "all",
   artist: "all",
   sort: "title",
-  layout: "grid",
+  layout: "list",
 };
 const keys: Record<keyof Filters, string> = {
   search: "q",
@@ -84,7 +84,7 @@ export function readFilters(search: string): Filters {
     f[k] = p.get(keys[k]) || defaults[k];
   if (!GROUPS.some(([key]) => key === f.category)) f.category = "all";
   if (!["title", "artist"].includes(f.sort)) f.sort = "title";
-  if (!["grid", "list"].includes(f.layout)) f.layout = "grid";
+  if (!["grid", "list"].includes(f.layout)) f.layout = "list";
   return f;
 }
 export function filterQuery(f: Filters, tile = "") {

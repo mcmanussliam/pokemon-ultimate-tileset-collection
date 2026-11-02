@@ -9,16 +9,11 @@ import {
   ExternalLink,
   FolderOpen,
   Grid2X2,
-  Layers,
   List,
   Search,
-  SlidersHorizontal,
-  Trees,
-  Users,
   X,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import {
@@ -57,9 +52,6 @@ import {
 } from "@/lib/catalog";
 import "./style.css";
 
-const artists = [
-  ...new Set(entries.map((e) => e.artist).filter(Boolean)),
-].sort();
 const options = (list: string[]) => [...new Set(list.filter(Boolean))].sort();
 function Filter({
   name,
@@ -105,10 +97,6 @@ function TileCard({
   return (
     <Card className={"tile-card " + layout}>
       <CardContent className="tile-content">
-        <div className="tile-badges">
-          <Badge variant="secondary">{label(entry.subcategory)}</Badge>
-          {entry.generation && <span>{entry.generation}</span>}
-        </div>
         <h3>
           <button onClick={() => onOpen(entry)}>
             {cleanTitle(entry.title)}
@@ -124,7 +112,10 @@ function TileCard({
           <p className="entry-summary">{details[entry.source_url].excerpt}</p>
         )}
         <div className="tile-bottom">
-          <span>{credit(entry)}</span>
+          <span>
+            {label(entry.subcategory)}
+            {entry.generation ? " · " + entry.generation : ""}
+          </span>
           {safeLink(entry.source_url) && (
             <a
               href={safeLink(entry.source_url)}
@@ -322,20 +313,17 @@ function App() {
         Skip to collection
       </a>
       <header className="site-header">
-        <a className="brand" href={import.meta.env.BASE_URL}>
-          <span className="brand-icon">
-            <Layers size={21} />
-          </span>
-          <span>
-            ULTIMATE TILESET
-            <span className="brand-sub">THE COMMUNITY COLLECTION</span>
-          </span>
-        </a>
-        <nav aria-label="Main navigation">
-          <a href={SHEET} target="_blank" rel="noreferrer">
-            Original spreadsheet <ArrowUpRight size={14} />
-          </a>
-          <Button variant="outline" size="sm" asChild>
+        <h1>Pokémon Ultimate Tileset Collection</h1>
+        <p>
+          {entries.length} tilesets. Browse by artist, category and generation.
+        </p>
+        <nav aria-label="Source links">
+          <Button asChild variant="outline" size="sm">
+            <a href={SHEET} target="_blank" rel="noreferrer">
+              Original spreadsheet <ArrowUpRight size={14} />
+            </a>
+          </Button>
+          <Button asChild variant="outline" size="sm">
             <a href={REPO} target="_blank" rel="noreferrer">
               GitHub <ArrowUpRight size={14} />
             </a>
@@ -343,58 +331,13 @@ function App() {
         </nav>
       </header>
       <main className="page-shell">
-        <section className="hero">
-          <div>
-            <div className="eyebrow">
-              <span className="status-dot" /> A world of possibilities, one tile
-              at a time
-            </div>
-            <h1>
-              Your next world
-              <br />
-              starts <em>here.</em>
-            </h1>
-            <p>
-              Explore the Pokémon Ultimate Tileset Collection.
-              <br className="desktop-break" /> Find the right textures,
-              buildings, and little details for your next adventure.
-            </p>
-            <a className="browse-link" href="#collection">
-              Explore the collection <span>↓</span>
-            </a>
-          </div>
-          <div className="hero-art">
-            <img
-              src={import.meta.env.BASE_URL + "banner.png"}
-              alt="Original Ultimate Tileset Collection version 5.0.0 banner"
-            />
-            <span>Made by artists. Collected for creators.</span>
-          </div>
-        </section>
-        <section className="collection-stats" aria-label="Collection overview">
-          <div>
-            <Layers />
-            <strong>{entries.length}</strong>
-            <span>Tilesets to explore</span>
-          </div>
-          <div>
-            <Users />
-            <strong>{artists.length}</strong>
-            <span>Artists & submitters</span>
-          </div>
-          <div>
-            <Grid2X2 />
-            <strong>{GROUPS.length - 1}</strong>
-            <span>Categories</span>
-          </div>
-        </section>
         <section id="collection" className="collection">
           <aside className="sidebar">
-            <div className="sidebar-heading">THE COLLECTION</div>
+            <div className="sidebar-heading">Categories</div>
             <nav aria-label="Tileset categories">
-              {GROUPS.map(([id, name], i) => (
+              {GROUPS.map(([id, name]) => (
                 <Button
-                  variant="ghost"
+                  variant={filters.category === id ? "secondary" : "ghost"}
                   className={
                     "category " +
                     (filters.category === id ? "category-active" : "")
@@ -403,13 +346,6 @@ function App() {
                   aria-pressed={filters.category === id}
                   key={id}
                 >
-                  {i === 0 ? (
-                    <Grid2X2 size={17} />
-                  ) : i === 1 ? (
-                    <Trees size={17} />
-                  ) : (
-                    <Layers size={17} />
-                  )}
                   <span>{name}</span>
                   <small>
                     {id === "all"
@@ -424,9 +360,7 @@ function App() {
             <div className="section-top">
               <div className="section-title">
                 <h2>{GROUPS.find(([id]) => id === filters.category)?.[1]}</h2>
-                <p>Find a little inspiration for your next map.</p>
               </div>
-              <Badge variant="outline">Community curated</Badge>
             </div>
             <div className="search-wrap">
               <Search size={19} />
@@ -434,7 +368,7 @@ function App() {
                 type="search"
                 ref={searchRef}
                 aria-label="Search tilesets"
-                placeholder="Search tilesets, artists, or a detail like ‘forest’…"
+                placeholder="Search titles, artists and descriptions"
                 value={filters.search}
                 onChange={(e) => set("search", e.target.value)}
               />
@@ -465,8 +399,6 @@ function App() {
             </div>
             {changed && (
               <div className="active-filters">
-                <SlidersHorizontal size={14} />
-                <span>Filters applied</span>
                 <Button size="sm" variant="ghost" onClick={clear}>
                   Clear filters <X size={13} />
                 </Button>
@@ -557,9 +489,7 @@ function App() {
         </section>
       </main>
       <footer>
-        <span>
-          <Layers size={16} /> Pokémon Ultimate Tileset Collection
-        </span>
+        <span>Pokémon Ultimate Tileset Collection</span>
         <p>Unofficial index · Artwork belongs to its original artists.</p>
         <span>
           Catalogue synced{" "}
