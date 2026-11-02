@@ -2,4 +2,3 @@ node_modules/
 dist/
 .DS_Store
 *.tsbuildinfo
-site/public/previews/*.webp

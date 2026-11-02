@@ -30,10 +30,13 @@ jobs:
           node-version: "22"
 
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
+        run: npm ci --no-audit --no-fund
 
       - name: Type check
         run: npm run check
+
+      - name: Test viewer and preview data
+        run: npm test
 
       - name: Refresh tilesets, folders and READMEs from original sheet
         run: npm run sync
@@ -50,7 +53,7 @@ jobs:
             git push
           fi
 
-      - name: Build the TypeScript gallery
+      - name: Build the React gallery
         run: npm run build
 
       - name: Configure GitHub Pages
