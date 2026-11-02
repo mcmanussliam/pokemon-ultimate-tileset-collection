@@ -313,6 +313,13 @@ function App() {
         Skip to collection
       </a>
       <header className="site-header">
+        <img
+          className="collection-banner"
+          src={import.meta.env.BASE_URL + "banner.png"}
+          alt="Pokémon Ultimate Tileset Collection banner"
+          width={1200}
+          height={900}
+        />
         <h1>Pokémon Ultimate Tileset Collection</h1>
         <p>
           {entries.length} tilesets. Browse by artist, category and generation.
