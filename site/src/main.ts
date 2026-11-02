@@ -1,6 +1,7 @@
 import catalog from '../../_catalog/catalog.json';
 import enrichment from '../../_catalog/enrichment.json';
 import previews from '../public/previews/manifest.json';
+import remotePreviews from '../../_catalog/remote-previews.json';
 import './style.css';
 
 type Entry = {
@@ -12,6 +13,7 @@ const entries = catalog.entries as unknown as Entry[];
 type Extra = { excerpt?: string; source_title?: string; source_author?: string };
 const details = enrichment as Record<string, Extra>;
 const thumbnails = previews as Record<string, string>;
+const embeds = remotePreviews as Record<string, { url: string; checked_at: string }>;
 const COLLECTION = 'Pokémon Ultimate Tileset Collection';
 const REPO = 'https://github.com/mcmanussliam/pokemon-ultimate-tileset-collection';
 const SHEET = 'https://docs.google.com/spreadsheets/d/1hy3DqFFUu_H6Ddibr5evoqGW8aVSPHxSH6cZWuu9IR8/edit?gid=0#gid=0';
@@ -32,6 +34,7 @@ const state = {
   subcategory: params.get('type') || 'all',
   generation: params.get('gen') || 'all',
   layout: params.get('view') === 'grid' ? 'grid' : 'list',
+  previewsOnly: params.get('previews') === '1',
   page: 1,
 };
 let activeTile = params.get('tile') || '';
@@ -64,13 +67,24 @@ function pathFor(entry: Entry): string {
 }
 function imageFor(entry: Entry): string {
   const file = thumbnails[entry.folder];
-  return file && /^[a-z0-9-]+\.webp$/.test(file) ? import.meta.env.BASE_URL + 'previews/' + file : '';
+  if (file && /^[a-z0-9-]+\.webp$/.test(file)) return import.meta.env.BASE_URL + 'previews/' + file;
+  // Only embed image URLs that passed a live content-type check on trusted image hosts.
+  // Remote artwork is never copied into this repository without creator permission.
+  const remote = embeds[entry.source_url]?.url || '';
+  try {
+    const url = new URL(remote);
+    if (url.protocol === 'https:' && (url.hostname === 'i.imgur.com' || url.hostname === 'i.ibb.co') &&
+        /\.(png|jpe?g|gif|webp)$/i.test(url.pathname)) return remote;
+  } catch { /* No preview. */ }
+  return '';
 }
 function picture(entry: Entry, large = false): string {
   const image = imageFor(entry);
   if (!image) return '';
+  const external = image.startsWith('https://');
   return '<img class="preview-thumb' + (large ? ' preview-large' : '') + '" src="' +
-    text(image) + '" loading="lazy" decoding="async" alt="Artwork preview by ' + text(entry.artist) + '" />';
+    text(image) + '" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="Artwork preview by ' +
+    text(entry.artist) + '"' + (external ? ' title="Image served by the original image host"' : '') + ' />';
 }
 function categoryOptions() {
   return GROUPS.map(([key, name]) =>
@@ -96,11 +110,12 @@ function matches(): Entry[] {
     if (state.category !== 'all' && categoryOf(entry) !== state.category) return false;
     if (state.subcategory !== 'all' && entry.subcategory !== state.subcategory) return false;
     if (state.generation !== 'all' && entry.generation !== state.generation) return false;
+    if (state.previewsOnly && !imageFor(entry)) return false;
     const haystack = [entry.title, entry.artist, entry.category_1, entry.category_2,
       entry.generation, entry.subcategory, entry.sheet, details[entry.source_url]?.excerpt || ''].join(' ').toLocaleLowerCase();
     return words.every(word => haystack.includes(word));
   });
-  return selected.sort((a,b) => a.title.localeCompare(b.title));
+  return selected.sort((a,b) => Number(Boolean(imageFor(b))) - Number(Boolean(imageFor(a))) || a.title.localeCompare(b.title));
 }
 function credits(entry: Entry): string {
   return entry.credits.includes('☆') ? 'Credit required' : 'Check usage terms';
@@ -137,6 +152,7 @@ function updateUrl(): void {
   if (state.subcategory !== 'all') next.set('type', state.subcategory);
   if (state.generation !== 'all') next.set('gen', state.generation);
   if (state.layout === 'grid') next.set('view', 'grid');
+  if (state.previewsOnly) next.set('previews', '1');
   if (activeTile) next.set('tile', activeTile);
   history.replaceState(null, '', location.pathname + (next.size ? '?' + next.toString() : '') + location.hash);
 }
@@ -145,6 +161,8 @@ function render(reset = false) {
   $('categories').innerHTML = categoryOptions();
   $('view-list').classList.toggle('selected', state.layout === 'list');
   $('view-grid').classList.toggle('selected', state.layout === 'grid');
+  $('preview-filter').classList.toggle('selected', state.previewsOnly);
+  $('preview-filter').setAttribute('aria-pressed', String(state.previewsOnly));
   const result = matches(), pageSize = 48, shown = result.slice(0, state.page * pageSize);
   $('result-count').textContent = result.length + ' result' + (result.length === 1 ? '' : 's');
   $('results').className = state.layout === 'grid' ? 'results grid' : 'results list';
@@ -165,11 +183,12 @@ app.innerHTML = [
   '</div></section>',
   '<section class="browser" aria-label="Browse tilesets">',
   '<aside class="sidebar"><div class="side-heading">Categories</div><div id="categories" class="categories"></div>',
-  '<div class="aside-note">All credits and source links come from the original collection.</div></aside>',
+  '<div class="aside-note">All credits and source links come from the original collection. Some previews are embedded from external image hosts.</div></aside>',
   '<div class="main-content"><div class="toolbar">',
   '<label class="search"><span class="visually-hidden">Search tilesets</span><input id="query" type="search" placeholder="Search titles and artists" value="' + text(state.search) + '"/></label>',
   '<div class="filters"><label>Subcategory<select id="type"></select></label><label>Generation<select id="generation"></select></label></div></div>',
-  '<div class="result-tools"><div><strong id="result-count"></strong></div>',
+  '<div class="result-tools"><div><strong id="result-count"></strong>',
+  '<button id="preview-filter" class="preview-filter" type="button" aria-pressed="false">With previews (' + entries.filter(e => imageFor(e)).length + ')</button></div>',
   '<div class="view-tools">',
   '<div class="view-switch" role="group" aria-label="View"><button type="button" id="view-list" aria-label="List view">List</button>',
   '<button type="button" id="view-grid" aria-label="Grid view">Grid</button></div></div></div>',
@@ -199,6 +218,7 @@ $<HTMLSelectElement>('generation').addEventListener('change', event => {
 });
 $('view-list').addEventListener('click', () => { state.layout = 'list'; render(true); });
 $('view-grid').addEventListener('click', () => { state.layout = 'grid'; render(true); });
+$('preview-filter').addEventListener('click', () => { state.previewsOnly = !state.previewsOnly; render(true); });
 $('load-more').addEventListener('click', () => { state.page++; render(); });
 document.addEventListener('keydown', event => {
   if (event.key !== '/' || document.activeElement instanceof HTMLInputElement) return;
@@ -233,6 +253,14 @@ function showTile(id: string): void {
   if (!dialog.open) dialog.showModal();
   $('close-tile').addEventListener('click', () => dialog.close());
 }
+function hideBrokenImage(event: Event): void {
+  const target = event.target;
+  if (!(target instanceof HTMLImageElement) || !target.classList.contains('preview-thumb')) return;
+  target.closest('.entry-row')?.classList.remove('with-preview');
+  target.remove();
+}
+$('results').addEventListener('error', hideBrokenImage, true);
+dialog.addEventListener('error', hideBrokenImage, true);
 $('results').addEventListener('click', event => {
   const button = (event.target as HTMLElement).closest<HTMLButtonElement>('[data-entry]');
   if (button?.dataset.entry) showTile(button.dataset.entry);
