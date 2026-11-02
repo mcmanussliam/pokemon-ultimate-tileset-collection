@@ -16,11 +16,19 @@
       "node",
       "vite/client"
     ],
-    "noUncheckedIndexedAccess": false
+    "noUncheckedIndexedAccess": false,
+    "jsx": "react-jsx",
+    "paths": {
+      "@/*": [
+        "./site/src/*"
+      ]
+    }
   },
   "include": [
     "scripts/**/*.ts",
     "site/**/*.ts",
-    "vite.config.ts"
+    "vite.config.ts",
+    "site/**/*.tsx",
+    "tests/**/*.ts"
   ]
 }
