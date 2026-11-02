@@ -38,9 +38,6 @@ jobs:
       - name: Refresh tilesets, folders and READMEs from original sheet
         run: npm run sync
 
-      - name: Verify externally hosted artwork previews
-        run: npm run verify:previews
-
       - name: Commit refreshed metadata and folders
         run: |
           git config user.name "github-actions[bot]"

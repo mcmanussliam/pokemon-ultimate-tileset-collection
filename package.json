@@ -5,14 +5,12 @@
   "type": "module",
   "scripts": {
     "sync": "tsx scripts/sync.ts",
-    "build": "tsx scripts/prepare-previews.ts && vite build",
+    "build": "vite build",
     "check": "tsc --noEmit",
-    "enrich": "tsx scripts/enrich.ts",
-    "verify:previews": "tsx scripts/check-remote-previews.ts"
+    "enrich": "tsx scripts/enrich.ts"
   },
   "dependencies": {
-    "exceljs": "^4.4.0",
-    "sharp": "^0.34.4"
+    "exceljs": "^4.4.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",
