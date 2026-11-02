@@ -35,7 +35,7 @@ jobs:
       - name: Type check
         run: npm run check
 
-      - name: Test viewer and preview data
+      - name: Test catalogue browsing
         run: npm test
 
       - name: Refresh tilesets, folders and READMEs from original sheet

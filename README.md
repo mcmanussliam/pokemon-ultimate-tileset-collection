@@ -8,13 +8,13 @@ This is an **unofficial readability fork** of the [original Pokémon Ultimate Ti
 
 ## Credits and usage
 
-Each item links to its creator's original post and the source spreadsheet, with attribution and usage information as recorded in the sheet. The spreadsheet's noncommercial use notice does not imply permission to redistribute images. The viewer includes local artwork previews where a source image can be retrieved, and clearly identifies entries without one. Previews retain source attribution; consult the creator’s usage terms.
+Each item links to its creator's original post and the source spreadsheet, with attribution and usage information as recorded in the sheet. The spreadsheet's noncommercial use notice does not imply permission to redistribute images. The viewer is a text catalogue linking to the original artwork; image previews are currently disabled.
 
 Individual tilesets belong to their respective artists. Pokémon and related marks belong to their owners. Corrections, attribution changes and removal requests are welcome through GitHub issues.
 
 ## Viewer
 
-The viewer uses **React, TypeScript, Vite, Tailwind CSS and shadcn/ui**. Browse an image grid or compact list, search titles and source descriptions, and filter by category, type, generation, artist or preview availability. Open a tile for a larger preview with pixel zoom, background controls, attribution, local image download and a shareable entry link.
+The viewer uses **React, TypeScript, Vite, Tailwind CSS and shadcn/ui**. Browse text cards or a compact list, search titles and source descriptions, and filter by category, type, generation or artist. Open an entry for attribution, usage information, source links and a shareable entry link.
 
 ```sh
 npm ci
@@ -28,7 +28,3 @@ npm run build
 
 - `npm run sync` refreshes the catalogue and folders from the original spreadsheet.
 - `npm run enrich` refreshes source descriptions.
-- `npm run previews` downloads accessible artwork into the collection. Existing previews are reused, and ordinary builds work offline.
-- The **Download artwork previews** GitHub Actions workflow can be run manually to extend coverage.
-
-See [preview downloading and contribution details](docs/previews.md) and the [latest source coverage report](_catalog/preview-report.json). Missing previews never hide catalogue entries.

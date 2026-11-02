@@ -9,8 +9,6 @@ import {
   ExternalLink,
   FolderOpen,
   Grid2X2,
-  ImageOff,
-  Images,
   Layers,
   List,
   Search,
@@ -18,8 +16,6 @@ import {
   Trees,
   Users,
   X,
-  ZoomIn,
-  ZoomOut,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -50,7 +46,6 @@ import {
   folderLink,
   GROUPS,
   label,
-  previews,
   readFilters,
   REPO,
   results,
@@ -62,7 +57,6 @@ import {
 } from "@/lib/catalog";
 import "./style.css";
 
-const withPreview = entries.filter((e) => previews[e.source_url]).length;
 const artists = [
   ...new Set(entries.map((e) => e.artist).filter(Boolean)),
 ].sort();
@@ -99,56 +93,6 @@ function Filter({
     </label>
   );
 }
-function Artwork({
-  entry,
-  large = false,
-  zoom = 0,
-  background = "checker",
-}: {
-  entry: Entry;
-  large?: boolean;
-  zoom?: number;
-  background?: string;
-}) {
-  const preview = previews[entry.source_url];
-  const [failed, setFailed] = useState(false);
-  if (!preview || failed)
-    return (
-      <div className={"artwork-empty " + (large ? "large" : "")}>
-        <ImageOff size={large ? 32 : 24} />
-        <span>{failed ? "Preview could not load" : "No preview yet"}</span>
-        {large && <small>Open the original source to view this tileset.</small>}
-      </div>
-    );
-  return (
-    <div
-      className={
-        "artwork " +
-        (large ? "artwork-large " : "") +
-        "bg-" +
-        background +
-        (zoom ? " zoomed" : "")
-      }
-    >
-      <img
-        src={import.meta.env.BASE_URL + preview.file}
-        alt={cleanTitle(entry.title) + " — artwork by " + entry.artist}
-        loading={large ? "eager" : "lazy"}
-        decoding="async"
-        onError={() => setFailed(true)}
-        style={
-          zoom
-            ? {
-                width: preview.width * zoom,
-                maxWidth: "none",
-                maxHeight: "none",
-              }
-            : undefined
-        }
-      />
-    </div>
-  );
-}
 function TileCard({
   entry,
   onOpen,
@@ -160,18 +104,6 @@ function TileCard({
 }) {
   return (
     <Card className={"tile-card " + layout}>
-      <button
-        className="artwork-trigger"
-        onClick={() => onOpen(entry)}
-        aria-label={"Preview " + cleanTitle(entry.title)}
-      >
-        <Artwork entry={entry} />
-        {previews[entry.source_url] && (
-          <span className="preview-corner">
-            <ZoomIn size={14} /> Preview
-          </span>
-        )}
-      </button>
       <CardContent className="tile-content">
         <div className="tile-badges">
           <Badge variant="secondary">{label(entry.subcategory)}</Badge>
@@ -188,6 +120,9 @@ function TileCard({
             {entry.artist || "Unknown artist"}
           </button>
         </p>
+        {details[entry.source_url]?.excerpt && (
+          <p className="entry-summary">{details[entry.source_url].excerpt}</p>
+        )}
         <div className="tile-bottom">
           <span>{credit(entry)}</span>
           {safeLink(entry.source_url) && (
@@ -213,13 +148,9 @@ function TileDetails({
   onClose: () => void;
   restoreFocus: () => void;
 }) {
-  const [zoom, setZoom] = useState(0);
-  const [background, setBackground] = useState("checker");
   const [copied, setCopied] = useState(false);
   useEffect(() => {
     if (entry) {
-      setZoom(0);
-      setBackground("checker");
       setCopied(false);
     }
   }, [entry]);
@@ -258,78 +189,6 @@ function TileDetails({
               </DialogDescription>
             </DialogHeader>
             <div className="detail-layout">
-              <div className="preview-panel">
-                <div className="preview-tools">
-                  <span>
-                    {previews[entry.source_url]
-                      ? previews[entry.source_url].kind === "resource_thumbnail"
-                        ? "Source thumbnail"
-                        : "Artwork preview"
-                      : "Preview unavailable"}
-                  </span>
-                  {previews[entry.source_url] && (
-                    <div>
-                      <Button
-                        size="sm"
-                        variant="ghost"
-                        onClick={() => setZoom(0)}
-                        aria-pressed={zoom === 0}
-                      >
-                        Fit
-                      </Button>
-                      <Button
-                        variant="ghost"
-                        size="icon"
-                        aria-label="Zoom out"
-                        disabled={zoom === 0}
-                        onClick={() => setZoom((z) => (z <= 1 ? 0 : z - 1))}
-                      >
-                        <ZoomOut />
-                      </Button>
-                      <span>{zoom ? zoom + "×" : "Auto"}</span>
-                      <Button
-                        variant="ghost"
-                        size="icon"
-                        aria-label="Zoom in"
-                        disabled={zoom >= 4}
-                        onClick={() => setZoom((z) => z + 1)}
-                      >
-                        <ZoomIn />
-                      </Button>
-                    </div>
-                  )}
-                </div>
-                <Artwork
-                  key={entry.folder}
-                  entry={entry}
-                  large
-                  zoom={zoom}
-                  background={background}
-                />
-                {previews[entry.source_url] && (
-                  <div className="preview-caption">
-                    <span>
-                      {previews[entry.source_url].width} ×{" "}
-                      {previews[entry.source_url].height} px ·{" "}
-                      {previews[entry.source_url].kind === "resource_thumbnail"
-                        ? "Source thumbnail"
-                        : "Local preview"}
-                    </span>
-                    <label>
-                      Background{" "}
-                      <select
-                        value={background}
-                        onChange={(e) => setBackground(e.target.value)}
-                        aria-label="Preview background"
-                      >
-                        <option value="checker">Checkerboard</option>
-                        <option value="light">Light</option>
-                        <option value="dark">Dark</option>
-                      </select>
-                    </label>
-                  </div>
-                )}
-              </div>
               <aside className="detail-info">
                 {details[entry.source_url]?.excerpt && (
                   <p className="excerpt">{details[entry.source_url].excerpt}</p>
@@ -372,19 +231,6 @@ function TileDetails({
                     <FolderOpen size={16} /> Collection entry
                   </a>
                 </Button>
-                {previews[entry.source_url] && (
-                  <Button asChild variant="outline">
-                    <a
-                      href={
-                        import.meta.env.BASE_URL +
-                        previews[entry.source_url].file
-                      }
-                      download
-                    >
-                      <Images size={16} /> Download preview
-                    </a>
-                  </Button>
-                )}
                 <Button variant="ghost" onClick={copy}>
                   {copied ? <Check size={16} /> : <Copy size={16} />}{" "}
                   {copied ? "Link copied" : "Copy entry link"}
@@ -537,17 +383,10 @@ function App() {
             <span>Artists & submitters</span>
           </div>
           <div>
-            <Images />
-            <strong>{withPreview}</strong>
-            <span>Entries with local previews</span>
+            <Grid2X2 />
+            <strong>{GROUPS.length - 1}</strong>
+            <span>Categories</span>
           </div>
-          <a
-            href={REPO + "/blob/main/_catalog/preview-report.json"}
-            target="_blank"
-            rel="noreferrer"
-          >
-            Preview coverage <ArrowUpRight size={14} />
-          </a>
         </section>
         <section id="collection" className="collection">
           <aside className="sidebar">
@@ -580,21 +419,6 @@ function App() {
                 </Button>
               ))}
             </nav>
-            <div className="sidebar-note">
-              <Images size={20} />
-              <h3>See what you’re building.</h3>
-              <p>
-                Downloaded previews live with the collection. More are added as
-                sources become available.
-              </p>
-              <a
-                href={REPO + "/blob/main/docs/previews.md"}
-                target="_blank"
-                rel="noreferrer"
-              >
-                About previews <ArrowUpRight size={13} />
-              </a>
-            </div>
           </aside>
           <div className="collection-main">
             <div className="section-top">
@@ -638,22 +462,6 @@ function App() {
                 items={options(scope.map((e) => e.artist))}
                 onChange={(v) => set("artist", v)}
               />
-              <label className="filter-field">
-                <span>Images</span>
-                <Select
-                  value={filters.preview}
-                  onValueChange={(v) => set("preview", v)}
-                >
-                  <SelectTrigger aria-label="Images">
-                    <SelectValue />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="all">All entries</SelectItem>
-                    <SelectItem value="available">With previews</SelectItem>
-                    <SelectItem value="missing">Missing previews</SelectItem>
-                  </SelectContent>
-                </Select>
-              </label>
             </div>
             {changed && (
               <div className="active-filters">
@@ -683,7 +491,6 @@ function App() {
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="featured">Previews first</SelectItem>
                     <SelectItem value="title">Title A–Z</SelectItem>
                     <SelectItem value="artist">Artist A–Z</SelectItem>
                   </SelectContent>

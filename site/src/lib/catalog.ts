@@ -1,15 +1,6 @@
 import catalog from "../../../_catalog/catalog.json";
 import enrichment from "../../../_catalog/enrichment.json";
-import images from "../../../_catalog/previews.json";
 export type Entry = (typeof catalog.entries)[number];
-export type Preview = {
-  file: string;
-  image_url: string;
-  width: number;
-  height: number;
-  downloaded_at: string;
-  kind: "artwork" | "resource_thumbnail";
-};
 export type Extra = {
   excerpt?: string;
   source_title?: string;
@@ -17,7 +8,6 @@ export type Extra = {
 };
 export const entries: Entry[] = catalog.entries;
 export const details = enrichment as Record<string, Extra>;
-export const previews = images as Record<string, Preview>;
 export const syncedAt = catalog.last_synced;
 export const REPO =
   "https://github.com/mcmanussliam/pokemon-ultimate-tileset-collection";
@@ -66,7 +56,6 @@ export type Filters = {
   subcategory: string;
   generation: string;
   artist: string;
-  preview: string;
   sort: string;
   layout: string;
 };
@@ -76,8 +65,7 @@ export const defaults: Filters = {
   subcategory: "all",
   generation: "all",
   artist: "all",
-  preview: "all",
-  sort: "featured",
+  sort: "title",
   layout: "grid",
 };
 const keys: Record<keyof Filters, string> = {
@@ -86,7 +74,6 @@ const keys: Record<keyof Filters, string> = {
   subcategory: "type",
   generation: "gen",
   artist: "artist",
-  preview: "preview",
   sort: "sort",
   layout: "view",
 };
@@ -96,8 +83,7 @@ export function readFilters(search: string): Filters {
   for (const k of Object.keys(keys) as (keyof Filters)[])
     f[k] = p.get(keys[k]) || defaults[k];
   if (!GROUPS.some(([key]) => key === f.category)) f.category = "all";
-  if (!["all", "available", "missing"].includes(f.preview)) f.preview = "all";
-  if (!["featured", "title", "artist"].includes(f.sort)) f.sort = "featured";
+  if (!["title", "artist"].includes(f.sort)) f.sort = "title";
   if (!["grid", "list"].includes(f.layout)) f.layout = "grid";
   return f;
 }
@@ -113,8 +99,6 @@ export function matches(e: Entry, f: Filters) {
   if (f.subcategory !== "all" && e.subcategory !== f.subcategory) return false;
   if (f.generation !== "all" && e.generation !== f.generation) return false;
   if (f.artist !== "all" && e.artist !== f.artist) return false;
-  if (f.preview === "available" && !previews[e.source_url]) return false;
-  if (f.preview === "missing" && previews[e.source_url]) return false;
   const text = [
     e.title,
     e.artist,
@@ -138,11 +122,6 @@ export function results(f: Filters) {
   return entries
     .filter((e) => matches(e, f))
     .sort((a, b) => {
-      if (f.sort === "featured") {
-        const diff =
-          Number(!!previews[b.source_url]) - Number(!!previews[a.source_url]);
-        if (diff) return diff;
-      }
       if (f.sort === "artist") {
         const diff = a.artist.localeCompare(b.artist);
         if (diff) return diff;
